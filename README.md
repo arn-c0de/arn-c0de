@@ -14,18 +14,28 @@ Feel free to reach out with questions or just to chat.
 
 ## Tech Stack
 
-**Languages:** Kotlin · Python · C  
-**Platforms:** ESP32 · Raspberry Pi · IoT devices · Windows · Linux
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Focus Areas:** Home server architecture · Python backends · SDR · Wi-Fi security · Embedded systems · Flight simulation · Mobile & web apps
 
 ## Learning Roadmap
 
-Currently working toward:
 - C/C++ for Windows and low-level development
 - Secure architecture and code design
 - Defensive security and project hardening
 - Reverse engineering fundamentals
+
+## Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=arn-c0de&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arn-c0de&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
 
 ## Contact
 
