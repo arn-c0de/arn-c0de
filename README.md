@@ -16,6 +16,7 @@ Feel free to reach out with questions or just to chat.
 
 **Languages:** Kotlin · Python · C  
 **Platforms:** ESP32 · Raspberry Pi · IoT devices · Windows · Linux
+
 **Focus Areas:** Home server architecture · Python backends · SDR · Wi-Fi security · Embedded systems · Flight simulation · Mobile & web apps
 
 ## Learning Roadmap
