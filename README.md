@@ -1,16 +1,18 @@
 # Hi, I'm arn-c0de 👋
 
-Developer focused on embedded systems, security research, and backend development.
+Developer from **Germany** 🇩🇪 specializing in embedded systems, security research, and backend development.
+
+**Languages:** German (native) · English (fluent)
 
 ## About Me
 
-I'm currently learning and building across various projects—some public here on GitHub, others private or collaborative. My primary focus areas are **Kotlin**, **Python**, and **C**, with particular interest in ESP32 development, SDR radio, and Wi-Fi security tooling.
+I'm a hands-on developer working across multiple projects—some public on GitHub, others private or in collaboration. My main expertise includes **Kotlin**, **Python**, and **C**, with a strong focus on ESP32 development, SDR radio, and Wi-Fi security tools.
 
-Looking ahead, I'm planning to expand into **C/C++** for Windows UI and low-level programming, as well as **Rust**.
+Currently expanding my skill set into **C/C++** for Windows UI and low-level programming, as well as **Rust**.
 
-I'm always open to collaboration and value thoughtful discussions, fresh ideas, and different perspectives. Since I'm actively learning security, mistakes are part of the process—reporting issues and security flaws is welcome and encouraged.
+I value collaboration, open exchange of ideas, and continuous learning. As I'm actively developing my security expertise, I welcome feedback, bug reports, and constructive input.
 
-Feel free to reach out with questions or just to chat.
+Always happy to connect—feel free to reach out for questions, collaboration opportunities, or just a chat.
 
 ## Tech Stack
 
@@ -21,16 +23,17 @@ Feel free to reach out with questions or just to chat.
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Focus Areas:** Home server architecture · Python backends · SDR · Wi-Fi security · Embedded systems · Flight simulation · Mobile & web apps
+**Areas of Expertise:**  
+Home server architecture · Backend development with Python · Software-defined radio (SDR) · Wi-Fi security · Embedded systems · Flight simulation · Mobile & web applications
 
-## Learning Roadmap
+## Current Learning Focus
 
-- C/C++ for Windows and low-level development
-- Secure architecture and code design
-- Defensive security and project hardening
+- C/C++ for Windows development and low-level programming
+- Secure software architecture and design patterns
+- Defensive security practices and project hardening
 - Reverse engineering fundamentals
 
-## Stats
+## GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=arn-c0de&show_icons=true&theme=github_dark&hide_border=true" height="165" />
@@ -39,10 +42,11 @@ Feel free to reach out with questions or just to chat.
 
 ## Contact
 
-📫 **arn-c0de@protonmail.com** — for security-related issues, vulnerabilities, or sensitive bugs
+📫 **arn-c0de@protonmail.com** — for security issues, vulnerability reports, or sensitive bug disclosures
 
 For general bugs, feature requests, and project discussions, please use **GitHub Issues**.
 
 ---
 
-*Security-related projects are for educational and research purposes only.*
+*All security-related projects are strictly for educational and research purposes.*
+```
