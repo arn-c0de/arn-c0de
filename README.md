@@ -1,46 +1,37 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-### About Me
-- 🔭 I’m currently learning and working on various projects.  
-  Some are private GitHub repositories, others are public, and I also collaborate on private repositories.
+Developer focused on embedded systems, security research, and backend development.
 
-- 🌱 I’m currently learning **Kotlin**, **Python**, and **C** with a focus on **ESP32**, **SDR radio**, and **ESP32 Wi-Fi security tools** (private for now).  
-  In the future, I plan to learn **C/C++** for **Windows UI and low-level programming**, as well as **Rust**.
+## About Me
 
-- 🤝 I’m open to collaborating on a wide range of projects.
+I'm currently learning and building across various projects—some public here on GitHub, others private or collaborative. My primary focus areas are **Kotlin**, **Python**, and **C**, with particular interest in ESP32 development, SDR radio, and Wi-Fi security tooling.
 
-- 🤔 I value issue discussions, new ideas, and different perspectives.  
-  I’m currently learning security, so mistakes may happen — reporting issues and security flaws is welcome and encouraged.
+Looking ahead, I'm planning to expand into **C/C++** for Windows UI and low-level programming, as well as **Rust**.
 
-- 💬 Feel free to ask me anything. I’m always open to discussion.
+I'm always open to collaboration and value thoughtful discussions, fresh ideas, and different perspectives. Since I'm actively learning security, mistakes are part of the process—reporting issues and security flaws is welcome and encouraged.
 
----
+Feel free to reach out with questions or just to chat.
 
-### Tech Stack
-- **Languages:** Kotlin, Python, C (low-level)
-- **Embedded & IoT:** ESP32, Raspberry Pi, other IoT devices
-- **Topics & Projects:** Home server design and integration, Python backends, SDR, Wi-Fi Security, Embedded Systems, Flight Simulation, Mobile and Web Applications
+## Tech Stack
 
----
+**Languages:** Kotlin · Python · C  
+**Platforms:** ESP32 · Raspberry Pi · IoT devices  
+**Focus Areas:** Home server architecture · Python backends · SDR · Wi-Fi security · Embedded systems · Flight simulation · Mobile & web apps
 
-### Learning Roadmap
-- C / C++ (Windows, low-level)
-- Secure code and architecture design
-- Low-level pentesting (defensive, project hardening)
-- Reverse engineering basics
+## Learning Roadmap
 
----
+Currently working toward:
+- C/C++ for Windows and low-level development
+- Secure architecture and code design
+- Defensive security and project hardening
+- Reverse engineering fundamentals
 
-### Contact
-- 📫 Email: **arn-c0de@protonmail.com**  
-  (security-related issues, vulnerabilities, or sensitive bugs)
+## Contact
 
-- GitHub Issues preferred for:
-  - general bugs
-  - feature requests
-  - project-related discussions
+📫 **arn-c0de@protonmail.com** — for security-related issues, vulnerabilities, or sensitive bugs
+
+For general bugs, feature requests, and project discussions, please use **GitHub Issues**.
 
 ---
 
-### Disclaimer
-Projects related to security are for educational and research purposes only.
+*Security-related projects are for educational and research purposes only.*
