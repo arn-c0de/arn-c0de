@@ -1,16 +1,16 @@
 # Hi, I'm arn-c0de 👋
 
-Developer from **Germany** 🇩🇪 specializing in embedded systems, security research, and backend development.
+Developer from **Germany** 🇩🇪 with a focus on embedded systems, security research, and backend development.
 
 **Languages:** German (native) · English (fluent)
 
 ## About Me
 
-I'm a hands-on developer working across multiple projects—some public on GitHub, others private or in collaboration. My main expertise includes **Kotlin**, **Python**, and **C**, with a strong focus on ESP32 development, SDR radio, and Wi-Fi security tools.
+I'm a hands-on developer working across multiple projects—some public on GitHub, others private or in collaboration. I work mainly with **Kotlin**, **Python**, and **C**, with a focus on ESP32 development, SDR radio, and Wi-Fi security tools.
 
-Currently expanding my skill set into **C/C++** for Windows UI and low-level programming, as well as **Rust**.
+Currently expanding into **C/C++** for Windows UI and low-level programming, as well as **Rust**.
 
-I value collaboration, open exchange of ideas, and continuous learning. As I'm actively developing my security expertise, I welcome feedback, bug reports, and constructive input.
+I value collaboration, open exchange of ideas, and continuous learning. As I'm actively developing my security knowledge, I welcome feedback, bug reports, and constructive input.
 
 Always happy to connect—feel free to reach out for questions, collaboration opportunities, or just a chat.
 
@@ -23,8 +23,8 @@ Always happy to connect—feel free to reach out for questions, collaboration op
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Areas of Expertise:**  
-Home server architecture · Backend development with Python · Software-defined radio (SDR) · Wi-Fi security · Embedded systems · Flight simulation · Mobile & web applications
+**What I work on:**  
+Home server setups · Backend development with Python · Software-defined radio (SDR) · Wi-Fi security · Embedded systems · Flight simulation · Mobile & web applications
 
 ## Current Learning Focus
 
@@ -49,4 +49,3 @@ For general bugs, feature requests, and project discussions, please use **GitHub
 ---
 
 *All security-related projects are strictly for educational and research purposes.*
-```
