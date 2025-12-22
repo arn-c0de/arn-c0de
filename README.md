@@ -32,6 +32,7 @@ Home server setups · Backend development with Python · Software-defined radio 
 - Secure software architecture and design patterns
 - Defensive security practices and project hardening
 - Reverse engineering fundamentals
+- Application development and design
 
 ## GitHub Stats
 
