@@ -37,7 +37,7 @@ Home server setups · Backend development with Python · Software-defined radio 
 ## GitHub Stats
 
 <p>
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="arn-c0de's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />  </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=arn-c0de&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arn-c0de&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
