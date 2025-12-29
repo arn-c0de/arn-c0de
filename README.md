@@ -42,14 +42,14 @@ Always happy to connect—feel free to reach out for questions, collaboration op
 ---
 
 **What I work on:**  
-🏠 Home Server & Self-Hosting ·
+📱 Mobile & Web Applications ·
 🔧 Backend Development ·
-📡 Software-Defined Radio (SDR) ·
 🔐 Wi-Fi Security & Network Analysis ·
 ⚡ Embedded Systems & IoT ·
-✈️ Flight Simulation ·
-📱 Mobile & Web Applications ·
 🛠️ Automation & Scripting ·
+📡 Software-Defined Radio (SDR) ·
+🏠 Home Server & Self-Hosting ·
+✈️ Flight Simulation 
 
 ## Current Learning Focus
 
