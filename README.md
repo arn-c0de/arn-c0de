@@ -41,9 +41,6 @@ Always happy to connect—feel free to reach out for questions, collaboration op
 
 ---
 
-Soll ich das so in die README einbauen?
-Soll ich die direkt in deinen Tech Stack einfügen?
-
 **What I work on:**  
 Home server setups · Backend development with Python · Software-defined radio (SDR) · Wi-Fi security · Embedded systems · Flight simulation · Mobile & web applications
 
