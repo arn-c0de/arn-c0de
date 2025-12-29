@@ -42,7 +42,14 @@ Always happy to connect—feel free to reach out for questions, collaboration op
 ---
 
 **What I work on:**  
-Home server setups · Backend development with Python · Software-defined radio (SDR) · Wi-Fi security · Embedded systems · Flight simulation · Mobile & web applications
+🏠 Home Server & Self-Hosting ·
+🔧 Backend Development ·
+📡 Software-Defined Radio (SDR) ·
+🔐 Wi-Fi Security & Network Analysis ·
+⚡ Embedded Systems & IoT ·
+✈️ Flight Simulation ·
+📱 Mobile & Web Applications ·
+🛠️ Automation & Scripting ·
 
 ## Current Learning Focus
 
