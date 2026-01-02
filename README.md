@@ -1,5 +1,7 @@
 # Hi, I'm arn-c0de 👋
 
+**[🇩🇪 Deutsche Version](README_DE.md)**
+
 Developer from **Germany** 🇩🇪 with a focus on embedded systems, security research, and backend development.
 
 **Languages:** German (native) · English (fluent)
