@@ -40,16 +40,35 @@ Always happy to connect—feel free to reach out for questions, collaboration op
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## What I Work On
 
-**What I work on:**  
-📱 Mobile & Web Applications ·
-🔧 Backend Development ·
-🔐 Wi-Fi Security & Network Analysis ·
-⚡ Embedded Systems & IoT ·
-🛠️ Automation & Scripting ·
-📡 Software-Defined Radio (SDR) ·
-🏠 Home Server & Self-Hosting ·
-✈️ Flight Simulation 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Development**
+- 📱 Mobile & Web Apps
+- 🔧 Backend Dev
+- 🛠️ Automation
+
+</td>
+<td width="33%" valign="top">
+
+**Security & Networks**
+- 🔐 Wi-Fi Security
+- 📡 SDR Radio
+- 🏠 Self-Hosting
+
+</td>
+<td width="33%" valign="top">
+
+**Hardware & More**
+- ⚡ Embedded & IoT
+- ✈️ Flight Simulation
+
+</td>
+</tr>
+</table>
 
 ## Current Learning Focus
 
