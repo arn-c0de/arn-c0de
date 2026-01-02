@@ -1,5 +1,7 @@
 # Hallo, ich bin arn-c0de 👋
 
+**[🇬🇧 English Version](README.md)**
+
 Entwickler aus **Deutschland** 🇩🇪 mit Schwerpunkt auf Embedded Systems, Security Research und Backend-Entwicklung.
 
 **Sprachen:** Deutsch (Muttersprache) · Englisch (fließend)
