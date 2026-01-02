@@ -50,6 +50,8 @@ Always happy to connect—feel free to reach out for questions, collaboration op
 - 📱 Mobile & Web Apps
 - 🔧 Backend Dev
 - 🛠️ Automation
+- ⚙️ API Design
+- 📊 Data Processing
 
 </td>
 <td width="33%" valign="top">
