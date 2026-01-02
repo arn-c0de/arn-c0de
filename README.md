@@ -1,6 +1,6 @@
 # Hi, I'm arn-c0de 👋
 
-**[�🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
+**[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 ---
 Developer from **Germany** 🇩🇪 with a focus on embedded systems, security research, and backend development.
 
