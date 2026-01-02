@@ -1,6 +1,6 @@
 # Hallo, ich bin arn-c0de 👋
 
-**[🇬🇧 English Version](README.md)**
+**[🇬🇧](README.md) | [🇨🇳](README_ZH.md)**
 
 Entwickler aus **Deutschland** 🇩🇪 mit Schwerpunkt auf Embedded Systems, Security Research und Backend-Entwicklung.
 
