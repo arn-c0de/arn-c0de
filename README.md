@@ -136,6 +136,41 @@ Developer from **Germany** 🇩🇪 with a focus on embedded systems, security r
 
 ---
 
+
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Flight Sim
+- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World companion and standalone app
+
+</td>
+<td width="50%" valign="top">
+
+### AI / Agents
+- ⚡ [**Crawllama**](https://github.com/arn-c0de/Crawllama) - Local AI agent with web- and RAG-based research
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sec - RED/BLUE
+- ⚡ [**GeoGrabber**](https://github.com/arn-c0de/Crawllama) - Scanning, mapping, and analyzing Wi-Fi networks and Bluetooth devices with GPS
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+
+---
+
 ## GitHub Stats
 
 <p align="center">
