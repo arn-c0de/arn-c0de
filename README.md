@@ -56,6 +56,7 @@ Always happy to connect—feel free to reach out for questions, collaboration op
 
 **Security & Networks**
 - 🔐 Wi-Fi Security
+- 🧪 Network Monitoring (IDS/IPS)
 - 📡 SDR Radio
 - 🏠 Self-Hosting
 
@@ -64,6 +65,10 @@ Always happy to connect—feel free to reach out for questions, collaboration op
 
 **Hardware & More**
 - ⚡ Embedded & IoT
+- 🔌 ESP32 / ESP8266
+- 📶 LoRa & LPWAN
+- 🖨️ PCB Design & Prototyping
+- 🏠 Home Automation
 - ✈️ Flight Simulation
 
 </td>
