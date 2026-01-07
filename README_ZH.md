@@ -145,7 +145,7 @@
 <td width="50%" valign="top">
 
 ### 飞行模拟
-- ��🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS 世界伴侣与独立应用
+- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS 世界伴侣与独立应用
 
 </td>
 <td width="50%" valign="top">

@@ -144,7 +144,7 @@ Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués
 <td width="50%" valign="top">
 
 ### Flight Sim
-- ��🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - compagnon DCS‑World et application autonome
+- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - compagnon DCS‑World et application autonome
 
 </td>
 <td width="50%" valign="top">

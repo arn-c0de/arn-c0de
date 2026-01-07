@@ -145,7 +145,7 @@ Entwickler aus **Deutschland** 🇩🇪 mit Schwerpunkt auf Embedded Systems, Se
 <td width="50%" valign="top">
 
 ### Flight Sim
-- ��🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World Companion und Standalone App
+- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World Companion und Standalone App
 
 </td>
 <td width="50%" valign="top">
