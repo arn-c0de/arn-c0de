@@ -164,7 +164,7 @@ Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués
 <td width="50%" valign="top">
 
 ### Tools
-- ⚡ [**Check-My-Packages**](https://github.com/arn-c0de/Check-My-Packages) - Gestionnaire de paquets Python avec interface graphique pour afficher et gérer tous les paquets installés provenant de différents gestionnaires de paquets sur votre système
+- 📦🐍 ⚡ [**Check-My-Packages**](https://github.com/arn-c0de/Check-My-Packages) - Gestionnaire de paquets Python avec interface graphique pour afficher et gérer tous les paquets installés provenant de différents gestionnaires de paquets sur votre système
 
 </td>
 </tr>

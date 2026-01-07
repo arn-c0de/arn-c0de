@@ -167,7 +167,7 @@ Developer from **Germany** 🇩🇪 with a focus on embedded systems, security r
 <td width="50%" valign="top">
 
 ### Tools
-- ⚡ [**Check-My-Packages**](https://github.com/arn-c0de/Check-My-Packages) - Python Package Manager with GUI to view and manage all installed packages across different package managers on your system
+- 📦🐍 ⚡ [**Check-My-Packages**](https://github.com/arn-c0de/Check-My-Packages) - Python Package Manager with GUI to view and manage all installed packages across different package managers on your system
 
 </td>
 </tr>
