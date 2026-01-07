@@ -145,13 +145,13 @@
 <td width="50%" valign="top">
 
 ### 飞行模拟
-- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS 世界伴侣与独立应用
+- ��🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS 世界伴侣与独立应用
 
 </td>
 <td width="50%" valign="top">
 
 ### 人工智能 / 智能体
-- ⚡ [**Crawllama**](https://github.com/arn-c0de/Crawllama) - 基于网络和检索增强生成的本地人工智能智能体
+- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - 基于网络和检索增强生成的本地人工智能智能体
 
 </td>
 </tr>
@@ -159,7 +159,7 @@
 <td width="50%" valign="top">
 
 ### 安全 - 红队/蓝队
-- ⚡ [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - 使用全球定位系统扫描、映射和分析无线网络与蓝牙设备
+- ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - 使用全球定位系统扫描、映射和分析无线网络与蓝牙设备
 
 </td>
 <td width="50%" valign="top">

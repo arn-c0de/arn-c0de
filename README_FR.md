@@ -144,13 +144,13 @@ Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués
 <td width="50%" valign="top">
 
 ### Flight Sim
-- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - compagnon DCS‑World et application autonome
+- ��🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - compagnon DCS‑World et application autonome
 
 </td>
 <td width="50%" valign="top">
 
 ### AI / Agents
-- ⚡ [**Crawllama**](https://github.com/arn-c0de/Crawllama) - agent IA local avec recherche web et RAG
+- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - agent IA local avec recherche web et RAG
 
 </td>
 </tr>
@@ -158,7 +158,7 @@ Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués
 <td width="50%" valign="top">
 
 ### Sec - RED/BLUE
-- ⚡ [**GeoGrabber**](https://github.com/arn-c0de/Crawllama) - scan, cartographie et analyse des réseaux Wi‑Fi et des appareils Bluetooth avec GPS
+- 📡🗺️ ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - scan, cartographie et analyse des réseaux Wi‑Fi et des appareils Bluetooth avec GPS
 
 </td>
 <td width="50%" valign="top">
