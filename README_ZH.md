@@ -164,6 +164,9 @@
 </td>
 <td width="50%" valign="top">
 
+### Tools
+- ⚡ [**Check-My-Packages**](https://github.com/arn-c0de/Check-My-Packages) - 带 GUI 的 Python 包管理器，用于查看和管理系统上来自不同包管理器的所有已安装包
+
 </td>
 </tr>
 </table>

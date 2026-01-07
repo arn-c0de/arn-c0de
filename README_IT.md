@@ -163,6 +163,9 @@ Sviluppatore dalla **Germania** 🇩🇪 con focus su sistemi embedded, ricerca 
 </td>
 <td width="50%" valign="top">
 
+### Tools
+- ⚡ [**Check-My-Packages**](https://github.com/arn-c0de/Check-My-Packages) - Package manager Python con interfaccia grafica per visualizzare e gestire tutti i pacchetti installati provenienti da diversi package manager sul sistema
+
 </td>
 </tr>
 </table>
