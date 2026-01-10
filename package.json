@@ -1,0 +1,11 @@
+{
+  "name": "arn-c0de-readme-tools",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "generate-langs": "node scripts/generate-langs.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
