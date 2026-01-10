@@ -2,16 +2,19 @@
 
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 ---
-Developer from **Germany** 🇩🇪 with a focus on Android and webapplications, embedded systems and backend development.
+Developer from Germany 🇩🇪, working primarily on Android and web applications, embedded systems, and backend development.
 
 **Languages:** German (native) · English (fluent)
 
-## About Me
-• Developer focused on embedded systems, security research, and backend development.  
-• Primary languages: Kotlin, Python, C — with emphasis on ESP32, SDR radio, and Wi-Fi security tools.  
-• Currently expanding into C/C++ for Windows and Rust for low-level programming.  
-• Values collaboration, continuous learning, and technical exchange.
+About Me
 
+Developer focused on embedded systems, security research, and backend development
+
+Main languages: Kotlin, Python, and C, mainly used with ESP32, SDR radio, and Wi-Fi security tools
+
+Currently learning C/C++ for Windows and Rust for low-level programming
+
+Interested in collaboration, continuous learning, and technical exchange
 
 ---
 
