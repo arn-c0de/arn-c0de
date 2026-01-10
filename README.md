@@ -6,6 +6,8 @@ Developer from Germany 🇩🇪, working primarily on Android and web applicatio
 
 **Languages:** German (native) · English (fluent)
 
+---
+
 About Me
 
 Developer focused on embedded systems, security research, and backend development
