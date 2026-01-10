@@ -179,16 +179,17 @@ Developer from **Germany** 🇩🇪 with a focus on embedded systems, security r
 ## GitHub Stats
 
 <p align="center">
+  <img src="assets/langs-donut.svg" alt="Languages distribution" height="220" />
+</p>
+
+<p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">
     <img alt="arn-c0de's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/langs-donut.svg" alt="Languages distribution" height="220" />
-</p>
 
-<p align="center" class="muted">(Generated automatically from your public repos via GitHub Action)</p>
+
 
 ---
 
