@@ -181,8 +181,10 @@ Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arn-c0de&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="assets/langs-donut.svg" alt="Languages distribution" height="220" />
 </p>
+
+<p align="center" class="muted">(Généré automatiquement à partir de vos repositories publics via GitHub Action)</p>
 
 ---
 
