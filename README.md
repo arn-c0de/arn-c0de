@@ -72,34 +72,34 @@ Developer from **Germany** 🇩🇪 with a focus on embedded systems, security r
 
 ### Development
 
-- 📱 Mobile & Web Apps
-- 🔧 Backend Development
-- 🛠️ Automation Scripts
-- ⚙️ API Design
-- 📊 Data Processing
+-  Mobile & Web Apps
+-  Backend Development
+-  Automation Scripts
+-  API Design
+-  Data Processing
 
 </td>
 <td width="33%" valign="top">
 
 ### Security & Networks
 
-- 🔐 Wi-Fi Security Research
-- 🧪 Network Monitoring (IDS/IPS)
-- 📡 SDR Radio Projects
-- 🏠 Self-Hosting Solutions
-- 🔍 Penetration Testing
+-  Wi-Fi Security Research
+-  Network Monitoring (IDS/IPS)
+-  SDR Radio Projects
+-  Self-Hosting Solutions
+-  Penetration Testing
 
 </td>
 <td width="33%" valign="top">
 
 ### Hardware & IoT
 
-- ⚡ Embedded Systems
-- 🔌 ESP32 / ESP8266 Projects
-- 📶 LoRa & LPWAN
-- 🖨️ PCB Design & Prototyping
-- 🏠 Home Automation
-- ✈️ Flight Simulation
+-  Embedded Systems
+-  ESP32 / ESP8266 Projects
+-  LoRa & LPWAN
+-  PCB Design & Prototyping
+-  Home Automation
+-  Flight Simulation
 
 </td>
 </tr>
