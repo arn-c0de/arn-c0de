@@ -2,15 +2,21 @@
 
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 ---
-Sviluppatore dalla **Germania** 🇩🇪 con focus su sistemi embedded, ricerca sulla sicurezza e sviluppo backend.
+Sviluppatore dalla Germania 🇩🇪, lavoro principalmente su applicazioni Android e web, sistemi embedded e sviluppo backend.
 
 **Lingue:** Tedesco (madrelingua) · Inglese (fluente)
 
-## Su di me
-👨‍💻 Sviluppatore concentrato su sistemi embedded, ricerca sulla sicurezza e sviluppo backend.  
-🛠️ Linguaggi principali: Kotlin, Python, C — con enfasi su ESP32, radio SDR, e strumenti per la sicurezza Wi‑Fi.  
-📚 Attualmente sto approfondendo C/C++ per Windows e Rust per programmazione a basso livello.  
-🤝 Valorizzo collaborazione, apprendimento continuo e scambio tecnico.
+---
+
+Su di me
+
+Sviluppatore focalizzato su sistemi embedded, ricerca sulla sicurezza e sviluppo backend
+
+Linguaggi principali: Kotlin, Python e C, principalmente utilizzati con ESP32, radio SDR e strumenti Wi-Fi
+
+Attualmente sto imparando Kotlin, C/C++ per Windows e Rust per la programmazione a basso livello
+
+Interessato alla collaborazione, all'apprendimento continuo e allo scambio tecnico
 
 ---
 
@@ -71,34 +77,34 @@ Sviluppatore dalla **Germania** 🇩🇪 con focus su sistemi embedded, ricerca 
 
 ### Sviluppo
 
-- 📱 App mobile & web
-- 🔧 Sviluppo backend
-- 🛠️ Script di automazione
-- ⚙️ Progettazione API
-- 📊 Elaborazione dati
+-  App mobile & web
+-  Sviluppo backend
+-  Script di automazione
+-  Progettazione API
+-  Elaborazione dati
 
 </td>
 <td width="33%" valign="top">
 
 ### Sicurezza & Reti
 
-- 🔐 Ricerca sulla sicurezza Wi‑Fi
-- 🧪 Monitoraggio di rete (IDS/IPS)
-- 📡 Progetti SDR
-- 🏠 Soluzioni self‑hosting
-- 🔍 Penetration testing
+-  Progetti SDR
+-  Soluzioni self-hosting
+-  Ricerca sulla sicurezza Wi-Fi
+-  Monitoraggio di rete (IDS/IPS)
+-  Penetration testing
 
 </td>
 <td width="33%" valign="top">
 
 ### Hardware & IoT
 
-- ⚡ Sistemi embedded
-- 🔌 Progetti ESP32 / ESP8266
-- 📶 LoRa & LPWAN
-- 🖨️ Progettazione PCB & prototipazione
-- 🏠 Domotica
-- ✈️ Simulazione di volo
+-  Sistemi embedded
+-  Progetti ESP32 / ESP8266
+-  LoRa & LPWAN
+-  Progettazione PCB & prototipazione
+-  Domotica
+-  Simulazione di volo
 
 </td>
 </tr>
@@ -114,9 +120,10 @@ Sviluppatore dalla **Germania** 🇩🇪 con focus su sistemi embedded, ricerca 
 
 ### Programmazione & Sviluppo
 
-- C/C++ avanzato per Windows
+- C/C++ per lo sviluppo Windows
+- Kotlin / Java
 - Programmazione di sistema a basso livello
-- Linguaggio Rust
+- Linguaggio di programmazione Rust
 - Architettura software sicura
 - Pattern di progettazione moderni
 
@@ -137,6 +144,8 @@ Sviluppatore dalla **Germania** 🇩🇪 con focus su sistemi embedded, ricerca 
 
 ---
 
+
+
 ## Progetti in evidenza
 
 <table>
@@ -144,13 +153,13 @@ Sviluppatore dalla **Germania** 🇩🇪 con focus su sistemi embedded, ricerca 
 <td width="50%" valign="top">
 
 ### Flight Sim
-- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - compagno DCS‑World e applicazione standalone
+- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Applicazione compagno e standalone per DCS-World
 
 </td>
 <td width="50%" valign="top">
 
 ### AI / Agents
-- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - agente IA locale con ricerca web e RAG
+- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - Agente IA locale con ricerca web e basata su RAG
 
 </td>
 </tr>
@@ -158,7 +167,7 @@ Sviluppatore dalla **Germania** 🇩🇪 con focus su sistemi embedded, ricerca 
 <td width="50%" valign="top">
 
 ### Sec - RED/BLUE
-- 📡🗺️ ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - scansione, mappatura e analisi di reti Wi‑Fi e dispositivi Bluetooth con GPS
+- 📡🗺️ ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - Scansione, mappatura e analisi di reti Wi-Fi e dispositivi Bluetooth con GPS
 
 </td>
 <td width="50%" valign="top">
@@ -170,9 +179,14 @@ Sviluppatore dalla **Germania** 🇩🇪 con focus su sistemi embedded, ricerca 
 </tr>
 </table>
 
+
 ---
 
 ## Statistiche GitHub
+
+<p align="center">
+  <img src="assets/langs-donut.svg" alt="Languages distribution" height="220" />
+</p>
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">
@@ -180,11 +194,8 @@ Sviluppatore dalla **Germania** 🇩🇪 con focus su sistemi embedded, ricerca 
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/langs-donut.svg" alt="Languages distribution" height="220" />
-</p>
 
-<p align="center" class="muted">(Generato automaticamente dai tuoi repository pubblici tramite GitHub Action)</p>
+
 
 ---
 
@@ -211,7 +222,7 @@ Sviluppatore dalla **Germania** 🇩🇪 con focus su sistemi embedded, ricerca 
 
 📫 **arn-c0de@protonmail.com**
 
-Per questioni legate alla sicurezza, segnalazioni di vulnerabilità o divulgazioni sensibili.
+Per questioni legate alla sicurezza, segnalazioni di vulnerabilità o divulgazioni di bug sensibili.
 
 </td>
 <td width="50%" valign="top">
@@ -220,7 +231,7 @@ Per questioni legate alla sicurezza, segnalazioni di vulnerabilità o divulgazio
 
 💬 **GitHub Issues**
 
-Per bug, richieste di funzionalità e discussioni generali sui progetti, usate il tracker di issues del repository interessato.
+Per bug, richieste di funzionalità e discussioni generali sui progetti, utilizzare il tracker di issue del repository corrispondente.
 
 </td>
 </tr>

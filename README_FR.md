@@ -2,15 +2,21 @@
 
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 ---
-Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués, la recherche en sécurité et le développement backend.
+Développeur d'Allemagne 🇩🇪, travaillant principalement sur des applications Android et web, des systèmes embarqués et le développement backend.
 
 **Langues :** Allemand (natif) · Anglais (courant)
 
-## À propos de moi
-👨‍💻 Développeur axé sur les systèmes embarqués, la recherche en sécurité et le développement backend.  
-🛠️ Langages principaux : Kotlin, Python, C — avec un accent sur ESP32, radio SDR et outils de sécurité Wi‑Fi.  
-📚 Actuellement en train d'approfondir C/C++ pour Windows et Rust pour la programmation bas‑niveau.  
-🤝 J'apprécie la collaboration, l'apprentissage continu et les échanges techniques.
+---
+
+À propos de moi
+
+Développeur axé sur les systèmes embarqués, la recherche en sécurité et le développement backend
+
+Langages principaux : Kotlin, Python et C, principalement utilisés avec ESP32, radio SDR et outils Wi-Fi
+
+Actuellement en apprentissage de Kotlin, C/C++ pour Windows et Rust pour la programmation bas-niveau
+
+Intéressé par la collaboration, l'apprentissage continu et les échanges techniques
 
 ---
 
@@ -71,34 +77,34 @@ Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués
 
 ### Développement
 
-- 📱 Applications mobiles & web
-- 🔧 Développement backend
-- 🛠️ Scripts d'automatisation
-- ⚙️ Conception d'API
-- 📊 Traitement de données
+-  Applications mobiles & web
+-  Développement backend
+-  Scripts d'automatisation
+-  Conception d'API
+-  Traitement de données
 
 </td>
 <td width="33%" valign="top">
 
 ### Sécurité & Réseaux
 
-- 🔐 Recherche en sécurité Wi‑Fi
-- 🧪 Surveillance réseau (IDS/IPS)
-- 📡 Projets SDR
-- 🏠 Solutions d'auto‑hébergement
-- 🔍 Tests d'intrusion
+-  Projets SDR
+-  Solutions d'auto-hébergement
+-  Recherche en sécurité Wi-Fi
+-  Surveillance réseau (IDS/IPS)
+-  Tests d'intrusion
 
 </td>
 <td width="33%" valign="top">
 
 ### Matériel & IoT
 
-- ⚡ Systèmes embarqués
-- 🔌 Projets ESP32 / ESP8266
-- 📶 LoRa & LPWAN
-- 🖨️ Conception de PCB & prototypage
-- 🏠 Domotique
-- ✈️ Simulation de vol
+-  Systèmes embarqués
+-  Projets ESP32 / ESP8266
+-  LoRa & LPWAN
+-  Conception de PCB & prototypage
+-  Domotique
+-  Simulation de vol
 
 </td>
 </tr>
@@ -114,18 +120,19 @@ Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués
 
 ### Programmation & Développement
 
-- C/C++ avancé pour Windows
-- Programmation système bas‑niveau
-- Langage Rust
+- C/C++ pour le développement Windows
+- Kotlin / Java
+- Programmation système bas-niveau
+- Langage de programmation Rust
 - Architecture logicielle sécurisée
-- Patterns modernes de conception
+- Patterns de conception modernes
 
 </td>
 <td width="50%" valign="top">
 
 ### Sécurité & Ingénierie
 
-- Pratiques de sécurité défensives
+- Pratiques de sécurité défensive
 - Fondamentaux du reverse engineering
 - Techniques de durcissement de projets
 - Recherche de vulnérabilités
@@ -137,6 +144,8 @@ Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués
 
 ---
 
+
+
 ## Projets en vedette
 
 <table>
@@ -144,13 +153,13 @@ Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués
 <td width="50%" valign="top">
 
 ### Flight Sim
-- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - compagnon DCS‑World et application autonome
+- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Application compagnon et autonome pour DCS-World
 
 </td>
 <td width="50%" valign="top">
 
 ### AI / Agents
-- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - agent IA local avec recherche web et RAG
+- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - Agent IA local avec recherche web et basée sur RAG
 
 </td>
 </tr>
@@ -158,7 +167,7 @@ Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués
 <td width="50%" valign="top">
 
 ### Sec - RED/BLUE
-- 📡🗺️ ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - scan, cartographie et analyse des réseaux Wi‑Fi et des appareils Bluetooth avec GPS
+- 📡🗺️ ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - Scan, cartographie et analyse des réseaux Wi-Fi et appareils Bluetooth avec GPS
 
 </td>
 <td width="50%" valign="top">
@@ -170,9 +179,14 @@ Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués
 </tr>
 </table>
 
+
 ---
 
 ## Statistiques GitHub
+
+<p align="center">
+  <img src="assets/langs-donut.svg" alt="Languages distribution" height="220" />
+</p>
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">
@@ -180,11 +194,8 @@ Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/langs-donut.svg" alt="Languages distribution" height="220" />
-</p>
 
-<p align="center" class="muted">(Généré automatiquement à partir de vos repositories publics via GitHub Action)</p>
+
 
 ---
 
@@ -211,16 +222,16 @@ Développeur d'**Allemagne** 🇩🇪 spécialisé dans les systèmes embarqués
 
 📫 **arn-c0de@protonmail.com**
 
-Pour les préoccupations liées à la sécurité, les rapports de vulnérabilité ou les divulgations sensibles.
+Pour les préoccupations liées à la sécurité, les rapports de vulnérabilité ou les divulgations de bugs sensibles.
 
 </td>
 <td width="50%" valign="top">
 
 ### Demandes générales
 
-💬 **Issues GitHub**
+💬 **GitHub Issues**
 
-Pour les bugs, demandes de fonctionnalités et discussions de projets, merci d'utiliser le tracker d'issues des dépôts concernés.
+Pour les bugs, les demandes de fonctionnalités et les discussions générales sur les projets, veuillez utiliser le suivi des problèmes du dépôt concerné.
 
 </td>
 </tr>

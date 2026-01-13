@@ -2,16 +2,21 @@
 
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 ---
-
-来自**德国** 🇩🇪 的开发者，专注于嵌入式系统、安全研究和后端开发。
+来自德国 🇩🇪 的开发者，主要从事 Android 和 Web 应用程序、嵌入式系统和后端开发工作。
 
 **语言：** 德语（母语）· 英语（流利）
 
-## 关于我
-👨‍💻 专注于嵌入式系统、安全研究和后端开发的开发者。  
-🛠️ 主要语言：Kotlin、Python、C — 重点关注 ESP32、软件无线电和 Wi-Fi 安全工具。  
-📚 目前正在扩展 C/C++ Windows 开发和 Rust 低级编程。  
-🤝 重视协作、持续学习和技术交流。
+---
+
+关于我
+
+专注于嵌入式系统、安全研究和后端开发的开发者
+
+主要语言：Kotlin、Python 和 C，主要用于 ESP32、SDR 无线电和 Wi-Fi 工具
+
+目前正在学习 Kotlin、用于 Windows 的 C/C++ 和用于低级编程的 Rust
+
+对协作、持续学习和技术交流感兴趣
 
 ---
 
@@ -72,34 +77,34 @@
 
 ### 开发
 
-- 📱 移动与网页应用
-- 🔧 后端开发
-- 🛠️ 自动化脚本
-- ⚙️ 接口设计
-- 📊 数据处理
+-  移动与网页应用
+-  后端开发
+-  自动化脚本
+-  API 设计
+-  数据处理
 
 </td>
 <td width="33%" valign="top">
 
 ### 安全与网络
 
-- 🔐 无线网络安全研究
-- 🧪 网络监控（入侵检测/防御系统）
-- 📡 软件无线电项目
-- 🏠 自托管解决方案
-- 🔍 渗透测试
+-  SDR 无线电项目
+-  自托管解决方案
+-  Wi-Fi 安全研究
+-  网络监控（IDS/IPS）
+-  渗透测试
 
 </td>
 <td width="33%" valign="top">
 
 ### 硬件与物联网
 
-- ⚡ 嵌入式系统
-- 🔌 ESP32 / ESP8266 项目
-- 📶 LoRa/LoRaWAN
-- 🖨️ 电路板设计与原型制作
-- 🏠 家庭自动化
-- ✈️ 飞行模拟
+-  嵌入式系统
+-  ESP32 / ESP8266 项目
+-  LoRa & LPWAN
+-  PCB 设计与原型制作
+-  家庭自动化
+-  飞行模拟
 
 </td>
 </tr>
@@ -107,7 +112,7 @@
 
 ---
 
-## 当前学习方向
+## 当前学习重点
 
 <table>
 <tr>
@@ -115,7 +120,8 @@
 
 ### 编程与开发
 
-- Windows 高级 C/C++ 开发
+- 用于 Windows 开发的 C/C++
+- Kotlin / Java
 - 低级系统编程
 - Rust 编程语言
 - 安全软件架构
@@ -138,28 +144,30 @@
 
 ---
 
+
+
 ## 精选项目
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 飞行模拟
-- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS 世界伴侣与独立应用
+### Flight Sim
+- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World 伴侣和独立应用程序
 
 </td>
 <td width="50%" valign="top">
 
-### 人工智能 / 智能体
-- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - 基于网络和检索增强生成的本地人工智能智能体
+### AI / Agents
+- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - 具有网络和基于 RAG 研究的本地 AI 代理
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 安全 - 红队/蓝队
-- ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - 使用全球定位系统扫描、映射和分析无线网络与蓝牙设备
+### Sec - RED/BLUE
+- 📡🗺️ ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - 使用 GPS 扫描、映射和分析 Wi-Fi 网络和蓝牙设备
 
 </td>
 <td width="50%" valign="top">
@@ -171,9 +179,14 @@
 </tr>
 </table>
 
+
 ---
 
 ## GitHub 统计
+
+<p align="center">
+  <img src="assets/langs-donut.svg" alt="Languages distribution" height="220" />
+</p>
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">
@@ -181,11 +194,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/langs-donut.svg" alt="Languages distribution" height="220" />
-</p>
 
-<p align="center" class="muted">(自动从您的公共仓库生成，使用 GitHub Action)</p>
+
 
 ---
 
@@ -221,7 +231,7 @@
 
 💬 **GitHub Issues**
 
-对于错误、功能请求和一般项目讨论，请使用相应代码库的问题跟踪器。
+对于错误、功能请求和一般项目讨论，请使用相应存储库的问题跟踪器。
 
 </td>
 </tr>
@@ -232,5 +242,3 @@
 <p align="center">
   <em>所有安全相关项目仅用于教育和研究目的。</em>
 </p>
-
----

@@ -1,17 +1,22 @@
 # Hallo, ich bin arn-c0de 👋
 
-**[🇬🇧](README.md) | [�🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
+**[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 ---
-
-Entwickler aus **Deutschland** 🇩🇪 mit Schwerpunkt auf Embedded Systems, Security Research und Backend-Entwicklung.
+Entwickler aus Deutschland 🇩🇪, arbeitet hauptsächlich an Android- und Webanwendungen, eingebetteten Systemen und Backend-Entwicklung.
 
 **Sprachen:** Deutsch (Muttersprache) · Englisch (fließend)
 
-## Über mich
-👨‍💻 Entwickler mit Fokus auf Embedded Systems, Security Research und Backend-Entwicklung.  
-🛠️ Hauptsprachen: Kotlin, Python, C — mit Schwerpunkt auf ESP32, SDR Radio und Wi-Fi Security Tools.  
-📚 Aktuell Erweiterung in C/C++ für Windows und Rust für Low-Level Programming.  
-🤝 Schätze Zusammenarbeit, kontinuierliches Lernen und technischen Austausch.
+---
+
+Über mich
+
+Entwickler mit Fokus auf eingebettete Systeme, Sicherheitsforschung und Backend-Entwicklung
+
+Hauptsprachen: Kotlin, Python und C, hauptsächlich verwendet mit ESP32, SDR-Radio und Wi-Fi-Tools
+
+Derzeit lerne ich Kotlin, C/C++ für Windows und Rust für Low-Level-Programmierung
+
+Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausch
 
 ---
 
@@ -70,36 +75,36 @@ Entwickler aus **Deutschland** 🇩🇪 mit Schwerpunkt auf Embedded Systems, Se
 <tr>
 <td width="33%" valign="top">
 
-### Development
+### Entwicklung
 
-- 📱 Mobile & Web Apps
-- 🔧 Backend Development
-- 🛠️ Automation Scripts
-- ⚙️ API Design
-- 📊 Data Processing
+-  Mobile & Web Apps
+-  Backend-Entwicklung
+-  Automatisierungsskripte
+-  API-Design
+-  Datenverarbeitung
 
 </td>
 <td width="33%" valign="top">
 
-### Security & Networks
+### Sicherheit & Netzwerke
 
-- 🔐 Wi-Fi Security Research
-- 🧪 Network Monitoring (IDS/IPS)
-- 📡 SDR Radio Projects
-- 🏠 Self-Hosting Solutions
-- 🔍 Penetration Testing
+-  SDR-Radio-Projekte
+-  Self-Hosting-Lösungen
+-  Wi-Fi-Sicherheitsforschung
+-  Netzwerküberwachung (IDS/IPS)
+-  Penetrationstests
 
 </td>
 <td width="33%" valign="top">
 
 ### Hardware & IoT
 
-- ⚡ Embedded Systems
-- 🔌 ESP32 / ESP8266 Projects
-- 📶 LoRa & LPWAN
-- 🖨️ PCB Design & Prototyping
-- 🏠 Home Automation
-- ✈️ Flight Simulation
+-  Eingebettete Systeme
+-  ESP32 / ESP8266 Projekte
+-  LoRa & LPWAN
+-  PCB-Design & Prototyping
+-  Hausautomation
+-  Flugsimulation
 
 </td>
 </tr>
@@ -113,30 +118,33 @@ Entwickler aus **Deutschland** 🇩🇪 mit Schwerpunkt auf Embedded Systems, Se
 <tr>
 <td width="50%" valign="top">
 
-### Programming & Development
+### Programmierung & Entwicklung
 
-- Advanced C/C++ für Windows Development
-- Low-Level System Programming
-- Rust Programming Language
-- Secure Software Architecture
-- Modern Design Patterns
+- C/C++ für Windows-Entwicklung
+- Kotlin / Java
+- Low-Level-Systemprogrammierung
+- Rust-Programmiersprache
+- Sichere Software-Architektur
+- Moderne Design Patterns
 
 </td>
 <td width="50%" valign="top">
 
-### Security & Engineering
+### Sicherheit & Engineering
 
-- Defensive Security Practices
-- Reverse Engineering Fundamentals
-- Project Hardening Techniques
-- Vulnerability Research
-- Secure Code Review
+- Defensive Sicherheitspraktiken
+- Grundlagen des Reverse Engineering
+- Projekt-Härtungstechniken
+- Schwachstellenforschung
+- Sichere Code-Review
 
 </td>
 </tr>
 </table>
 
 ---
+
+
 
 ## Ausgewählte Projekte
 
@@ -151,7 +159,7 @@ Entwickler aus **Deutschland** 🇩🇪 mit Schwerpunkt auf Embedded Systems, Se
 <td width="50%" valign="top">
 
 ### AI / Agents
-- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - Lokaler AI Agent mit Web- und RAG-basierter Research
+- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - Lokaler AI-Agent mit Web- und RAG-basierter Forschung
 
 </td>
 </tr>
@@ -159,21 +167,26 @@ Entwickler aus **Deutschland** 🇩🇪 mit Schwerpunkt auf Embedded Systems, Se
 <td width="50%" valign="top">
 
 ### Sec - RED/BLUE
-- 📡🗺️ ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - Scanning, Mapping und Analysieren von Wi-Fi Networks und Bluetooth Devices mit GPS
+- 📡🗺️ ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - Scannen, Kartieren und Analysieren von Wi-Fi-Netzwerken und Bluetooth-Geräten mit GPS
 
 </td>
 <td width="50%" valign="top">
 
 ### Tools
-- 📦🐍 ⚡ [**Check-My-Packages**](https://github.com/arn-c0de/Check-My-Packages) - Python-Paketmanager mit GUI zum Anzeigen und Verwalten aller installierten Pakete aus verschiedenen Paketmanagern auf dem System
+- 📦🐍 ⚡ [**Check-My-Packages**](https://github.com/arn-c0de/Check-My-Packages) - Python-Paketmanager mit GUI zum Anzeigen und Verwalten aller installierten Pakete aus verschiedenen Paketmanagern auf Ihrem System
 
 </td>
 </tr>
 </table>
 
+
 ---
 
 ## GitHub Stats
+
+<p align="center">
+  <img src="assets/langs-donut.svg" alt="Languages distribution" height="220" />
+</p>
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">
@@ -181,11 +194,8 @@ Entwickler aus **Deutschland** 🇩🇪 mit Schwerpunkt auf Embedded Systems, Se
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/langs-donut.svg" alt="Languages distribution" height="220" />
-</p>
 
-<p align="center" class="muted">(Generiert automatisch aus deinen öffentlichen Repos via GitHub Action)</p>
+
 
 ---
 
@@ -212,7 +222,7 @@ Entwickler aus **Deutschland** 🇩🇪 mit Schwerpunkt auf Embedded Systems, Se
 
 📫 **arn-c0de@protonmail.com**
 
-Für sicherheitsrelevante Anliegen, Vulnerability Reports oder sensible Bug Disclosures.
+Für sicherheitsrelevante Anliegen, Schwachstellenberichte oder sensible Fehlermeldungen.
 
 </td>
 <td width="50%" valign="top">
@@ -221,7 +231,7 @@ Für sicherheitsrelevante Anliegen, Vulnerability Reports oder sensible Bug Disc
 
 💬 **GitHub Issues**
 
-Für Bugs, Feature Requests und allgemeine Projekt-Diskussionen nutze bitte den Issue Tracker im jeweiligen Repository.
+Für Bugs, Feature Requests und allgemeine Projektdiskussionen verwenden Sie bitte den Issue Tracker im jeweiligen Repository.
 
 </td>
 </tr>
