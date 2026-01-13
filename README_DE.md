@@ -148,36 +148,8 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 ## Ausgewählte Projekte
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Flight Sim
 - 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS World Begleit- und Standalone-App
-
-</td>
-<td width="50%" valign="top">
-
-### AI / Agents
-- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - Lokaler KI-Agent mit Web- und RAG-basierter Recherche
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Sec - RED/BLUE
-- 📡🗺️ ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - Scannen, Kartieren und Analysieren von Wi-Fi Netzwerken und Bluetooth-Geräten mit GPS
-
-</td>
-<td width="50%" valign="top">
-
-### Tools
-- 📦🐍 ⚡ [**Check-My-Packages**](https://github.com/arn-c0de/Check-My-Packages) - Python Package Manager mit GUI zum Anzeigen und Verwalten aller installierten Pakete verschiedener Paketmanager auf deinem System
-
-</td>
-</tr>
-</table>
 
 
 ---

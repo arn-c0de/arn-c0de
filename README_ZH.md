@@ -148,36 +148,8 @@
 
 ## 精选项目
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Flight Sim
 - 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World 伴侣和独立应用程序
-
-</td>
-<td width="50%" valign="top">
-
-### AI / Agents
-- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - 具有网络和基于 RAG 研究的本地 AI 代理
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Sec - RED/BLUE
-- 📡🗺️ ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - 使用 GPS 扫描、映射和分析 Wi-Fi 网络和蓝牙设备
-
-</td>
-<td width="50%" valign="top">
-
-### Tools
-- 📦🐍 ⚡ [**Check-My-Packages**](https://github.com/arn-c0de/Check-My-Packages) - 带 GUI 的 Python 包管理器，用于查看和管理系统上来自不同包管理器的所有已安装包
-
-</td>
-</tr>
-</table>
 
 
 ---
