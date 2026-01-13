@@ -88,10 +88,10 @@ Interested in collaboration, continuous learning, and technical exchange
 
 ### Security & Networks
 
--  Wi-Fi Security Research
--  Network Monitoring (IDS/IPS)
 -  SDR Radio Projects
 -  Self-Hosting Solutions
+-  Wi-Fi Security Research
+-  Network Monitoring (IDS/IPS)
 -  Penetration Testing
 
 </td>
@@ -120,7 +120,8 @@ Interested in collaboration, continuous learning, and technical exchange
 
 ### Programming & Development
 
-- Advanced C/C++ for Windows development
+- C/C++ for Windows development
+- Kotlin / Java
 - Low-level system programming
 - Rust programming language
 - Secure software architecture
