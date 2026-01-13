@@ -12,9 +12,9 @@ About Me
 
 Developer focused on embedded systems, security research, and backend development
 
-Main languages: Kotlin, Python, and C, mainly used with ESP32, SDR radio, and Wi-Fi security tools
+Main languages: Kotlin, Python, and C, mainly used with ESP32, SDR radio, and Wi-Fi tools
 
-Currently learning C/C++ for Windows and Rust for low-level programming
+Currently learning Kotlin, C/C++ for Windows and Rust for low-level programming
 
 Interested in collaboration, continuous learning, and technical exchange
 
