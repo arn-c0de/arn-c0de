@@ -2,7 +2,7 @@
 
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 ---
-Entwickler aus Deutschland 🇩🇪, arbeitet hauptsächlich an Android- und Webanwendungen, Embedded Systems und Backend-Entwicklung.
+Entwickler aus Deutschland 🇩🇪, arbeite hauptsächlich an Android- und Webanwendungen, Embedded Systems und Backend-Entwicklung.
 
 **Sprachen:** Deutsch (Muttersprache) · Englisch (fließend)
 
@@ -10,7 +10,7 @@ Entwickler aus Deutschland 🇩🇪, arbeitet hauptsächlich an Android- und Web
 
 Über mich
 
-Entwickler mit Fokus auf Embedded Systems, Sicherheitsforschung und Backend-Entwicklung
+Fokus auf Embedded Systems und Backend-Entwicklung
 
 Hauptsprachen: Kotlin, Python und C, hauptsächlich eingesetzt bei ESP32, SDR-Radio und Wi-Fi Tools
 
