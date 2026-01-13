@@ -25,6 +25,9 @@ Intéressé par la collaboration, l'apprentissage continu et les échanges techn
 ### Flight Sim
 - 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Application compagnon et autonome pour DCS-World
 
+### IoT & Embedded
+- 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Capteur ESP32 léger et sécurisé pour détecter l'état ouvert/fermé des portes, fenêtres et contacts similaires
+
 ---
 
 ## Stack technique

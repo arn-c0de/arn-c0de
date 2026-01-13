@@ -25,6 +25,9 @@
 ### Flight Sim
 - 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World 伴侣和独立应用程序
 
+### IoT & Embedded
+- 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - 轻量级、安全的基于 ESP32 的传感器节点，用于检测门窗和类似触点的开/关状态
+
 ---
 
 ## 技术栈
