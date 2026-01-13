@@ -158,6 +158,10 @@
 </p>
 
 <p align="center">
+  <sub>Automated language tracking system — <a href="docs/LANGUAGE-TRACKING.md">View implementation details</a></sub>
+</p>
+
+<p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">
     <img alt="arn-c0de's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />
   </a>
