@@ -20,6 +20,13 @@
 
 ---
 
+## 精选项目
+
+### Flight Sim
+- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World 伴侣和独立应用程序
+
+---
+
 ## 技术栈
 
 <table>
@@ -141,16 +148,6 @@
 </td>
 </tr>
 </table>
-
----
-
-
-
-## 精选项目
-
-### Flight Sim
-- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World 伴侣和独立应用程序
-
 
 ---
 

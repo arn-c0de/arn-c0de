@@ -20,6 +20,13 @@ Interessato alla collaborazione, all'apprendimento continuo e allo scambio tecni
 
 ---
 
+## Progetti in evidenza
+
+### Flight Sim
+- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Applicazione compagno e standalone per DCS-World
+
+---
+
 ## Stack tecnologico
 
 <table>
@@ -141,16 +148,6 @@ Interessato alla collaborazione, all'apprendimento continuo e allo scambio tecni
 </td>
 </tr>
 </table>
-
----
-
-
-
-## Progetti in evidenza
-
-### Flight Sim
-- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Applicazione compagno e standalone per DCS-World
-
 
 ---
 

@@ -20,6 +20,13 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 ---
 
+## Ausgewählte Projekte
+
+### Flight Sim
+- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS World Begleit- und Standalone-App
+
+---
+
 ## Tech Stack
 
 <table>
@@ -141,16 +148,6 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 </td>
 </tr>
 </table>
-
----
-
-
-
-## Ausgewählte Projekte
-
-### Flight Sim
-- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS World Begleit- und Standalone-App
-
 
 ---
 
