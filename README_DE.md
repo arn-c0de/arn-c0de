@@ -2,7 +2,7 @@
 
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 ---
-Entwickler aus Deutschland 🇩🇪, arbeitet hauptsächlich an Android- und Webanwendungen, eingebetteten Systemen und Backend-Entwicklung.
+Entwickler aus Deutschland 🇩🇪, arbeitet hauptsächlich an Android- und Webanwendungen, Embedded Systems und Backend-Entwicklung.
 
 **Sprachen:** Deutsch (Muttersprache) · Englisch (fließend)
 
@@ -10,9 +10,9 @@ Entwickler aus Deutschland 🇩🇪, arbeitet hauptsächlich an Android- und Web
 
 Über mich
 
-Entwickler mit Fokus auf eingebettete Systeme, Sicherheitsforschung und Backend-Entwicklung
+Entwickler mit Fokus auf Embedded Systems, Sicherheitsforschung und Backend-Entwicklung
 
-Hauptsprachen: Kotlin, Python und C, hauptsächlich verwendet mit ESP32, SDR-Radio und Wi-Fi-Tools
+Hauptsprachen: Kotlin, Python und C, hauptsächlich eingesetzt bei ESP32, SDR-Radio und Wi-Fi Tools
 
 Derzeit lerne ich Kotlin, C/C++ für Windows und Rust für Low-Level-Programmierung
 
@@ -88,9 +88,9 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 ### Sicherheit & Netzwerke
 
--  SDR-Radio-Projekte
--  Self-Hosting-Lösungen
--  Wi-Fi-Sicherheitsforschung
+-  SDR-Radio Projekte
+-  Self-Hosting Lösungen
+-  Wi-Fi Sicherheitsforschung
 -  Netzwerküberwachung (IDS/IPS)
 -  Penetrationstests
 
@@ -99,7 +99,7 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 ### Hardware & IoT
 
--  Eingebettete Systeme
+-  Embedded Systems
 -  ESP32 / ESP8266 Projekte
 -  LoRa & LPWAN
 -  PCB-Design & Prototyping
@@ -122,10 +122,10 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 - C/C++ für Windows-Entwicklung
 - Kotlin / Java
-- Low-Level-Systemprogrammierung
-- Rust-Programmiersprache
+- Low-Level Systemprogrammierung
+- Rust Programmiersprache
 - Sichere Software-Architektur
-- Moderne Design Patterns
+- Moderne Design-Patterns
 
 </td>
 <td width="50%" valign="top">
@@ -134,9 +134,9 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 - Defensive Sicherheitspraktiken
 - Grundlagen des Reverse Engineering
-- Projekt-Härtungstechniken
+- Techniken zur Projekthärtung
 - Schwachstellenforschung
-- Sichere Code-Review
+- Sichere Code-Reviews
 
 </td>
 </tr>
@@ -153,13 +153,13 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 <td width="50%" valign="top">
 
 ### Flight Sim
-- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World Companion und Standalone App
+- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS World Begleit- und Standalone-App
 
 </td>
 <td width="50%" valign="top">
 
 ### AI / Agents
-- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - Lokaler AI-Agent mit Web- und RAG-basierter Forschung
+- 🤖🔎 ⚡🦙 [**Crawllama**](https://github.com/arn-c0de/Crawllama) - Lokaler KI-Agent mit Web- und RAG-basierter Recherche
 
 </td>
 </tr>
@@ -167,13 +167,13 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 <td width="50%" valign="top">
 
 ### Sec - RED/BLUE
-- 📡🗺️ ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - Scannen, Kartieren und Analysieren von Wi-Fi-Netzwerken und Bluetooth-Geräten mit GPS
+- 📡🗺️ ⚡🌍 [**GeoGrabber**](https://github.com/arn-c0de/GeoGrabber) - Scannen, Kartieren und Analysieren von Wi-Fi Netzwerken und Bluetooth-Geräten mit GPS
 
 </td>
 <td width="50%" valign="top">
 
 ### Tools
-- 📦🐍 ⚡ [**Check-My-Packages**](https://github.com/arn-c0de/Check-My-Packages) - Python-Paketmanager mit GUI zum Anzeigen und Verwalten aller installierten Pakete aus verschiedenen Paketmanagern auf Ihrem System
+- 📦🐍 ⚡ [**Check-My-Packages**](https://github.com/arn-c0de/Check-My-Packages) - Python Package Manager mit GUI zum Anzeigen und Verwalten aller installierten Pakete verschiedener Paketmanager auf deinem System
 
 </td>
 </tr>
@@ -218,7 +218,7 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 <tr>
 <td width="50%" valign="top">
 
-### Security Issues & Vulnerabilities
+### Sicherheitsprobleme & Schwachstellen
 
 📫 **arn-c0de@protonmail.com**
 
@@ -231,7 +231,7 @@ Für sicherheitsrelevante Anliegen, Schwachstellenberichte oder sensible Fehlerm
 
 💬 **GitHub Issues**
 
-Für Bugs, Feature Requests und allgemeine Projektdiskussionen verwenden Sie bitte den Issue Tracker im jeweiligen Repository.
+Für Bugs, Feature Requests und allgemeine Projektdiskussionen bitte den Issue Tracker im jeweiligen Repository verwenden.
 
 </td>
 </tr>
