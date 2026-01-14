@@ -1,4 +1,4 @@
-# Hi, I'm arn-c0de 👋
+# Hi 👋
 
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 ---
