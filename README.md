@@ -1,6 +1,11 @@
 # Hi 👋
 
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/arn-c0de/arn-c0de@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 Developer from Germany 🇩🇪, working primarily on Android and web applications, embedded systems, and backend development.
 
@@ -168,10 +173,6 @@ Interested in collaboration, continuous learning, and technical exchange
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">
     <img alt="arn-c0de's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/arn-c0de/arn-c0de@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---

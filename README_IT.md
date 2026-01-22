@@ -1,6 +1,11 @@
 # Ciao 👋
 
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/arn-c0de/arn-c0de@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 Sviluppatore dalla Germania 🇩🇪, lavoro principalmente su applicazioni Android e web, sistemi embedded e sviluppo backend.
 
