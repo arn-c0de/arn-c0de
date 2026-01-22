@@ -170,8 +170,9 @@ Interested in collaboration, continuous learning, and technical exchange
   </a>
 </p>
 
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arn-c0de/arn-c0de/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
