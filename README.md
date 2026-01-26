@@ -13,9 +13,6 @@ Developer from Germany 🇩🇪, working primarily on Android and web applicatio
 
 ---
 
-About Me
-
-Developer focused on embedded systems, security research, and backend development
 
 Main languages: Kotlin, Python, and C, mainly used with ESP32, SDR radio, and Wi-Fi tools
 
