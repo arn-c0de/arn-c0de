@@ -33,6 +33,9 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 ### IoT & Embedded
 - 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Leichtgewichtiger, sicherer ESP32-basierter Sensorknoten zur Erkennung des Offen/Geschlossen-Status von Türen, Fenstern und ähnlichen Kontakten
 
+### KI & Finanzen
+- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-gestütztes KI-Nachrichten-Prognosesystem für kurzfristige bis mittelfristige Marktprognosen, mit Echtzeitanalyse und einem Dash-basierten Monitoring-Dashboard. **Lizenz:** Proprietäre Source-Available-Lizenz (streng).
+
 ---
 
 ## Tech Stack

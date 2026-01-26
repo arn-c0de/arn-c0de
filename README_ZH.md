@@ -69,6 +69,13 @@
 
 ### 工具与平台
 
+---
+
+### 人工智能与金融
+- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - 基于 LLM 的新闻预测系统，用于短到中期市场预测，具有实时分析和基于 Dash 的监控仪表板。**许可证：** 专有 source-available（严格）。
+
+
+
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)

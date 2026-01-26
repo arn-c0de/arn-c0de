@@ -33,6 +33,9 @@ Interested in collaboration, continuous learning, and technical exchange
 ### IoT & Embedded
 - 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Lightweight, secure ESP32-based sensor node for detecting the open/closed state of doors, windows, and similar contacts
 
+### AI & Finance
+- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-powered AI News Prediction System for short-to-medium term market forecasting, featuring real-time analysis and a Dash-based monitoring dashboard. **License:** Proprietary source-available (strict).
+
 ---
 
 ## Tech Stack
@@ -214,6 +217,14 @@ For bugs, feature requests, and general project discussions, please use the issu
 </td>
 </tr>
 </table>
+
+---
+
+## License
+
+Copyright (c) 2026 arn-c0de. All rights reserved.
+
+This repository contains a project (ANPS-TradeMeUp) that is distributed under a proprietary source-available license. See `LICENSE` for full details.
 
 ---
 

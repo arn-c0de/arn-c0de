@@ -33,6 +33,9 @@ Interessato alla collaborazione, all'apprendimento continuo e allo scambio tecni
 ### IoT & Embedded
 - 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Sensore ESP32 leggero e sicuro per rilevare lo stato aperto/chiuso di porte, finestre e contatti simili
 
+### IA & Finanza
+- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - Sistema di previsione delle notizie basato su LLM per previsioni di mercato a breve e medio termine, con analisi in tempo reale e cruscotto di monitoraggio basato su Dash. **Licenza:** proprietaria source-available (stretta).
+
 ---
 
 ## Stack tecnologico
