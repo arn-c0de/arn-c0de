@@ -24,14 +24,15 @@ Interested in collaboration, continuous learning, and technical exchange
 
 ## Featured Projects
 
+### AI & Finance
+- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-powered AI News Prediction System for short-to-medium term market forecasting, featuring real-time analysis and a Dash-based monitoring dashboard. **License:** Proprietary source-available (strict).
+
 ### Flight Sim
 - 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World companion and standalone app
 
 ### IoT & Embedded
 - 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Lightweight, secure ESP32-based sensor node for detecting the open/closed state of doors, windows, and similar contacts
 
-### AI & Finance
-- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-powered AI News Prediction System for short-to-medium term market forecasting, featuring real-time analysis and a Dash-based monitoring dashboard. **License:** Proprietary source-available (strict).
 
 ---
 
