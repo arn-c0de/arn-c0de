@@ -30,13 +30,16 @@
 ### Flight Sim
 - 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World 伴侣和独立应用程序
 
+### Games
+- 🎮 [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape 是一款基于位置的 Android 僵尸生存游戏。在真实地图中探索、掠夺建筑、与僵尸战斗，并通过 GPS 或摇杆在持久的开放世界中生存。使用 Kotlin 开发。
+
 ### IoT & Embedded
 - 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - 轻量级、安全的基于 ESP32 的传感器节点，用于检测门窗和类似触点的开/关状态
 
 ### 安全与网络
 - 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - 实时网络监控与威胁分析工具，可可视化实时流量、检测可疑连接，并在交互式 3D 地球仪上映射全球威胁。
-- 🛡️ [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Real-time network intrusion detection with a lightweight GUI dashboard — live packet capture, IP geolocation, AbuseIPDB threat scoring, and optional automated firewall blocking.
-- 🛡️ [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Real-time defensive network tool with integrated packet scanner and GUI for detecting flood attacks, ARP spoofing, and DHCP floods, featuring multi-platform firewall support.
+- 🛡️ [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - 实时网络入侵检测，带轻量级 GUI 仪表板 — 实时数据包捕获、IP 地理定位、AbuseIPDB 威胁评分，以及可选的自动防火墙阻断。
+- 🛡️ [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - 实时防御网络工具，集成数据包扫描器和 GUI，可检测洪泛攻击、ARP 欺骗和 DHCP 洪泛，支持跨平台防火墙。
 
 ---
 

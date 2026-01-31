@@ -30,6 +30,9 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 ### Flight Sim
 - 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS World Begleit- und Standalone-App
 
+### Games
+- 🎮 [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape ist ein ortsbasiertes Zombie-Survival-Spiel für Android. Erkunde echte Karten, plündere Gebäude, bekämpfe Zombies und überlebe in einer persistenten offenen Welt mit GPS- oder Joystick-Steuerung. In Kotlin entwickelt.
+
 ### IoT & Embedded
 - 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Leichtgewichtiger, sicherer ESP32-basierter Sensorknoten zur Erkennung des Offen/Geschlossen-Status von Türen, Fenstern und ähnlichen Kontakten
 

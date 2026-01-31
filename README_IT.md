@@ -30,13 +30,16 @@ Interessato alla collaborazione, all'apprendimento continuo e allo scambio tecni
 ### Flight Sim
 - 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Applicazione compagno e standalone per DCS-World
 
+### Games
+- 🎮 [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape è un gioco di sopravvivenza zombie basato sulla posizione per Android. Esplora mappe reali, saccheggia edifici, combatti gli zombie e sopravvivi in un mondo aperto persistente usando GPS o joystick. Sviluppato in Kotlin.
+
 ### IoT & Embedded
 - 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Sensore ESP32 leggero e sicuro per rilevare lo stato aperto/chiuso di porte, finestre e contatti simili
 
 ### Sicurezza & Reti
 - 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Strumento di monitoraggio della rete in tempo reale e analisi delle minacce che visualizza il traffico live, rileva connessioni sospette e mappa le minacce globali su un globo 3D interattivo.
-- 🛡️ [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Real-time network intrusion detection with a lightweight GUI dashboard — live packet capture, IP geolocation, AbuseIPDB threat scoring, and optional automated firewall blocking.
-- 🛡️ [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Real-time defensive network tool with integrated packet scanner and GUI for detecting flood attacks, ARP spoofing, and DHCP floods, featuring multi-platform firewall support.
+- 🛡️ [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Rilevamento delle intrusioni di rete in tempo reale con una GUI leggera — acquisizione pacchetti in tempo reale, geolocalizzazione IP, valutazione delle minacce tramite AbuseIPDB e blocco automatico opzionale tramite firewall.
+- 🛡️ [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Strumento di difesa di rete in tempo reale con scanner di pacchetti integrato e interfaccia GUI per rilevare attacchi di tipo flood, ARP spoofing e DHCP flood, con supporto per firewall multipiattaforma.
 
 ### IA & Finanza
 - 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - Sistema di previsione delle notizie basato su LLM per previsioni di mercato a breve e medio termine, con analisi in tempo reale e cruscotto di monitoraggio basato su Dash. **Licenza:** proprietaria source-available (stretta).
