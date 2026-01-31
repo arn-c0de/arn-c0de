@@ -33,6 +33,8 @@ Interested in collaboration, continuous learning, and technical exchange
 ### IoT & Embedded
 - 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Lightweight, secure ESP32-based sensor node for detecting the open/closed state of doors, windows, and similar contacts
 
+### Security & Networks
+- 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Real-time network monitoring and threat analysis tool that visualizes live traffic, detects suspicious connections, and maps global threats on an interactive 3D globe.
 
 ---
 

@@ -33,6 +33,9 @@
 ### IoT & Embedded
 - 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - 轻量级、安全的基于 ESP32 的传感器节点，用于检测门窗和类似触点的开/关状态
 
+### 安全与网络
+- 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - 实时网络监控与威胁分析工具，可可视化实时流量、检测可疑连接，并在交互式 3D 地球仪上映射全球威胁。
+
 ---
 
 ## 技术栈

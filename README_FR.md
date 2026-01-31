@@ -33,6 +33,9 @@ Intéressé par la collaboration, l'apprentissage continu et les échanges techn
 ### IoT & Embedded
 - 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Capteur ESP32 léger et sécurisé pour détecter l'état ouvert/fermé des portes, fenêtres et contacts similaires
 
+### Sécurité & Réseaux
+- 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Outil de surveillance réseau en temps réel et d'analyse des menaces qui visualise le trafic en direct, détecte les connexions suspectes et cartographie les menaces mondiales sur un globe 3D interactif.
+
 ### IA & Finance
 - 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - Système de prédiction d'actualités piloté par LLM pour des prévisions de marché à court et moyen terme, avec analyse en temps réel et tableau de bord de surveillance basé sur Dash. **Licence :** propriétaire source-disponible (stricte).
 

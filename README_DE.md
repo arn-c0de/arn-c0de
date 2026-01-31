@@ -33,6 +33,9 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 ### IoT & Embedded
 - 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Leichtgewichtiger, sicherer ESP32-basierter Sensorknoten zur Erkennung des Offen/Geschlossen-Status von Türen, Fenstern und ähnlichen Kontakten
 
+### Sicherheit & Netzwerke
+- 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Echtzeit-Netzwerküberwachungs- und Bedrohungsanalyse-Tool, das Live-Traffic visualisiert, verdächtige Verbindungen erkennt und globale Bedrohungen auf einem interaktiven 3D-Globus darstellt.
+
 ### KI & Finanzen
 - 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-gestütztes KI-Nachrichten-Prognosesystem für kurzfristige bis mittelfristige Marktprognosen, mit Echtzeitanalyse und einem Dash-basierten Monitoring-Dashboard. **Lizenz:** Proprietäre Source-Available-Lizenz (streng).
 
