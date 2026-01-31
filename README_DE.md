@@ -35,6 +35,7 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 ### Sicherheit & Netzwerke
 - 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Echtzeit-Netzwerküberwachungs- und Bedrohungsanalyse-Tool, das Live-Traffic visualisiert, verdächtige Verbindungen erkennt und globale Bedrohungen auf einem interaktiven 3D-Globus darstellt.
+- 🛡️ [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Echtzeit-Netzwerkeinbruchserkennung mit einem leichtgewichtigen GUI-Dashboard — Live-Paket-Erfassung, IP-Geolokalisierung, AbuseIPDB-Bedrohungsbewertung und optionales automatisches Blockieren durch die Firewall.
 
 ### KI & Finanzen
 - 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-gestütztes KI-Nachrichten-Prognosesystem für kurzfristige bis mittelfristige Marktprognosen, mit Echtzeitanalyse und einem Dash-basierten Monitoring-Dashboard. **Lizenz:** Proprietäre Source-Available-Lizenz (streng).
