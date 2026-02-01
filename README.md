@@ -27,14 +27,17 @@ Interested in collaboration, continuous learning, and technical exchange
 ### AI & Finance
 - 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-powered AI News Prediction System for short-to-medium term market forecasting, featuring real-time analysis and a Dash-based monitoring dashboard. **License:** Proprietary source-available (strict).
 
+### IoT & Embedded
+- 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Lightweight, secure ESP32-based sensor node for detecting the open/closed state of doors, windows, and similar contacts
+
+-  [**ESP32-LABs**](https://github.com/arn-c0de/CloseMyThing) - is a collection of ESP32-based educational and experimental labs for security research, training, and prototyping. The repository hosts current projects and will continue to host future labs covering offensive and defensive techniques, safe experiments, and red-team/blue-team exercises.
+
+
 ### Flight Sim
 - 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World companion and standalone app
 
 ### Games
 - 🎮 [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape is a location-based zombie survival game for Android. Explore real-world maps, loot buildings, fight zombies, and survive in a persistent open world using GPS or joystick controls. Built in Kotlin.
-
-### IoT & Embedded
-- 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Lightweight, secure ESP32-based sensor node for detecting the open/closed state of doors, windows, and similar contacts
 
 ### Security & Networks
 - 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Real-time network monitoring and threat analysis tool that visualizes live traffic, detects suspicious connections, and maps global threats on an interactive 3D globe.
