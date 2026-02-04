@@ -13,9 +13,6 @@ Sviluppatore dalla Germania 🇩🇪, lavoro principalmente su applicazioni Andr
 
 ---
 
-Su di me
-
-Sviluppatore focalizzato su sistemi embedded, ricerca sulla sicurezza e sviluppo backend
 
 Linguaggi principali: Kotlin, Python e C, principalmente utilizzati con ESP32, radio SDR e strumenti Wi-Fi
 
@@ -27,22 +24,28 @@ Interessato alla collaborazione, all'apprendimento continuo e allo scambio tecni
 
 ## Progetti in evidenza
 
+### IA & Finanza
+- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - Sistema di previsione delle notizie basato su LLM per previsioni di mercato a breve e medio termine, con analisi in tempo reale e cruscotto di monitoraggio basato su Dash. **Licenza:** proprietaria source-available (stretta).
+
+### IoT & Embedded
+
+-  [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - è una raccolta di laboratori educativi e sperimentali basati su ESP32 per ricerca sulla sicurezza, formazione e prototipazione. Il repository ospita i progetti attuali e continuerà ad ospitare laboratori futuri che coprono tecniche offensive e difensive, esperimenti sicuri ed esercizi red-team/blue-team.
+
+- ⌨️ [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - Un emulatore di tastiera USB HID multi-password per Arduino Pro Micro (ATmega32U4). Diverse sequenze di pressione dei pulsanti attivano password predefinite, digitate automaticamente tramite USB.
+
+- 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Sensore ESP32 leggero e sicuro per rilevare lo stato aperto/chiuso di porte, finestre e contatti simili
+
+
 ### Flight Sim
 - 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Applicazione compagno e standalone per DCS-World
 
 ### Games
 - 🎮 [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape è un gioco di sopravvivenza zombie basato sulla posizione per Android. Esplora mappe reali, saccheggia edifici, combatti gli zombie e sopravvivi in un mondo aperto persistente usando GPS o joystick. Sviluppato in Kotlin.
 
-### IoT & Embedded
-- 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Sensore ESP32 leggero e sicuro per rilevare lo stato aperto/chiuso di porte, finestre e contatti simili
-
 ### Sicurezza & Reti
 - 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Strumento di monitoraggio della rete in tempo reale e analisi delle minacce che visualizza il traffico live, rileva connessioni sospette e mappa le minacce globali su un globo 3D interattivo.
 - 🛡️ [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Rilevamento delle intrusioni di rete in tempo reale con una GUI leggera — acquisizione pacchetti in tempo reale, geolocalizzazione IP, valutazione delle minacce tramite AbuseIPDB e blocco automatico opzionale tramite firewall.
 - 🛡️ [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Strumento di difesa di rete in tempo reale con scanner di pacchetti integrato e interfaccia GUI per rilevare attacchi di tipo flood, ARP spoofing e DHCP flood, con supporto per firewall multipiattaforma.
-
-### IA & Finanza
-- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - Sistema di previsione delle notizie basato su LLM per previsioni di mercato a breve e medio termine, con analisi in tempo reale e cruscotto di monitoraggio basato su Dash. **Licenza:** proprietaria source-available (stretta).
 
 ---
 
@@ -177,7 +180,7 @@ Interessato alla collaborazione, all'apprendimento continuo e allo scambio tecni
 </p>
 
 <p align="center">
-  <sub>Automated language tracking system — <a href="docs/LANGUAGE-TRACKING.md">View implementation details</a></sub>
+  <sub>Sistema di tracciamento linguaggi automatizzato — <a href="docs/LANGUAGE-TRACKING.md">Visualizza i dettagli di implementazione</a></sub>
 </p>
 
 <p align="center">
@@ -185,9 +188,6 @@ Interessato alla collaborazione, all'apprendimento continuo e allo scambio tecni
     <img alt="arn-c0de's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />
   </a>
 </p>
-
-
-
 
 ---
 
@@ -228,6 +228,14 @@ Per bug, richieste di funzionalità e discussioni generali sui progetti, utilizz
 </td>
 </tr>
 </table>
+
+---
+
+## Licenza
+
+Copyright (c) 2026 arn-c0de. Tutti i diritti riservati.
+
+Questo repository contiene un progetto (ANPS-TradeMeUp) distribuito sotto una licenza proprietaria source-available. Vedere `LICENSE` per i dettagli completi.
 
 ---
 

@@ -13,11 +13,8 @@ Entwickler aus Deutschland 🇩🇪, arbeite hauptsächlich an Android- und Weba
 
 ---
 
-Über mich
 
-Fokus auf Embedded Systems und Backend-Entwicklung
-
-Hauptsprachen: Kotlin, Python und C, hauptsächlich eingesetzt bei ESP32, SDR-Radio und Wi-Fi Tools
+Hauptsprachen: Kotlin, Python und C, hauptsächlich eingesetzt bei ESP32, SDR-Radio und Wi-Fi-Tools
 
 Derzeit lerne ich Kotlin, C/C++ für Windows und Rust für Low-Level-Programmierung
 
@@ -27,22 +24,28 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 ## Ausgewählte Projekte
 
-### Flight Sim
-- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS World Begleit- und Standalone-App
-
-### Games
-- 🎮 [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape ist ein ortsbasiertes Zombie-Survival-Spiel für Android. Erkunde echte Karten, plündere Gebäude, bekämpfe Zombies und überlebe in einer persistenten offenen Welt mit GPS- oder Joystick-Steuerung. In Kotlin entwickelt.
+### KI & Finanzen
+- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-gestütztes KI-Nachrichten-Prognosesystem für kurzfristige bis mittelfristige Marktprognosen, mit Echtzeitanalyse und einem Dash-basierten Monitoring-Dashboard. **Lizenz:** Proprietäre Source-Available-Lizenz (streng).
 
 ### IoT & Embedded
+
+-  [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - ist eine Sammlung von ESP32-basierten Bildungs- und Experimentallaboren für Sicherheitsforschung, Schulung und Prototyping. Das Repository beherbergt aktuelle Projekte und wird zukünftige Labs mit offensiven und defensiven Techniken, sicheren Experimenten und Red-Team/Blue-Team-Übungen beherbergen.
+
+- ⌨️ [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - Ein Multi-Passwort-USB-HID-Tastaturemulatoren für den Arduino Pro Micro (ATmega32U4). Verschiedene Tastendrucksequenzen lösen vordefinierte Passwörter aus, die automatisch über USB eingegeben werden.
+
 - 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Leichtgewichtiger, sicherer ESP32-basierter Sensorknoten zur Erkennung des Offen/Geschlossen-Status von Türen, Fenstern und ähnlichen Kontakten
+
+
+### Flugsimulation
+- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World Begleit- und Standalone-App
+
+### Spiele
+- 🎮 [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape ist ein ortsbasiertes Zombie-Survival-Spiel für Android. Erkunde echte Karten, plündere Gebäude, bekämpfe Zombies und überlebe in einer persistenten offenen Welt mit GPS- oder Joystick-Steuerung. In Kotlin entwickelt.
 
 ### Sicherheit & Netzwerke
 - 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Echtzeit-Netzwerküberwachungs- und Bedrohungsanalyse-Tool, das Live-Traffic visualisiert, verdächtige Verbindungen erkennt und globale Bedrohungen auf einem interaktiven 3D-Globus darstellt.
 - 🛡️ [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Echtzeit-Netzwerkeinbruchserkennung mit einem leichtgewichtigen GUI-Dashboard — Live-Paket-Erfassung, IP-Geolokalisierung, AbuseIPDB-Bedrohungsbewertung und optionales automatisches Blockieren durch die Firewall.
 - 🛡️ [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Echtzeit-Verteidigungsnetzwerk-Tool mit integriertem Paket-Scanner und GUI zur Erkennung von Flood-Angriffen, ARP-Spoofing und DHCP-Floods, mit plattformübergreifender Firewall-Unterstützung.
-
-### KI & Finanzen
-- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-gestütztes KI-Nachrichten-Prognosesystem für kurzfristige bis mittelfristige Marktprognosen, mit Echtzeitanalyse und einem Dash-basierten Monitoring-Dashboard. **Lizenz:** Proprietäre Source-Available-Lizenz (streng).
 
 ---
 
@@ -114,9 +117,9 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 ### Sicherheit & Netzwerke
 
--  SDR-Radio Projekte
--  Self-Hosting Lösungen
--  Wi-Fi Sicherheitsforschung
+-  SDR-Radio-Projekte
+-  Self-Hosting-Lösungen
+-  Wi-Fi-Sicherheitsforschung
 -  Netzwerküberwachung (IDS/IPS)
 -  Penetrationstests
 
@@ -138,7 +141,7 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 ---
 
-## Aktueller Lernschwerpunkt
+## Aktueller Lernfokus
 
 <table>
 <tr>
@@ -148,10 +151,10 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 - C/C++ für Windows-Entwicklung
 - Kotlin / Java
-- Low-Level Systemprogrammierung
-- Rust Programmiersprache
+- Low-Level-Systemprogrammierung
+- Rust-Programmiersprache
 - Sichere Software-Architektur
-- Moderne Design-Patterns
+- Moderne Designmuster
 
 </td>
 <td width="50%" valign="top">
@@ -159,10 +162,10 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 ### Sicherheit & Engineering
 
 - Defensive Sicherheitspraktiken
-- Grundlagen des Reverse Engineering
-- Techniken zur Projekthärtung
+- Grundlagen der Rückwärtsentwicklung
+- Projekt-Härtungstechniken
 - Schwachstellenforschung
-- Sichere Code-Reviews
+- Sichere Code-Review
 
 </td>
 </tr>
@@ -177,7 +180,7 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 </p>
 
 <p align="center">
-  <sub>Automated language tracking system — <a href="docs/LANGUAGE-TRACKING.md">View implementation details</a></sub>
+  <sub>Automatisiertes Sprachverfolgungssystem — <a href="docs/LANGUAGE-TRACKING.md">Implementierungsdetails anzeigen</a></sub>
 </p>
 
 <p align="center">
@@ -186,12 +189,9 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
   </a>
 </p>
 
-
-
-
 ---
 
-## Vernetze dich mit mir
+## Mit mir verbinden
 
 <p align="center">
   <a href="https://x.com/arn_c0de">
@@ -214,7 +214,7 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 📫 **arn-c0de@protonmail.com**
 
-Für sicherheitsrelevante Anliegen, Schwachstellenberichte oder sensible Fehlermeldungen.
+Für sicherheitsbezogene Bedenken, Schwachstellenmeldungen oder vertrauliche Fehlermeldungen.
 
 </td>
 <td width="50%" valign="top">
@@ -223,7 +223,7 @@ Für sicherheitsrelevante Anliegen, Schwachstellenberichte oder sensible Fehlerm
 
 💬 **GitHub Issues**
 
-Für Bugs, Feature Requests und allgemeine Projektdiskussionen bitte den Issue Tracker im jeweiligen Repository verwenden.
+Für Fehler, Feature-Anfragen und allgemeine Projektdiskussionen verwenden Sie bitte den Issue-Tracker im jeweiligen Repository.
 
 </td>
 </tr>
@@ -231,6 +231,14 @@ Für Bugs, Feature Requests und allgemeine Projektdiskussionen bitte den Issue T
 
 ---
 
+## Lizenz
+
+Copyright (c) 2026 arn-c0de. Alle Rechte vorbehalten.
+
+Dieses Repository enthält ein Projekt (ANPS-TradeMeUp), das unter einer proprietären Source-Available-Lizenz verteilt wird. Siehe \`LICENSE\` für vollständige Details.
+
+---
+
 <p align="center">
-  <em>Alle sicherheitsrelevanten Projekte dienen ausschließlich Bildungs- und Forschungszwecken.</em>
+  <em>Alle sicherheitsbezogenen Projekte sind streng für Bildungs- und Forschungszwecke gedacht.</em>
 </p>

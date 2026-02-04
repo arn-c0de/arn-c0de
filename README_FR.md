@@ -13,9 +13,6 @@ Développeur d'Allemagne 🇩🇪, travaillant principalement sur des applicatio
 
 ---
 
-À propos de moi
-
-Développeur axé sur les systèmes embarqués, la recherche en sécurité et le développement backend
 
 Langages principaux : Kotlin, Python et C, principalement utilisés avec ESP32, radio SDR et outils Wi-Fi
 
@@ -27,22 +24,28 @@ Intéressé par la collaboration, l'apprentissage continu et les échanges techn
 
 ## Projets en vedette
 
+### IA & Finance
+- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - Système de prédiction d'actualités piloté par LLM pour des prévisions de marché à court et moyen terme, avec analyse en temps réel et tableau de bord de surveillance basé sur Dash. **Licence :** propriétaire source-disponible (stricte).
+
+### IoT & Embedded
+
+-  [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - est une collection de laboratoires éducatifs et expérimentaux basés sur l'ESP32 pour la recherche en sécurité, la formation et le prototypage. Le référentiel accueille les projets actuels et continuera à accueillir les laboratoires futurs couvrant les techniques offensives et défensives, les expériences sûres et les exercices d'équipe rouge/équipe bleue.
+
+- ⌨️ [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - Un émulateur de clavier USB HID multi-mot de passe pour l'Arduino Pro Micro (ATmega32U4). Différentes séquences de touches déclenchent des mots de passe prédéfinis, tapés automatiquement via USB.
+
+- 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Capteur ESP32 léger et sécurisé pour détecter l'état ouvert/fermé des portes, fenêtres et contacts similaires
+
+
 ### Flight Sim
 - 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Application compagnon et autonome pour DCS-World
 
 ### Games
 - 🎮 [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape est un jeu de survie zombie basé sur la localisation pour Android. Explorez des cartes réelles, pillez des bâtiments, combattez des zombies et survivez dans un monde ouvert persistant en utilisant le GPS ou un joystick. Développé en Kotlin.
 
-### IoT & Embedded
-- 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Capteur ESP32 léger et sécurisé pour détecter l'état ouvert/fermé des portes, fenêtres et contacts similaires
-
 ### Sécurité & Réseaux
 - 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Outil de surveillance réseau en temps réel et d'analyse des menaces qui visualise le trafic en direct, détecte les connexions suspectes et cartographie les menaces mondiales sur un globe 3D interactif.
 - 🛡️ [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Détection d'intrusion réseau en temps réel avec un tableau de bord GUI léger — capture de paquets en direct, géolocalisation IP, notation de menace via AbuseIPDB et blocage automatique facultatif par le pare-feu.
 - 🛡️ [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Outil réseau défensif en temps réel avec scanner de paquets intégré et interface GUI pour détecter les attaques par saturation (flood), l'ARP spoofing et les attaques DHCP, avec prise en charge multiplateforme des pare-feu.
-
-### IA & Finance
-- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - Système de prédiction d'actualités piloté par LLM pour des prévisions de marché à court et moyen terme, avec analyse en temps réel et tableau de bord de surveillance basé sur Dash. **Licence :** propriétaire source-disponible (stricte).
 
 ---
 
@@ -106,19 +109,19 @@ Intéressé par la collaboration, l'apprentissage continu et les échanges techn
 -  Applications mobiles & web
 -  Développement backend
 -  Scripts d'automatisation
--  Conception d'API
--  Traitement de données
+-  Design d'API
+-  Traitement des données
 
 </td>
 <td width="33%" valign="top">
 
 ### Sécurité & Réseaux
 
--  Projets SDR
+-  Projets radio SDR
 -  Solutions d'auto-hébergement
 -  Recherche en sécurité Wi-Fi
 -  Surveillance réseau (IDS/IPS)
--  Tests d'intrusion
+-  Tests de pénétration
 
 </td>
 <td width="33%" valign="top">
@@ -128,7 +131,7 @@ Intéressé par la collaboration, l'apprentissage continu et les échanges techn
 -  Systèmes embarqués
 -  Projets ESP32 / ESP8266
 -  LoRa & LPWAN
--  Conception de PCB & prototypage
+-  Design PCB & Prototypage
 -  Domotique
 -  Simulation de vol
 
@@ -138,7 +141,7 @@ Intéressé par la collaboration, l'apprentissage continu et les échanges techn
 
 ---
 
-## Axes d'apprentissage actuels
+## Focus d'apprentissage actuel
 
 <table>
 <tr>
@@ -151,18 +154,18 @@ Intéressé par la collaboration, l'apprentissage continu et les échanges techn
 - Programmation système bas-niveau
 - Langage de programmation Rust
 - Architecture logicielle sécurisée
-- Patterns de conception modernes
+- Modèles de conception modernes
 
 </td>
 <td width="50%" valign="top">
 
-### Sécurité & Ingénierie
+### Sécurité & Engineering
 
 - Pratiques de sécurité défensive
-- Fondamentaux du reverse engineering
-- Techniques de durcissement de projets
-- Recherche de vulnérabilités
-- Revue de code sécurisée
+- Fondamentaux de l'ingénierie inverse
+- Techniques de durcissement de projet
+- Recherche en vulnérabilités
+- Examen de code sécurisé
 
 </td>
 </tr>
@@ -170,14 +173,14 @@ Intéressé par la collaboration, l'apprentissage continu et les échanges techn
 
 ---
 
-## Statistiques GitHub
+## GitHub Stats
 
 <p align="center">
   <img src="assets/langs-donut.svg" alt="Languages distribution" height="220" />
 </p>
 
 <p align="center">
-  <sub>Automated language tracking system — <a href="docs/LANGUAGE-TRACKING.md">View implementation details</a></sub>
+  <sub>Système de suivi des langues automatisé — <a href="docs/LANGUAGE-TRACKING.md">Afficher les détails de l'implémentation</a></sub>
 </p>
 
 <p align="center">
@@ -186,12 +189,9 @@ Intéressé par la collaboration, l'apprentissage continu et les échanges techn
   </a>
 </p>
 
-
-
-
 ---
 
-## Contact
+## Connectez-vous avec moi
 
 <p align="center">
   <a href="https://x.com/arn_c0de">
@@ -214,7 +214,7 @@ Intéressé par la collaboration, l'apprentissage continu et les échanges techn
 
 📫 **arn-c0de@protonmail.com**
 
-Pour les préoccupations liées à la sécurité, les rapports de vulnérabilité ou les divulgations de bugs sensibles.
+Pour les problèmes liés à la sécurité, les rapports de vulnérabilités ou les divulgations de bogues sensibles.
 
 </td>
 <td width="50%" valign="top">
@@ -223,11 +223,19 @@ Pour les préoccupations liées à la sécurité, les rapports de vulnérabilit�
 
 💬 **GitHub Issues**
 
-Pour les bugs, les demandes de fonctionnalités et les discussions générales sur les projets, veuillez utiliser le suivi des problèmes du dépôt concerné.
+Pour les bogues, les demandes de fonctionnalités et les discussions générales sur les projets, veuillez utiliser le suivi des problèmes du référentiel respectif.
 
 </td>
 </tr>
 </table>
+
+---
+
+## Licence
+
+Copyright (c) 2026 arn-c0de. Tous droits réservés.
+
+Ce référentiel contient un projet (ANPS-TradeMeUp) distribué sous une licence propriétaire source-disponible. Voir `LICENSE` pour tous les détails.
 
 ---
 

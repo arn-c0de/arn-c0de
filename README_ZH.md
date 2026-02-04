@@ -7,17 +7,14 @@
 </p>
 
 ---
-来自德国 🇩🇪 的开发者，主要从事 Android 和 Web 应用程序、嵌入式系统和后端开发工作。
+来自德国 🇩🇪 的开发者,主要从事 Android 和 Web 应用程序、嵌入式系统和后端开发工作。
 
-**语言：** 德语（母语）· 英语（流利）
+**语言:** 德语(母语) · 英语(流利)
 
 ---
 
-关于我
 
-专注于嵌入式系统、安全研究和后端开发的开发者
-
-主要语言：Kotlin、Python 和 C，主要用于 ESP32、SDR 无线电和 Wi-Fi 工具
+主要语言: Kotlin、Python 和 C,主要用于 ESP32、SDR 无线电和 Wi-Fi 工具
 
 目前正在学习 Kotlin、用于 Windows 的 C/C++ 和用于低级编程的 Rust
 
@@ -27,19 +24,28 @@
 
 ## 精选项目
 
-### Flight Sim
+### 人工智能与金融
+- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - 基于 LLM 的 AI 新闻预测系统,用于短到中期市场预测,具有实时分析和基于 Dash 的监控仪表板。**许可证:** 专有 source-available(严格)。
+
+### IoT 与嵌入式
+
+-  [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - 是一个基于 ESP32 的教育和实验室集合,用于安全研究、培训和原型制作。该存储库托管当前项目,并将继续托管涵盖攻击性和防御性技术、安全实验和红队/蓝队演练的未来实验室。
+
+- ⌨️ [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - 用于 Arduino Pro Micro (ATmega32U4) 的多密码 USB HID 键盘模拟器。不同的按键序列触发预定义密码,通过 USB 自动输入。
+
+- 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - 轻量级、安全的基于 ESP32 的传感器节点,用于检测门窗和类似触点的开/关状态
+
+
+### 飞行模拟
 - 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World 伴侣和独立应用程序
 
-### Games
-- 🎮 [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape 是一款基于位置的 Android 僵尸生存游戏。在真实地图中探索、掠夺建筑、与僵尸战斗，并通过 GPS 或摇杆在持久的开放世界中生存。使用 Kotlin 开发。
-
-### IoT & Embedded
-- 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - 轻量级、安全的基于 ESP32 的传感器节点，用于检测门窗和类似触点的开/关状态
+### 游戏
+- 🎮 [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape 是一款基于位置的 Android 僵尸生存游戏。在真实地图中探索、掠夺建筑、与僵尸战斗,并通过 GPS 或摇杆在持久的开放世界中生存。使用 Kotlin 开发。
 
 ### 安全与网络
-- 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - 实时网络监控与威胁分析工具，可可视化实时流量、检测可疑连接，并在交互式 3D 地球仪上映射全球威胁。
-- 🛡️ [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - 实时网络入侵检测，带轻量级 GUI 仪表板 — 实时数据包捕获、IP 地理定位、AbuseIPDB 威胁评分，以及可选的自动防火墙阻断。
-- 🛡️ [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - 实时防御网络工具，集成数据包扫描器和 GUI，可检测洪泛攻击、ARP 欺骗和 DHCP 洪泛，支持跨平台防火墙。
+- 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - 实时网络监控与威胁分析工具,可可视化实时流量、检测可疑连接,并在交互式 3D 地球仪上映射全球威胁。
+- 🛡️ [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - 实时网络入侵检测,带轻量级 GUI 仪表板 — 实时数据包捕获、IP 地理定位、AbuseIPDB 威胁评分,以及可选的自动防火墙阻断。
+- 🛡️ [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - 实时防御网络工具,集成数据包扫描器和 GUI,可检测洪泛攻击、ARP 欺骗和 DHCP 洪泛,支持跨平台防火墙。
 
 ---
 
@@ -76,13 +82,6 @@
 <td colspan="2">
 
 ### 工具与平台
-
----
-
-### 人工智能与金融
-- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - 基于 LLM 的新闻预测系统，用于短到中期市场预测，具有实时分析和基于 Dash 的监控仪表板。**许可证：** 专有 source-available（严格）。
-
-
 
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -121,7 +120,7 @@
 -  SDR 无线电项目
 -  自托管解决方案
 -  Wi-Fi 安全研究
--  网络监控（IDS/IPS）
+-  网络监控 (IDS/IPS)
 -  渗透测试
 
 </td>
@@ -181,7 +180,7 @@
 </p>
 
 <p align="center">
-  <sub>Automated language tracking system — <a href="docs/LANGUAGE-TRACKING.md">View implementation details</a></sub>
+  <sub>自动化语言跟踪系统 — <a href="docs/LANGUAGE-TRACKING.md">查看实施详情</a></sub>
 </p>
 
 <p align="center">
@@ -189,9 +188,6 @@
     <img alt="arn-c0de's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />
   </a>
 </p>
-
-
-
 
 ---
 
@@ -227,11 +223,19 @@
 
 💬 **GitHub Issues**
 
-对于错误、功能请求和一般项目讨论，请使用相应存储库的问题跟踪器。
+对于错误、功能请求和一般项目讨论,请使用相应存储库的问题跟踪器。
 
 </td>
 </tr>
 </table>
+
+---
+
+## 许可证
+
+Copyright (c) 2026 arn-c0de. 保留所有权利。
+
+此存储库包含一个项目 (ANPS-TradeMeUp),该项目根据专有 source-available 许可证分发。有关完整详细信息,请参见 `LICENSE`。
 
 ---
 
