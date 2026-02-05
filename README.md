@@ -35,6 +35,7 @@ Interested in collaboration, continuous learning, and technical exchange
 
 - 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Lightweight, secure ESP32-based sensor node for detecting the open/closed state of doors, windows, and similar contacts
 
+- 📡 [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server is a minimal, professional implementation of a multi-hop LoRa mesh network with optional AES-256-GCM encryption and OLED status display. It provides easy-to-use serial commands, automatic message rebroadcasting, and low-memory footprint for ESP32 LoRa32 devices.
 
 ### Flight Sim
 - 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World companion and standalone app
