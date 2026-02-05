@@ -25,29 +25,29 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 ## Ausgewählte Projekte
 
 ### KI & Finanzen
-- 📈 [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-gestütztes KI-Nachrichten-Prognosesystem für kurzfristige bis mittelfristige Marktprognosen, mit Echtzeitanalyse und einem Dash-basierten Monitoring-Dashboard. **Lizenz:** Proprietäre Source-Available-Lizenz (streng).
+- 📈 [![Issues](https://img.shields.io/github/issues/arn-c0de/ANPS-TradeMeUp?style=flat-square&color=blue)](https://github.com/arn-c0de/ANPS-TradeMeUp/issues) [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-gestütztes KI-Nachrichten-Prognosesystem für kurzfristige bis mittelfristige Marktprognosen, mit Echtzeitanalyse und einem Dash-basierten Monitoring-Dashboard. **Lizenz:** Proprietäre Source-Available-Lizenz (streng).
 
 ### IoT & Embedded
 
--  [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - ist eine Sammlung von ESP32-basierten Bildungs- und Experimentallaboren für Sicherheitsforschung, Schulung und Prototyping. Das Repository beherbergt aktuelle Projekte und wird zukünftige Labs mit offensiven und defensiven Techniken, sicheren Experimenten und Red-Team/Blue-Team-Übungen beherbergen.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - ist eine Sammlung von ESP32-basierten Bildungs- und Experimentallaboren für Sicherheitsforschung, Schulung und Prototyping. Das Repository beherbergt aktuelle Projekte und wird zukünftige Labs mit offensiven und defensiven Techniken, sicheren Experimenten und Red-Team/Blue-Team-Übungen beherbergen.
 
-- ⌨️ [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - Ein Multi-Passwort-USB-HID-Tastaturemulatoren für den Arduino Pro Micro (ATmega32U4). Verschiedene Tastendrucksequenzen lösen vordefinierte Passwörter aus, die automatisch über USB eingegeben werden.
+- ⌨️ [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - Ein Multi-Passwort-USB-HID-Tastaturemulatoren für den Arduino Pro Micro (ATmega32U4). Verschiedene Tastendrucksequenzen lösen vordefinierte Passwörter aus, die automatisch über USB eingegeben werden.
 
-- 🚪 [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Leichtgewichtiger, sicherer ESP32-basierter Sensorknoten zur Erkennung des Offen/Geschlossen-Status von Türen, Fenstern und ähnlichen Kontakten
+- 🚪 [![Issues](https://img.shields.io/github/issues/arn-c0de/CloseMyThing?style=flat-square&color=blue)](https://github.com/arn-c0de/CloseMyThing/issues) [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Leichtgewichtiger, sicherer ESP32-basierter Sensorknoten zur Erkennung des Offen/Geschlossen-Status von Türen, Fenstern und ähnlichen Kontakten
 
-- 📡 [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server ist eine minimale, professionelle Implementierung eines Mehrhopf‑LoRa‑Mesh‑Netzwerks mit optionaler AES-256-GCM‑Verschlüsselung und OLED‑Statusanzeige. Bietet einfache serielle Befehle, automatisches Weiterleiten von Nachrichten und geringen Speicherverbrauch für ESP32 LoRa32 Geräte.
+- 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server ist eine minimale, professionelle Implementierung eines Mehrhopf‑LoRa‑Mesh‑Netzwerks mit optionaler AES-256-GCM‑Verschlüsselung und OLED‑Statusanzeige. Bietet einfache serielle Befehle, automatisches Weiterleiten von Nachrichten und geringen Speicherverbrauch für ESP32 LoRa32 Geräte.
 
 
 ### Flugsimulation
-- 🛩️ [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World Begleit- und Standalone-App
+- 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World Begleit- und Standalone-App
 
 ### Spiele
-- 🎮 [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape ist ein ortsbasiertes Zombie-Survival-Spiel für Android. Erkunde echte Karten, plündere Gebäude, bekämpfe Zombies und überlebe in einer persistenten offenen Welt mit GPS- oder Joystick-Steuerung. In Kotlin entwickelt.
+- 🎮 [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape ist ein ortsbasiertes Zombie-Survival-Spiel für Android. Erkunde echte Karten, plündere Gebäude, bekämpfe Zombies und überlebe in einer persistenten offenen Welt mit GPS- oder Joystick-Steuerung. In Kotlin entwickelt.
 
 ### Sicherheit & Netzwerke
-- 🔵🔴 [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Echtzeit-Netzwerküberwachungs- und Bedrohungsanalyse-Tool, das Live-Traffic visualisiert, verdächtige Verbindungen erkennt und globale Bedrohungen auf einem interaktiven 3D-Globus darstellt.
-- 🛡️ [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Echtzeit-Netzwerkeinbruchserkennung mit einem leichtgewichtigen GUI-Dashboard — Live-Paket-Erfassung, IP-Geolokalisierung, AbuseIPDB-Bedrohungsbewertung und optionales automatisches Blockieren durch die Firewall.
-- 🛡️ [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Echtzeit-Verteidigungsnetzwerk-Tool mit integriertem Paket-Scanner und GUI zur Erkennung von Flood-Angriffen, ARP-Spoofing und DHCP-Floods, mit plattformübergreifender Firewall-Unterstützung.
+- 🔵🔴 [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Connect-Spoofer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Connect-Spoofer/issues) [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Echtzeit-Netzwerküberwachungs- und Bedrohungsanalyse-Tool, das Live-Traffic visualisiert, verdächtige Verbindungen erkennt und globale Bedrohungen auf einem interaktiven 3D-Globus darstellt.
+- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Vandalizer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Vandalizer/issues) [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Echtzeit-Netzwerkeinbruchserkennung mit einem leichtgewichtigen GUI-Dashboard — Live-Paket-Erfassung, IP-Geolokalisierung, AbuseIPDB-Bedrohungsbewertung und optionales automatisches Blockieren durch die Firewall.
+- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Counterflood-Software?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Counterflood-Software/issues) [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Echtzeit-Verteidigungsnetzwerk-Tool mit integriertem Paket-Scanner und GUI zur Erkennung von Flood-Angriffen, ARP-Spoofing und DHCP-Floods, mit plattformübergreifender Firewall-Unterstützung.
 
 ---
 
