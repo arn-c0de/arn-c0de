@@ -22,34 +22,6 @@ Interested in collaboration, continuous learning, and technical exchange
 
 ---
 
-## Featured Projects
-
-### AI & Finance
-- 📈 [![Issues](https://img.shields.io/github/issues/arn-c0de/ANPS-TradeMeUp?style=flat-square&color=blue)](https://github.com/arn-c0de/ANPS-TradeMeUp/issues) [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-powered AI News Prediction System for short-to-medium term market forecasting, featuring real-time analysis and a Dash-based monitoring dashboard. **License:** Proprietary source-available (strict).
-
-### IoT & Embedded
-
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - is a collection of ESP32-based educational and experimental labs for security research, training, and prototyping. The repository hosts current projects and will continue to host future labs covering offensive and defensive techniques, safe experiments, and red-team/blue-team exercises.
-
-- ⌨️ [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - A multi-password USB HID keyboard emulator for the Arduino Pro Micro (ATmega32U4). Different button press sequences trigger predefined passwords, typed automatically over USB.
-
-- 🚪 [![Issues](https://img.shields.io/github/issues/arn-c0de/CloseMyThing?style=flat-square&color=blue)](https://github.com/arn-c0de/CloseMyThing/issues) [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Lightweight, secure ESP32-based sensor node for detecting the open/closed state of doors, windows, and similar contacts
-
-- 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server is a minimal, professional implementation of a multi-hop LoRa mesh network with optional AES-256-GCM encryption and OLED status display. It provides easy-to-use serial commands, automatic message rebroadcasting, and low-memory footprint for ESP32 LoRa32 devices.
-
-### Flight Sim
-- 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World companion and standalone app
-
-### Games
-- 🎮 [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape is a location-based zombie survival game for Android. Explore real-world maps, loot buildings, fight zombies, and survive in a persistent open world using GPS or joystick controls. Built in Kotlin.
-
-### Security & Networks
-- 🔵🔴 [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Connect-Spoofer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Connect-Spoofer/issues) [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Real-time network monitoring and threat analysis tool that visualizes live traffic, detects suspicious connections, and maps global threats on an interactive 3D globe.
-- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Vandalizer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Vandalizer/issues) [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Real-time network intrusion detection with a lightweight GUI dashboard — live packet capture, IP geolocation, AbuseIPDB threat scoring, and optional automated firewall blocking.
-- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Counterflood-Software?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Counterflood-Software/issues) [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Real-time defensive network tool with integrated packet scanner and GUI for detecting flood attacks, ARP spoofing, and DHCP floods, featuring multi-platform firewall support.
-
----
-
 ## Tech Stack
 
 <table>
@@ -189,6 +161,34 @@ Interested in collaboration, continuous learning, and technical exchange
     <img alt="arn-c0de's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />
   </a>
 </p>
+
+---
+
+## Featured Projects
+
+### AI & Finance
+- 📈 [![Issues](https://img.shields.io/github/issues/arn-c0de/ANPS-TradeMeUp?style=flat-square&color=blue)](https://github.com/arn-c0de/ANPS-TradeMeUp/issues) [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-powered AI News Prediction System for short-to-medium term market forecasting, featuring real-time analysis and a Dash-based monitoring dashboard. **License:** Proprietary source-available (strict).
+
+### IoT & Embedded
+
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - is a collection of ESP32-based educational and experimental labs for security research, training, and prototyping. The repository hosts current projects and will continue to host future labs covering offensive and defensive techniques, safe experiments, and red-team/blue-team exercises.
+
+- ⌨️ [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - A multi-password USB HID keyboard emulator for the Arduino Pro Micro (ATmega32U4). Different button press sequences trigger predefined passwords, typed automatically over USB.
+
+- 🚪 [![Issues](https://img.shields.io/github/issues/arn-c0de/CloseMyThing?style=flat-square&color=blue)](https://github.com/arn-c0de/CloseMyThing/issues) [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Lightweight, secure ESP32-based sensor node for detecting the open/closed state of doors, windows, and similar contacts
+
+- 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server is a minimal, professional implementation of a multi-hop LoRa mesh network with optional AES-256-GCM encryption and OLED status display. It provides easy-to-use serial commands, automatic message rebroadcasting, and low-memory footprint for ESP32 LoRa32 devices.
+
+### Flight Sim
+- 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World companion and standalone app
+
+### Games
+- 🎮 [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape is a location-based zombie survival game for Android. Explore real-world maps, loot buildings, fight zombies, and survive in a persistent open world using GPS or joystick controls. Built in Kotlin.
+
+### Security & Networks
+- 🔵🔴 [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Connect-Spoofer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Connect-Spoofer/issues) [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Real-time network monitoring and threat analysis tool that visualizes live traffic, detects suspicious connections, and maps global threats on an interactive 3D globe.
+- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Vandalizer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Vandalizer/issues) [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Real-time network intrusion detection with a lightweight GUI dashboard — live packet capture, IP geolocation, AbuseIPDB threat scoring, and optional automated firewall blocking.
+- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Counterflood-Software?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Counterflood-Software/issues) [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Real-time defensive network tool with integrated packet scanner and GUI for detecting flood attacks, ARP spoofing, and DHCP floods, featuring multi-platform firewall support.
 
 ---
 
