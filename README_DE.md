@@ -169,6 +169,8 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 ### KI & Finanzen
 - 📈 [![Issues](https://img.shields.io/github/issues/arn-c0de/ANPS-TradeMeUp?style=flat-square&color=blue)](https://github.com/arn-c0de/ANPS-TradeMeUp/issues) [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-gestütztes KI-Nachrichten-Prognosesystem für kurzfristige bis mittelfristige Marktprognosen, mit Echtzeitanalyse und einem Dash-basierten Monitoring-Dashboard. **Lizenz:** Proprietäre Source-Available-Lizenz (streng).
 
+- 🤖 [![Issues](https://img.shields.io/github/issues/arn-c0de/Crawllama?style=flat-square&color=blue)](https://github.com/arn-c0de/Crawllama/issues) [**CrawlLama**](https://github.com/arn-c0de/Crawllama) - CrawlLama 🦙 ist ein lokal laufender KI-Agent, der Fragen über Ollama beantwortet und Web‑ sowie RAG‑basierte Recherche integriert.
+
 ### IoT & Embedded
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - ist eine Sammlung von ESP32-basierten Bildungs- und Experimentallaboren für Sicherheitsforschung, Schulung und Prototyping. Das Repository beherbergt aktuelle Projekte und wird zukünftige Labs mit offensiven und defensiven Techniken, sicheren Experimenten und Red-Team/Blue-Team-Übungen beherbergen.

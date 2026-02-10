@@ -169,6 +169,8 @@
 ### 人工智能与金融
 - 📈 [![Issues](https://img.shields.io/github/issues/arn-c0de/ANPS-TradeMeUp?style=flat-square&color=blue)](https://github.com/arn-c0de/ANPS-TradeMeUp/issues) [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - 基于 LLM 的 AI 新闻预测系统,用于短到中期市场预测,具有实时分析和基于 Dash 的监控仪表板。**许可证:** 专有 source-available(严格)。
 
+- 🤖 [![Issues](https://img.shields.io/github/issues/arn-c0de/Crawllama?style=flat-square&color=blue)](https://github.com/arn-c0de/Crawllama/issues) [**CrawlLama**](https://github.com/arn-c0de/Crawllama) - CrawlLama 🦙 是一个本地 AI 代理，通过 Ollama 回答问题，并集成了基于网络和 RAG 的检索研究。
+
 ### IoT 与嵌入式
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - 是一个基于 ESP32 的教育和实验室集合,用于安全研究、培训和原型制作。该存储库托管当前项目,并将继续托管涵盖攻击性和防御性技术、安全实验和红队/蓝队演练的未来实验室。

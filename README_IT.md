@@ -168,7 +168,7 @@ Interessato alla collaborazione, all'apprendimento continuo e allo scambio tecni
 
 ### IA & Finanza
 - 📈 [![Issues](https://img.shields.io/github/issues/arn-c0de/ANPS-TradeMeUp?style=flat-square&color=blue)](https://github.com/arn-c0de/ANPS-TradeMeUp/issues) [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - Sistema di previsione delle notizie basato su LLM per previsioni di mercato a breve e medio termine, con analisi in tempo reale e cruscotto di monitoraggio basato su Dash. **Licenza:** proprietaria source-available (stretta).
-
+- 🤖 [![Issues](https://img.shields.io/github/issues/arn-c0de/Crawllama?style=flat-square&color=blue)](https://github.com/arn-c0de/Crawllama/issues) [**CrawlLama**](https://github.com/arn-c0de/Crawllama) - CrawlLama 🦙 è un agente AI locale che risponde alle domande tramite Ollama e integra ricerche web e basate su RAG.
 ### IoT & Embedded
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - è una raccolta di laboratori educativi e sperimentali basati su ESP32 per ricerca sulla sicurezza, formazione e prototipazione. Il repository ospita i progetti attuali e continuerà ad ospitare laboratori futuri che coprono tecniche offensive e difensive, esperimenti sicuri ed esercizi red-team/blue-team.
