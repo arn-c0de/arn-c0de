@@ -171,6 +171,8 @@
 
 - 🤖 [![Issues](https://img.shields.io/github/issues/arn-c0de/Crawllama?style=flat-square&color=blue)](https://github.com/arn-c0de/Crawllama/issues) [**CrawlLama**](https://github.com/arn-c0de/Crawllama) - CrawlLama 🦙 是一个本地 AI 代理，通过 Ollama 回答问题，并集成了基于网络和 RAG 的检索研究。
 
+- 📊 [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - 这是一个用于AOI/AI概念实验和原型设计的存储库，旨在将其实现为清晰、可复用的构建模块。**许可证：** 专有。**未经事先书面许可，不得使用、复制、修改或分发此软件。**
+
 ### IoT 与嵌入式
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - 是一个基于 ESP32 的教育和实验室集合,用于安全研究、培训和原型制作。该存储库托管当前项目,并将继续托管涵盖攻击性和防御性技术、安全实验和红队/蓝队演练的未来实验室。

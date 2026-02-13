@@ -171,6 +171,8 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 - 🤖 [![Issues](https://img.shields.io/github/issues/arn-c0de/Crawllama?style=flat-square&color=blue)](https://github.com/arn-c0de/Crawllama/issues) [**CrawlLama**](https://github.com/arn-c0de/Crawllama) - CrawlLama 🦙 ist ein lokal laufender KI-Agent, der Fragen über Ollama beantwortet und Web‑ sowie RAG‑basierte Recherche integriert.
 
+- 📊 [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - Dies ist ein Test- / Prototyping-Repository zum Experimentieren mit AOI/KI-Konzepten und deren Implementierung als saubere, reproduzierbare Bausteine. **Lizenz:** Proprietär. **Die Nutzung, das Kopieren, Modifizieren oder Verteilen dieser Software ohne vorherige schriftliche Genehmigung ist nicht gestattet.**
+
 ### IoT & Embedded
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - ist eine Sammlung von ESP32-basierten Bildungs- und Experimentallaboren für Sicherheitsforschung, Schulung und Prototyping. Das Repository beherbergt aktuelle Projekte und wird zukünftige Labs mit offensiven und defensiven Techniken, sicheren Experimenten und Red-Team/Blue-Team-Übungen beherbergen.
@@ -239,7 +241,7 @@ Für Fehler, Feature-Anfragen und allgemeine Projektdiskussionen verwenden Sie b
 
 Copyright (c) 2026 arn-c0de. Alle Rechte vorbehalten.
 
-Dieses Repository enthält ein Projekt (ANPS-TradeMeUp), das unter einer proprietären Source-Available-Lizenz verteilt wird. Siehe \`LICENSE\` für vollständige Details.
+Dieses Repository enthält ein Projekt (ANPS-TradeMeUp), das unter einer proprietären Source-Available-Lizenz verteilt wird. Siehe `LICENSE` für vollständige Details.
 
 ---
 
