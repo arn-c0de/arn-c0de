@@ -39,6 +39,11 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+### 机器学习
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ResNet18](https://img.shields.io/badge/ResNet18-DeepLearningAI-green?style=for-the-badge)
+
 </td>
 <td width="50%" valign="top">
 
@@ -64,6 +69,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </td>
 </tr>
@@ -107,6 +113,16 @@
 -  PCB 设计与原型制作
 -  家庭自动化
 -  飞行模拟
+
+</td>
+</tr>
+<tr>
+<td width="66%" valign="top" colspan="2">
+
+### 人工智能与机器学习
+
+-  人工智能训练
+-  合成数据集生成
 
 </td>
 </tr>

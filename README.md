@@ -39,6 +39,11 @@ Interested in collaboration, continuous learning, and technical exchange
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+### Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ResNet18](https://img.shields.io/badge/ResNet18-DeepLearningAI-green?style=for-the-badge)
+
 </td>
 <td width="50%" valign="top">
 
@@ -64,6 +69,7 @@ Interested in collaboration, continuous learning, and technical exchange
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </td>
 </tr>
@@ -107,6 +113,16 @@ Interested in collaboration, continuous learning, and technical exchange
 -  PCB Design & Prototyping
 -  Home Automation
 -  Flight Simulation
+
+</td>
+</tr>
+<tr>
+<td width="66%" valign="top" colspan="2">
+
+### AI & Machine Learning
+
+-  AI Training
+-  Synthetic Dataset Generation
 
 </td>
 </tr>
