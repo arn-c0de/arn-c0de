@@ -7,18 +7,10 @@
 </p>
 
 ---
-Developer from Germany 🇩🇪, working primarily on Android and web applications, embedded systems, and backend development.
+🇩🇪 working primarily on Android and web applications, embedded systems, and backend development.
 
 **Languages:** German (native) · English (fluent)
-
----
-
-
-Main languages: Kotlin, Python, and C, mainly used with ESP32, SDR radio, and Wi-Fi tools
-
-Currently learning Kotlin, C/C++ for Windows and Rust for low-level programming
-
-Interested in collaboration, continuous learning, and technical exchange
+**Focus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Learning:** Rust, C++ (Windows)
 
 ---
 
@@ -28,14 +20,11 @@ Interested in collaboration, continuous learning, and technical exchange
 <tr>
 <td width="50%" valign="top">
 
-### Languages
+### Languages & Frameworks
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Frameworks
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -81,88 +70,19 @@ Interested in collaboration, continuous learning, and technical exchange
 
 ---
 
-## What I Work On
+## Expertise & Focus
 
-<table>
-<tr>
-<td width="33%" valign="top">
+| Field | Focus Areas |
+| :--- | :--- |
+| **Development** | Mobile & Web Apps, Backend, API Design, Automation |
+| **Security** | SDR, Wi-Fi Research, Network Monitoring (IDS/IPS), PenTesting |
+| **Hardware & IoT** | Embedded (ESP32/8266), LoRa, PCB Design, Flight Sim |
+| **AI & ML** | AI Training & Synthetic Dataset Generation |
 
-### Development
+## Current Learning
 
--  Mobile & Web Apps
--  Backend Development
--  Automation Scripts
--  API Design
--  Data Processing
-
-</td>
-<td width="33%" valign="top">
-
-### Security & Networks
-
--  SDR Radio Projects
--  Self-Hosting Solutions
--  Wi-Fi Security Research
--  Network Monitoring (IDS/IPS)
--  Penetration Testing
-
-</td>
-<td width="33%" valign="top">
-
-### Hardware & IoT
-
--  Embedded Systems
--  ESP32 / ESP8266 Projects
--  LoRa & LPWAN
--  PCB Design & Prototyping
--  Home Automation
--  Flight Simulation
-
-</td>
-</tr>
-<tr>
-<td width="66%" valign="top" colspan="2">
-
-### AI & Machine Learning
-
--  AI Training
--  Synthetic Dataset Generation
-
-</td>
-</tr>
-</table>
-
----
-
-## Current Learning Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Programming & Development
-
-- C/C++ for Windows development
-- Kotlin / Java
-- Low-level system programming
-- Rust programming language
-- Secure software architecture
-- Modern design patterns
-
-</td>
-<td width="50%" valign="top">
-
-### Security & Engineering
-
-- Defensive security practices
-- Reverse engineering fundamentals
-- Project hardening techniques
-- Vulnerability research
-- Secure code review
-
-</td>
-</tr>
-</table>
+- **Programming:** Rust, C/C++ (Windows), Low-level, Java/Kotlin, Design Patterns
+- **Security:** Reverse Engineering, Hardening, Research, Secure Code Review
 
 ---
 
@@ -208,11 +128,6 @@ Interested in collaboration, continuous learning, and technical exchange
 
 ### Games
 - 🎮 [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape is a location-based zombie survival game for Android. Explore real-world maps, loot buildings, fight zombies, and survive in a persistent open world using GPS or joystick controls. Built in Kotlin.
-
-### Security & Networks
-- 🔵🔴 [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Connect-Spoofer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Connect-Spoofer/issues) [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Real-time network monitoring and threat analysis tool that visualizes live traffic, detects suspicious connections, and maps global threats on an interactive 3D globe.
-- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Vandalizer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Vandalizer/issues) [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Real-time network intrusion detection with a lightweight GUI dashboard — live packet capture, IP geolocation, AbuseIPDB threat scoring, and optional automated firewall blocking.
-- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Counterflood-Software?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Counterflood-Software/issues) [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Real-time defensive network tool with integrated packet scanner and GUI for detecting flood attacks, ARP spoofing, and DHCP floods, featuring multi-platform firewall support.
 
 ---
 

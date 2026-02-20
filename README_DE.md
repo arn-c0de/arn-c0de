@@ -7,18 +7,10 @@
 </p>
 
 ---
-Entwickler aus Deutschland 🇩🇪, arbeite hauptsächlich an Android- und Webanwendungen, Embedded Systems und Backend-Entwicklung.
+🇩🇪 arbeite hauptsächlich an Android- und Webanwendungen, Embedded Systems und Backend-Entwicklung.
 
 **Sprachen:** Deutsch (Muttersprache) · Englisch (fließend)
-
----
-
-
-Hauptsprachen: Kotlin, Python und C, hauptsächlich eingesetzt bei ESP32, SDR-Radio und Wi-Fi-Tools
-
-Derzeit lerne ich Kotlin, C/C++ für Windows und Rust für Low-Level-Programmierung
-
-Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausch
+**Fokus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Lerne gerade:** Rust, C++ (Windows)
 
 ---
 
@@ -28,14 +20,11 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 <tr>
 <td width="50%" valign="top">
 
-### Programmiersprachen
+### Sprachen & Frameworks
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Frameworks
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -81,88 +70,19 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 ---
 
-## Woran ich arbeite
+## Fachwissen & Fokus
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Entwicklung
-
--  Mobile & Web Apps
--  Backend-Entwicklung
--  Automatisierungsskripte
--  API-Design
--  Datenverarbeitung
-
-</td>
-<td width="33%" valign="top">
-
-### Sicherheit & Netzwerke
-
--  SDR-Radio-Projekte
--  Self-Hosting-Lösungen
--  Wi-Fi-Sicherheitsforschung
--  Netzwerküberwachung (IDS/IPS)
--  Penetrationstests
-
-</td>
-<td width="33%" valign="top">
-
-### Hardware & IoT
-
--  Embedded Systems
--  ESP32 / ESP8266 Projekte
--  LoRa & LPWAN
--  PCB-Design & Prototyping
--  Hausautomation
--  Flugsimulation
-
-</td>
-</tr>
-<tr>
-<td width="66%" valign="top" colspan="2">
-
-### KI & Maschinelles Lernen
-
--  KI-Training
--  Generierung synthetischer Datensätze
-
-</td>
-</tr>
-</table>
-
----
+| Bereich | Fokusbereiche |
+| :--- | :--- |
+| **Entwicklung** | Mobile & Web Apps, Backend, API-Design, Automatisierung |
+| **Sicherheit** | SDR, Wi-Fi-Forschung, Netzwerküberwachung (IDS/IPS), PenTesting |
+| **Hardware & IoT** | Embedded (ESP32/8266), LoRa, PCB-Design, Flugsimulation |
+| **KI & ML** | KI-Training & Generierung synthetischer Datensätze |
 
 ## Aktueller Lernfokus
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Programmierung & Entwicklung
-
-- C/C++ für Windows-Entwicklung
-- Kotlin / Java
-- Low-Level-Systemprogrammierung
-- Rust-Programmiersprache
-- Sichere Software-Architektur
-- Moderne Designmuster
-
-</td>
-<td width="50%" valign="top">
-
-### Sicherheit & Engineering
-
-- Defensive Sicherheitspraktiken
-- Grundlagen der Rückwärtsentwicklung
-- Projekt-Härtungstechniken
-- Schwachstellenforschung
-- Sichere Code-Review
-
-</td>
-</tr>
-</table>
+- **Programmierung:** Rust, C/C++ (Windows), Low-Level, Java/Kotlin, Design-Pattern
+- **Sicherheit:** Reverse Engineering, Hardening, Forschung, Secure Code Review
 
 ---
 
@@ -203,17 +123,11 @@ Interessiert an Zusammenarbeit, kontinuierlichem Lernen und technischem Austausc
 
 - 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server ist eine minimale, professionelle Implementierung eines Mehrhopf‑LoRa‑Mesh‑Netzwerks mit optionaler AES-256-GCM‑Verschlüsselung und OLED‑Statusanzeige. Bietet einfache serielle Befehle, automatisches Weiterleiten von Nachrichten und geringen Speicherverbrauch für ESP32 LoRa32 Geräte.
 
-
 ### Flugsimulation
 - 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World Begleit- und Standalone-App
 
 ### Spiele
 - 🎮 [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape ist ein ortsbasiertes Zombie-Survival-Spiel für Android. Erkunde echte Karten, plündere Gebäude, bekämpfe Zombies und überlebe in einer persistenten offenen Welt mit GPS- oder Joystick-Steuerung. In Kotlin entwickelt.
-
-### Sicherheit & Netzwerke
-- 🔵🔴 [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Connect-Spoofer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Connect-Spoofer/issues) [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Echtzeit-Netzwerküberwachungs- und Bedrohungsanalyse-Tool, das Live-Traffic visualisiert, verdächtige Verbindungen erkennt und globale Bedrohungen auf einem interaktiven 3D-Globus darstellt.
-- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Vandalizer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Vandalizer/issues) [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Echtzeit-Netzwerkeinbruchserkennung mit einem leichtgewichtigen GUI-Dashboard — Live-Paket-Erfassung, IP-Geolokalisierung, AbuseIPDB-Bedrohungsbewertung und optionales automatisches Blockieren durch die Firewall.
-- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Counterflood-Software?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Counterflood-Software/issues) [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Echtzeit-Verteidigungsnetzwerk-Tool mit integriertem Paket-Scanner und GUI zur Erkennung von Flood-Angriffen, ARP-Spoofing und DHCP-Floods, mit plattformübergreifender Firewall-Unterstützung.
 
 ---
 

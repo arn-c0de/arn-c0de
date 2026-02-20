@@ -7,35 +7,24 @@
 </p>
 
 ---
-Développeur d'Allemagne 🇩🇪, travaillant principalement sur des applications Android et web, des systèmes embarqués et le développement backend.
+🇩🇪 travaille principalement sur les applications Android et web, les systèmes embarqués et le développement backend.
 
-**Langues :** Allemand (natif) · Anglais (courant)
-
----
-
-
-Langages principaux : Kotlin, Python et C, principalement utilisés avec ESP32, radio SDR et outils Wi-Fi
-
-Actuellement en apprentissage de Kotlin, C/C++ pour Windows et Rust pour la programmation bas-niveau
-
-Intéressé par la collaboration, l'apprentissage continu et les échanges techniques
+**Langues:** Allemand (natif) · Anglais (courant)
+**Focus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Apprentissage:** Rust, C++ (Windows)
 
 ---
 
-## Stack technique
+## Tech Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Langages
+### Langages & Frameworks
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Frameworks
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -81,88 +70,19 @@ Intéressé par la collaboration, l'apprentissage continu et les échanges techn
 
 ---
 
-## Sur quoi je travaille
+## Expertise & Focus
 
-<table>
-<tr>
-<td width="33%" valign="top">
+| Domaine | Domaines de concentration |
+| :--- | :--- |
+| **Développement** | Apps Mobiles & Web, Backend, Design d'API, Automatisation |
+| **Sécurité** | SDR, Recherche Wi-Fi, Surveillance Réseau (IDS/IPS), PenTesting |
+| **Matériel & IoT** | Embarqué (ESP32/8266), LoRa, Design PCB, Simulation de Vol |
+| **IA & ML** | Formation IA & Génération de Jeux de Données Synthétiques |
 
-### Développement
+## Apprentissage Actuel
 
--  Applications mobiles & web
--  Développement backend
--  Scripts d'automatisation
--  Design d'API
--  Traitement des données
-
-</td>
-<td width="33%" valign="top">
-
-### Sécurité & Réseaux
-
--  Projets radio SDR
--  Solutions d'auto-hébergement
--  Recherche en sécurité Wi-Fi
--  Surveillance réseau (IDS/IPS)
--  Tests de pénétration
-
-</td>
-<td width="33%" valign="top">
-
-### Matériel & IoT
-
--  Systèmes embarqués
--  Projets ESP32 / ESP8266
--  LoRa & LPWAN
--  Design PCB & Prototypage
--  Domotique
--  Simulation de vol
-
-</td>
-</tr>
-<tr>
-<td width="66%" valign="top" colspan="2">
-
-### IA et Apprentissage Automatique
-
--  Formation IA
--  Génération de Jeux de Données Synthétiques
-
-</td>
-</tr>
-</table>
-
----
-
-## Focus d'apprentissage actuel
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Programmation & Développement
-
-- C/C++ pour le développement Windows
-- Kotlin / Java
-- Programmation système bas-niveau
-- Langage de programmation Rust
-- Architecture logicielle sécurisée
-- Modèles de conception modernes
-
-</td>
-<td width="50%" valign="top">
-
-### Sécurité & Engineering
-
-- Pratiques de sécurité défensive
-- Fondamentaux de l'ingénierie inverse
-- Techniques de durcissement de projet
-- Recherche en vulnérabilités
-- Examen de code sécurisé
-
-</td>
-</tr>
-</table>
+- **Programmation:** Rust, C/C++ (Windows), Bas-niveau, Java/Kotlin, Modèles de Conception
+- **Sécurité:** Ingénierie Inverse, Durcissement, Recherche, Examen de Code Sécurisé
 
 ---
 
@@ -188,7 +108,11 @@ Intéressé par la collaboration, l'apprentissage continu et les échanges techn
 
 ### IA & Finance
 - 📈 [![Issues](https://img.shields.io/github/issues/arn-c0de/ANPS-TradeMeUp?style=flat-square&color=blue)](https://github.com/arn-c0de/ANPS-TradeMeUp/issues) [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - Système de prédiction d'actualités piloté par LLM pour des prévisions de marché à court et moyen terme, avec analyse en temps réel et tableau de bord de surveillance basé sur Dash. **Licence :** propriétaire source-disponible (stricte).
+
 - 🤖 [![Issues](https://img.shields.io/github/issues/arn-c0de/Crawllama?style=flat-square&color=blue)](https://github.com/arn-c0de/Crawllama/issues) [**CrawlLama**](https://github.com/arn-c0de/Crawllama) - CrawlLama 🦙 est un agent IA local qui répond aux questions via Ollama et intègre de la recherche web et basée sur RAG.
+
+- 📊 [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - C'est un dépôt de test / prototypage pour expérimenter les concepts AOI/IA et les implémenter sous forme de blocs de construction propres et reproductibles. **Licence :** Propriétaire. **Aucune permission n'est accordée pour utiliser, copier, modifier ou distribuer ce logiciel sans autorisation écrite préalable.**
+
 ### IoT & Embedded
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - est une collection de laboratoires éducatifs et expérimentaux basés sur l'ESP32 pour la recherche en sécurité, la formation et le prototypage. Le référentiel accueille les projets actuels et continuera à accueillir les laboratoires futurs couvrant les techniques offensives et défensives, les expériences sûres et les exercices d'équipe rouge/équipe bleue.
@@ -199,17 +123,11 @@ Intéressé par la collaboration, l'apprentissage continu et les échanges techn
 
 - 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server est une implémentation minimale et professionnelle d'un réseau maillé LoRa multi-sauts avec chiffrement optionnel AES-256-GCM et affichage OLED. Fournit des commandes série simples, le rebroadcast automatique des messages et une faible empreinte mémoire pour les dispositifs ESP32 LoRa32.
 
-
 ### Flight Sim
 - 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Application compagnon et autonome pour DCS-World
 
 ### Games
 - 🎮 [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape est un jeu de survie zombie basé sur la localisation pour Android. Explorez des cartes réelles, pillez des bâtiments, combattez des zombies et survivez dans un monde ouvert persistant en utilisant le GPS ou un joystick. Développé en Kotlin.
-
-### Sécurité & Réseaux
-- 🔵🔴 [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Connect-Spoofer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Connect-Spoofer/issues) [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Outil de surveillance réseau en temps réel et d'analyse des menaces qui visualise le trafic en direct, détecte les connexions suspectes et cartographie les menaces mondiales sur un globe 3D interactif.
-- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Vandalizer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Vandalizer/issues) [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Détection d'intrusion réseau en temps réel avec un tableau de bord GUI léger — capture de paquets en direct, géolocalisation IP, notation de menace via AbuseIPDB et blocage automatique facultatif par le pare-feu.
-- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Counterflood-Software?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Counterflood-Software/issues) [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Outil réseau défensif en temps réel avec scanner de paquets intégré et interface GUI pour détecter les attaques par saturation (flood), l'ARP spoofing et les attaques DHCP, avec prise en charge multiplateforme des pare-feu.
 
 ---
 
@@ -257,7 +175,7 @@ Pour les bogues, les demandes de fonctionnalités et les discussions générales
 
 Copyright (c) 2026 arn-c0de. Tous droits réservés.
 
-Ce référentiel contient un projet (ANPS-TradeMeUp) distribué sous une licence propriétaire source-disponible. Voir `LICENSE` pour tous les détails.
+Ce référentiel contient un projet (ANPS-TradeMeUp) distribué sous une licence propriétaire source-disponible. Voir `LICENSE` for full details.
 
 ---
 

@@ -7,35 +7,24 @@
 </p>
 
 ---
-Sviluppatore dalla Germania 🇩🇪, lavoro principalmente su applicazioni Android e web, sistemi embedded e sviluppo backend.
+🇩🇪 lavoro principalmente su applicazioni Android e web, sistemi embedded e sviluppo backend.
 
 **Lingue:** Tedesco (madrelingua) · Inglese (fluente)
+**Focus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Apprendimento:** Rust, C++ (Windows)
 
 ---
 
-
-Linguaggi principali: Kotlin, Python e C, principalmente utilizzati con ESP32, radio SDR e strumenti Wi-Fi
-
-Attualmente sto imparando Kotlin, C/C++ per Windows e Rust per la programmazione a basso livello
-
-Interessato alla collaborazione, all'apprendimento continuo e allo scambio tecnico
-
----
-
-## Stack tecnologico
+## Tech Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Linguaggi
+### Linguaggi & Framework
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Framework
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -55,7 +44,7 @@ Interessato alla collaborazione, all'apprendimento continuo e allo scambio tecni
 ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![ATmega](https://img.shields.io/badge/ATmega-5D5D5D?style=for-the-badge&logo=atmel&logoColor=white)<br>
 ![HackRF One](https://img.shields.io/badge/HackRF_One-000000?style=for-the-badge&logo=hackrf&logoColor=white)
-![RTL-SDR](https://img.io/badge/RTL--SDR-FF0000?style=for-the-badge&logo=rtl_sdr&logoColor=white)
+![RTL-SDR](https://img.shields.io/badge/RTL--SDR-FF0000?style=for-the-badge&logo=rtl_sdr&logoColor=white)
 ![LoRa](https://img.shields.io/badge/LoRa-1EA1E1?style=for-the-badge&logo=lorawan&logoColor=white)
 
 </td>
@@ -81,88 +70,19 @@ Interessato alla collaborazione, all'apprendimento continuo e allo scambio tecni
 
 ---
 
-## Su cosa lavoro
+## Esperienza e Focus
 
-<table>
-<tr>
-<td width="33%" valign="top">
+| Campo | Aree di focus |
+| :--- | :--- |
+| **Sviluppo** | App Mobile & Web, Backend, Progettazione API, Automazione |
+| **Sicurezza** | SDR, Ricerca Wi-Fi, Monitoraggio di Rete (IDS/IPS), PenTesting |
+| **Hardware & IoT** | Embedded (ESP32/8266), LoRa, Progettazione PCB, Simulazione di Volo |
+| **IA e ML** | Addestramento IA e Generazione di Dataset Sintetici |
 
-### Sviluppo
+## Apprendimento Attuale
 
--  App mobile & web
--  Sviluppo backend
--  Script di automazione
--  Progettazione API
--  Elaborazione dati
-
-</td>
-<td width="33%" valign="top">
-
-### Sicurezza & Reti
-
--  Progetti SDR
--  Soluzioni self-hosting
--  Ricerca sulla sicurezza Wi-Fi
--  Monitoraggio di rete (IDS/IPS)
--  Penetration testing
-
-</td>
-<td width="33%" valign="top">
-
-### Hardware & IoT
-
--  Sistemi embedded
--  Progetti ESP32 / ESP8266
--  LoRa & LPWAN
--  Progettazione PCB & prototipazione
--  Domotica
--  Simulazione di volo
-
-</td>
-</tr>
-<tr>
-<td width="66%" valign="top" colspan="2">
-
-### IA e Apprendimento Automatico
-
--  Addestramento IA
--  Generazione di Dataset Sintetici
-
-</td>
-</tr>
-</table>
-
----
-
-## Focus di apprendimento attuale
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Programmazione & Sviluppo
-
-- C/C++ per lo sviluppo Windows
-- Kotlin / Java
-- Programmazione di sistema a basso livello
-- Linguaggio di programmazione Rust
-- Architettura software sicura
-- Pattern di progettazione moderni
-
-</td>
-<td width="50%" valign="top">
-
-### Sicurezza & Ingegneria
-
-- Pratiche di sicurezza difensive
-- Fondamenti di reverse engineering
-- Tecniche di hardening dei progetti
-- Ricerca di vulnerabilità
-- Code review sicure
-
-</td>
-</tr>
-</table>
+- **Programmazione:** Rust, C/C++ (Windows), Basso livello, Java/Kotlin, Design Pattern
+- **Sicurezza:** Reverse Engineering, Hardening, Ricerca, Revisione del Codice Sicura
 
 ---
 
@@ -210,14 +130,9 @@ Interessato alla collaborazione, all'apprendimento continuo e allo scambio tecni
 ### Games
 - 🎮 [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape è un gioco di sopravvivenza zombie basato sulla posizione per Android. Esplora mappe reali, saccheggia edifici, combatti gli zombie e sopravvivi in un mondo aperto persistente usando GPS o joystick. Sviluppato in Kotlin.
 
-### Sicurezza & Reti
-- 🔵🔴 [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Connect-Spoofer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Connect-Spoofer/issues) [**GDEF-Connect-Spoofer**](https://github.com/arn-c0de/GDEF-Connect-Spoofer) - Strumento di monitoraggio della rete in tempo reale e analisi delle minacce che visualizza il traffico live, rileva connessioni sospette e mappa le minacce globali su un globo 3D interattivo.
-- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Vandalizer?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Vandalizer/issues) [**GDEF-Vandalizer**](https://github.com/arn-c0de/GDEF-Vandalizer) - Rilevamento delle intrusioni di rete in tempo reale con una GUI leggera — acquisizione pacchetti in tempo reale, geolocalizzazione IP, valutazione delle minacce tramite AbuseIPDB e blocco automatico opzionale tramite firewall.
-- 🛡️ [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-Counterflood-Software?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-Counterflood-Software/issues) [**GDEF-Counterflood-Software**](https://github.com/arn-c0de/GDEF-Counterflood-Software) - Strumento di difesa di rete in tempo reale con scanner di pacchetti integrato e interfaccia GUI per rilevare attacchi di tipo flood, ARP spoofing e DHCP flood, con supporto per firewall multipiattaforma.
-
 ---
 
-## Contatti
+## Connettiti con me
 
 <p align="center">
   <a href="https://x.com/arn_c0de">
