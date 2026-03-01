@@ -1,7 +1,7 @@
 # Salut 👋
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F52FF&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Embedded+Systems+%26+IoT;Security+Researcher;AI+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F52FF&center=true&vCenter=true&width=435&lines=Android+%26+Web+Apps;Embedded+Systems+%26+IoT;SDR+%26+Security+Research;AI+%26+Automation" alt="Typing SVG" /></a>
 </p>
 
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
