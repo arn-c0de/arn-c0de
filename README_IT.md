@@ -11,10 +11,6 @@
 **Focus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Apprendimento:** Rust, C++ (Windows)
 
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/arn-c0de/arn-c0de@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ## Tech Stack
