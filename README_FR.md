@@ -1,20 +1,19 @@
-# Salut 👋
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F52FF&center=true&vCenter=true&width=435&lines=Android+%26+Web+Apps;Embedded+Systems+%26+IoT;SDR+%26+Security+Research;AI+%26+Automation" alt="Typing SVG" /></a>
 </p>
 
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/arn-c0de/arn-c0de@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ---
 🇩🇪 travaille principalement sur les applications Android et web, les systèmes embarqués et le développement backend.
 
 **Langues:** Allemand (natif) · Anglais (courant)
 **Focus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Apprentissage:** Rust, C++ (Windows)
+
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/arn-c0de/arn-c0de@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
