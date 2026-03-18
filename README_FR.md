@@ -69,7 +69,7 @@
 
 ---
 
-## Expertise & Focus
+## Focus
 
 | Domaine | Domaines de concentration |
 | :--- | :--- |

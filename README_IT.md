@@ -69,7 +69,7 @@
 
 ---
 
-## Esperienza e Focus
+## Focus
 
 | Campo | Aree di focus |
 | :--- | :--- |

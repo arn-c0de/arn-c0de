@@ -5,7 +5,7 @@
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 
 ---
-🇩🇪 arbeite hauptsächlich an Android- und Webanwendungen, Embedded Systems und Backend-Entwicklung.
+🇩🇪 Arbeite hauptsächlich an Android- und Webanwendungen, Embedded und Backend-Entwicklung.
 
 **Sprachen:** Deutsch (Muttersprache) · Englisch (fließend)
 **Fokus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Lerne gerade:** Rust, C++ (Windows)
@@ -69,7 +69,7 @@
 
 ---
 
-## Fachwissen & Fokus
+## Fokus
 
 | Bereich | Fokusbereiche |
 | :--- | :--- |
@@ -81,7 +81,7 @@
 ## Aktueller Lernfokus
 
 - **Programmierung:** Rust, C/C++ (Windows), Low-Level, Java/Kotlin, Design-Pattern
-- **Sicherheit:** Reverse Engineering, Hardening, Forschung, Secure Code Review
+- **Sicherheit:** Reverse Engineering, Hardening, Secure Code Review
 
 ---
 

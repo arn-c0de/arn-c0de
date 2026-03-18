@@ -69,7 +69,7 @@
 
 ---
 
-## Expertise & Focus
+## Focus
 
 | Field | Focus Areas |
 | :--- | :--- |
