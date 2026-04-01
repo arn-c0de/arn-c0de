@@ -31,3 +31,6 @@ jobs:
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Purge jsDelivr cache
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/arn-c0de/arn-c0de@output/profile-3d-contrib/profile-night-rainbow.svg"
