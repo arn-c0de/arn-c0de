@@ -37,3 +37,19 @@ jobs:
           else
             echo "No changes to commit"
           fi
+      - name: Update README with cache-busting URL
+        if: success()
+        run: |
+          TIMESTAMP=$(date +%s)
+          # Update all README files to use a cache-busting URL
+          for file in README*.md; do
+            if [ -f "$file" ]; then
+              sed -i "s|assets/langs-donut.svg?cache-bust=[0-9]*|assets/langs-donut.svg?cache-bust=${TIMESTAMP}|" "$file"
+              sed -i "s|assets/langs-donut.svg|assets/langs-donut.svg?cache-bust=${TIMESTAMP}|" "$file"
+              git add "$file"
+            fi
+          done
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update languages chart cache-bust"
+            git push
+          fi
