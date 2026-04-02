@@ -88,7 +88,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="assets/langs-donut.svg?cache-bust=1" alt="Languages distribution" height="220" />
+  <img src="assets/langs-donut.svg?cache-bust=1775111873?cache-bust=1775111873" alt="Languages distribution" height="220" />
 </p>
 
 <p align="center">
