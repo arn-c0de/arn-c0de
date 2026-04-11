@@ -88,7 +88,7 @@
 ## GitHub 统计
 
 <p align="center">
-  <img src="assets/langs-donut.svg?cache-bust=1775803723?cache-bust=1775803723?cache-bust=1775717045?cache-bust=1775630612?cache-bust=1775544132?cache-bust=1775458228?cache-bust=1775370974?cache-bust=1775284283?cache-bust=1775198229" alt="Languages distribution" height="220" />
+  <img src="assets/langs-donut.svg?cache-bust=1775889142?cache-bust=1775889142?cache-bust=1775803723?cache-bust=1775717045?cache-bust=1775630612?cache-bust=1775544132?cache-bust=1775458228?cache-bust=1775370974?cache-bust=1775284283?cache-bust=1775198229" alt="Languages distribution" height="220" />
 </p>
 
 <p align="center">
