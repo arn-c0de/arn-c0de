@@ -125,7 +125,7 @@
 
 - ⌨️ [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - Un emulatore di tastiera USB HID multi-password per Arduino Pro Micro (ATmega32U4). Diverse sequenze di pressione dei pulsanti attivano password predefinite, digitate automaticamente tramite USB.
 
-- 🚪 [![Issues](https://img.shields.io/github/issues/arn-c0de/CloseMyThing?style=flat-square&color=blue)](https://github.com/arn-c0de/CloseMyThing/issues) [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Sensore ESP32 leggero e sicuro per rilevare lo stato aperto/chiuso di porte, finestre e contatti simili
+- 💾 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Launcher firmware minimale che consente di installare e alternare tra diverse build di firmware ESP32 da una scheda SD. Pensato per progetti in cui più applicazioni sono troppo grandi per stare contemporaneamente nella flash, permettendo all'utente di selezionare e flashare il firmware desiderato all'avvio.
 
 - 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server è un'implementazione minima e professionale di una rete mesh LoRa multi-hop con crittografia opzionale AES-256-GCM e display OLED di stato. Fornisce comandi seriali semplici, ritrasmissione automatica dei messaggi e basso consumo di memoria per dispositivi ESP32 LoRa32.
 
@@ -182,7 +182,7 @@ Per bug, richieste di funzionalità e discussioni generali sui progetti, utilizz
 
 Copyright (c) 2026 arn-c0de. Tutti i diritti riservati.
 
-Questo repository contiene un progetto (ANPS-TradeMeUp) distribuito sotto una licenza proprietaria source-available. Vedere `LICENSE` per i dettagli completi.
+Questo repository è distribuito sotto una licenza proprietaria source-available. Vedere `LICENSE` per i dettagli completi.
 
 ---
 

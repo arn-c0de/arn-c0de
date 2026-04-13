@@ -125,7 +125,7 @@
 
 - ⌨️ [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - Un émulateur de clavier USB HID multi-mot de passe pour l'Arduino Pro Micro (ATmega32U4). Différentes séquences de touches déclenchent des mots de passe prédéfinis, tapés automatiquement via USB.
 
-- 🚪 [![Issues](https://img.shields.io/github/issues/arn-c0de/CloseMyThing?style=flat-square&color=blue)](https://github.com/arn-c0de/CloseMyThing/issues) [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Capteur ESP32 léger et sécurisé pour détecter l'état ouvert/fermé des portes, fenêtres et contacts similaires
+- 💾 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Lanceur de firmware minimal permettant d'installer et de basculer entre différentes versions de firmware ESP32 depuis une carte SD. Conçu pour les projets où plusieurs applications sont trop volumineuses pour tenir simultanément dans la mémoire flash, permettant à l'utilisateur de sélectionner et flasher le firmware souhaité au démarrage.
 
 - 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server est une implémentation minimale et professionnelle d'un réseau maillé LoRa multi-sauts avec chiffrement optionnel AES-256-GCM et affichage OLED. Fournit des commandes série simples, le rebroadcast automatique des messages et une faible empreinte mémoire pour les dispositifs ESP32 LoRa32.
 
@@ -181,7 +181,7 @@ Pour les bogues, les demandes de fonctionnalités et les discussions générales
 
 Copyright (c) 2026 arn-c0de. Tous droits réservés.
 
-Ce référentiel contient un projet (ANPS-TradeMeUp) distribué sous une licence propriétaire source-disponible. Voir `LICENSE` for full details.
+Ce référentiel est distribué sous une licence propriétaire source-disponible. Voir `LICENSE` pour les détails complets.
 
 ---
 

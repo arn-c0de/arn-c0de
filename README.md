@@ -125,7 +125,7 @@
 
 - ⌨️ [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - A multi-password USB HID keyboard emulator for the Arduino Pro Micro (ATmega32U4). Different button press sequences trigger predefined passwords, typed automatically over USB.
 
-- 🚪 [![Issues](https://img.shields.io/github/issues/arn-c0de/CloseMyThing?style=flat-square&color=blue)](https://github.com/arn-c0de/CloseMyThing/issues) [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Lightweight, secure ESP32-based sensor node for detecting the open/closed state of doors, windows, and similar contacts
+- 💾 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Minimal firmware launcher that allows installing and switching between different ESP32 firmware builds from an SD card. Intended for projects where multiple applications are too large to fit in flash simultaneously, enabling the user to select and flash the desired firmware at boot.
 
 - 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server is a minimal, professional implementation of a multi-hop LoRa mesh network with optional AES-256-GCM encryption and OLED status display. It provides easy-to-use serial commands, automatic message rebroadcasting, and low-memory footprint for ESP32 LoRa32 devices.
 
@@ -181,7 +181,7 @@ For bugs, feature requests, and general project discussions, please use the issu
 
 Copyright (c) 2026 arn-c0de. All rights reserved.
 
-This repository contains a project (ANPS-TradeMeUp) that is distributed under a proprietary source-available license. See `LICENSE` for full details.
+This repository is distributed under a proprietary source-available license. See `LICENSE` for full details.
 
 ---
 

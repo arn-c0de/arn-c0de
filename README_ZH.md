@@ -125,7 +125,7 @@
 
 - ⌨️ [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - 用于 Arduino Pro Micro (ATmega32U4) 的多密码 USB HID 键盘模拟器。不同的按键序列触发预定义密码, 通过 USB 自动输入。
 
-- 🚪 [![Issues](https://img.shields.io/github/issues/arn-c0de/CloseMyThing?style=flat-square&color=blue)](https://github.com/arn-c0de/CloseMyThing/issues) [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - 轻量级、安全的基于 ESP32 的传感器节点, 用于检测门窗和类似触点的开/关状态
+- 💾 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - 最小化固件启动器，可从 SD 卡安装和切换不同的 ESP32 固件版本。适用于多个应用程序无法同时放入 Flash 的项目，让用户在启动时选择并烧录所需的固件。
 
 - 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server 是一个最小化、专业的多跳 LoRa 网状网络实现，支持可选的 AES-256-GCM 加密和 OLED 状态显示。为 ESP32 LoRa32 设备提供易用的串口命令、自动消息转发和低内存占用。
 
@@ -182,7 +182,7 @@
 
 Copyright (c) 2026 arn-c0de. 保留所有权利。
 
-此存储库包含一个项目 (ANPS-TradeMeUp), 该项目根据专有 source-available 许可证分发。有关完整详细信息, 请参见 `LICENSE`。
+此存储库根据专有 source-available 许可证分发。有关完整详细信息，请参见 `LICENSE`。
 
 ---
 

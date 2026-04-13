@@ -125,7 +125,7 @@
 
 - ⌨️ [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - Ein Multi-Passwort-USB-HID-Tastaturemulatoren für den Arduino Pro Micro (ATmega32U4). Verschiedene Tastendrucksequenzen lösen vordefinierte Passwörter aus, die automatisch über USB eingegeben werden.
 
-- 🚪 [![Issues](https://img.shields.io/github/issues/arn-c0de/CloseMyThing?style=flat-square&color=blue)](https://github.com/arn-c0de/CloseMyThing/issues) [**CloseMyThing**](https://github.com/arn-c0de/CloseMyThing) - Leichtgewichtiger, sicherer ESP32-based Sensorknoten zur Erkennung des Offen/Geschlossen-Status von Türen, Fenstern und ähnlichen Kontakten
+- 💾 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Minimaler Firmware-Launcher zum Installieren und Wechseln zwischen verschiedenen ESP32-Firmware-Builds von einer SD-Karte. Gedacht für Projekte, bei denen mehrere Anwendungen zu groß für den Flash sind und der Nutzer beim Booten die gewünschte Firmware auswählen und flashen kann.
 
 - 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server ist eine minimale, professionelle Implementierung eines Mehrhopf‑LoRa‑Mesh‑Netzwerks mit optionaler AES-256-GCM‑Verschlüsselung und OLED‑Statusanzeige. Bietet einfache serielle Befehle, automatisches Weiterleiten von Nachrichten und geringen Speicherverbrauch für ESP32 LoRa32 Geräte.
 
@@ -181,7 +181,7 @@ Für Fehler, Feature-Anfragen und allgemeine Projektdiskussionen verwenden Sie b
 
 Copyright (c) 2026 arn-c0de. Alle Rechte vorbehalten.
 
-Dieses Repository enthält ein Projekt (ANPS-TradeMeUp), das unter einer proprietären Source-Available-Lizenz verteilt wird. Siehe `LICENSE` für vollständige Details.
+Dieses Repository wird unter einer proprietären Source-Available-Lizenz vertrieben. Siehe `LICENSE` für vollständige Details.
 
 ---
 
