@@ -5,6 +5,9 @@
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 
 ---
+
+> **Note (April 2026):** Currently working heavily on private projects — the profile may look inactive, but I'm still reachable.
+
 🇩🇪 working primarily on Android and web applications, embedded systems, and backend development.
 
 **Languages:** German (native) · English (fluent)

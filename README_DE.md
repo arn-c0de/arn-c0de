@@ -5,6 +5,9 @@
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 
 ---
+
+> **Hinweis (April 2026):** Aktuell wird viel an privaten Projekten gearbeitet — das Profil sieht daher teilweise inaktiv aus, ich bin aber weiterhin erreichbar.
+
 🇩🇪 Arbeite hauptsächlich an Android- und Webanwendungen, Embedded und Backend-Entwicklung.
 
 **Sprachen:** Deutsch (Muttersprache) · Englisch (fließend)
