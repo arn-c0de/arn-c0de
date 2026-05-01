@@ -84,7 +84,7 @@
 ## Apprentissage Actuel
 
 - **Programmation:** Rust, C/C++ (Windows), Bas-niveau, Java/Kotlin, Modèles de Conception
-- **Sécurité:** Ingénierie Inverse, Durcissement, Recherche, Examen de Code Sécurisé
+- **Sécurité:** Ingénierie Inverse & Patching APK, Durcissement, Recherche, Examen de Code Sécurisé
 
 ---
 

@@ -84,7 +84,7 @@
 ## Aktueller Lernfokus
 
 - **Programmierung:** Rust, C/C++ (Windows), Low-Level, Java/Kotlin, Design-Pattern
-- **Sicherheit:** Reverse Engineering, Hardening, Secure Code Review
+- **Sicherheit:** Reverse Engineering & APK Patching, Hardening, Secure Code Review
 
 ---
 

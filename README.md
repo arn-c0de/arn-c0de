@@ -84,7 +84,7 @@
 ## Current Learning
 
 - **Programming:** Rust, C/C++ (Windows), Low-level, Java/Kotlin, Design Patterns
-- **Security:** Reverse Engineering, Hardening, Research, Secure Code Review
+- **Security:** Reverse Engineering & APK Patching, Hardening, Research, Secure Code Review
 
 ---
 

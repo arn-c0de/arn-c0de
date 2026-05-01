@@ -84,7 +84,7 @@
 ## Apprendimento Attuale
 
 - **Programmazione:** Rust, C/C++ (Windows), Basso livello, Java/Kotlin, Design Pattern
-- **Sicurezza:** Reverse Engineering, Hardening, Ricerca, Revisione del Codice Sicura
+- **Sicurezza:** Reverse Engineering & APK Patching, Hardening, Ricerca, Revisione del Codice Sicura
 
 ---
 
