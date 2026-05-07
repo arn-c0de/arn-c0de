@@ -189,8 +189,6 @@
 
 Copyright (c) 2026 arn-c0de. 保留所有权利。
 
-此存储库根据专有 source-available 许可证分发。有关完整详细信息，请参见 `LICENSE`。
-
 ---
 
 <p align="center">

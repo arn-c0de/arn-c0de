@@ -188,8 +188,6 @@ Für Fehler, Feature-Anfragen und allgemeine Projektdiskussionen verwenden Sie b
 
 Copyright (c) 2026 arn-c0de. Alle Rechte vorbehalten.
 
-Dieses Repository wird unter einer proprietären Source-Available-Lizenz vertrieben. Siehe `LICENSE` für vollständige Details.
-
 ---
 
 <p align="center">

@@ -189,8 +189,6 @@ Per bug, richieste di funzionalità e discussioni generali sui progetti, utilizz
 
 Copyright (c) 2026 arn-c0de. Tutti i diritti riservati.
 
-Questo repository è distribuito sotto una licenza proprietaria source-available. Vedere `LICENSE` per i dettagli completi.
-
 ---
 
 <p align="center">

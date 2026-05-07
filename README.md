@@ -188,7 +188,6 @@ For bugs, feature requests, and general project discussions, please use the issu
 
 Copyright (c) 2026 arn-c0de. All rights reserved.
 
-This repository is distributed under a proprietary source-available license. See `LICENSE` for full details.
 
 ---
 

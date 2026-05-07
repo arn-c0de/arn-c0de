@@ -188,8 +188,6 @@ Pour les bogues, les demandes de fonctionnalités et les discussions générales
 
 Copyright (c) 2026 arn-c0de. Tous droits réservés.
 
-Ce référentiel est distribué sous une licence propriétaire source-disponible. Voir `LICENSE` pour les détails complets.
-
 ---
 
 <p align="center">
