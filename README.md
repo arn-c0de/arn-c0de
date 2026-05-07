@@ -137,7 +137,7 @@
 
 ---
 
-## Connect with Me
+## Socials
 
 <p align="center">
   <a href="https://x.com/arn_c0de">
@@ -152,7 +152,14 @@
 
 ## Contact
 
-Session ID: `arn-c0de 0584af9c1d0ec684ed2b12cdffa2b5ede8320993e86c4694c86945c16aeafdf519`
+> [!IMPORTANT]
+> **Session App**
+> Use this Session ID to reach me:
+> `arn-c0de 0584af9c1d0ec684ed2b12cdffa2b5ede8320993e86c4694c86945c16aeafdf519`
+>
+> **Matrix**
+> Currently unavailable
+> Placeholder: `@arn-c0de:matrix.org`
 
 <table>
 <tr>

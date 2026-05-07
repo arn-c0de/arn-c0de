@@ -137,7 +137,7 @@
 
 ---
 
-## Connectez-vous avec moi
+## Socials
 
 <p align="center">
   <a href="https://x.com/arn_c0de">
@@ -152,7 +152,14 @@
 
 ## Contact
 
-ID de session : `arn-c0de 0584af9c1d0ec684ed2b12cdffa2b5ede8320993e86c4694c86945c16aeafdf519`
+> [!IMPORTANT]
+> **Application Session**
+> Utilisez cet identifiant Session pour me contacter :
+> `arn-c0de 0584af9c1d0ec684ed2b12cdffa2b5ede8320993e86c4694c86945c16aeafdf519`
+>
+> **Matrix**
+> Actuellement indisponible
+> Espace reserve : `@arn-c0de:matrix.org`
 
 <table>
 <tr>
