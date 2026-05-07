@@ -158,9 +158,7 @@
 > Usa questo ID Session per contattarmi:
 > `arn-c0de 0584af9c1d0ec684ed2b12cdffa2b5ede8320993e86c4694c86945c16aeafdf519`
 >
-> **Matrix**
-> Attualmente non disponibile
-> Segnaposto: `@arn-c0de:matrix.org`
+> **Matrix:** Currently unavailable
 
 <table>
 <tr>
