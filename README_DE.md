@@ -13,6 +13,7 @@
 **Sprachen:** Deutsch (Muttersprache) · Englisch (fließend)
 **Fokus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Lerne gerade:** Rust, C++ (Windows)
 
+Wenn du bei etwas Hilfe brauchst, mitarbeiten moechtest oder eines meiner Projekte unterstuetzen willst, melde dich gerne ueber die Kontaktmoeglichkeiten weiter unten oder direkt ueber das jeweilige Repository.
 
 ---
 

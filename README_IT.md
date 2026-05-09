@@ -13,6 +13,7 @@
 **Lingue:** Tedesco (madrelingua) · Inglese (fluente)
 **Focus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Apprendimento:** Rust, C++ (Windows)
 
+Se hai bisogno di aiuto, vuoi collaborare o contribuire a uno dei miei progetti, puoi contattarmi usando i riferimenti qui sotto oppure aprire una issue nel repository relativo.
 
 ---
 

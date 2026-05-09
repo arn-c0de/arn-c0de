@@ -13,6 +13,7 @@
 **Languages:** German (native) · English (fluent)
 **Focus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Learning:** Rust, C++ (Windows)
 
+If you need help with something, want to collaborate, or would like to contribute to one of my projects, feel free to reach out using the contact options below or open an issue in the respective repository.
 
 ---
 
