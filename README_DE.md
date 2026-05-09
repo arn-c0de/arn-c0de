@@ -129,6 +129,8 @@
 
 - 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server ist eine minimale, professionelle Implementierung eines Mehrhopf‑LoRa‑Mesh‑Netzwerks mit optionaler AES-256-GCM‑Verschlüsselung und OLED‑Statusanzeige. Bietet einfache serielle Befehle, automatisches Weiterleiten von Nachrichten und geringen Speicherverbrauch für ESP32 LoRa32 Geräte.
 
+- 💪 [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - Drahtloses ESP32- + AD8232-Oberflaechen-EMG-System mit Wi‑Fi-Streaming in Echtzeit, OTA-Updates, automatischer Kalibrierung und einer schlanken Python-GUI zur Live-Signalueberwachung.
+
 ### Flugsimulation
 - 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World Begleit- und Standalone-App
 

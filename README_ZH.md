@@ -129,6 +129,8 @@
 
 - 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server 是一个最小化、专业的多跳 LoRa 网状网络实现，支持可选的 AES-256-GCM 加密和 OLED 状态显示。为 ESP32 LoRa32 设备提供易用的串口命令、自动消息转发和低内存占用。
 
+- 💪 [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - 基于 ESP32 + AD8232 的无线表面肌电系统，支持实时 Wi‑Fi 数据流、OTA 更新、自动校准，以及用于实时信号监测的轻量级 Python 图形界面。
+
 
 ### 飞行模拟
 - 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World 伴侣和独立应用程序
