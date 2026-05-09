@@ -156,9 +156,9 @@ Wenn du bei etwas Hilfe brauchst, mitarbeiten moechtest oder eines meiner Projek
 ## Kontakt
 
 > [!IMPORTANT]
-> **Session App**
-> Nutze diese Session-ID, um mich zu erreichen:
-> `arn-c0de 0584af9c1d0ec684ed2b12cdffa2b5ede8320993e86c4694c86945c16aeafdf519`
+> **SimpleX Chat**
+> Du erreichst mich hier:
+> https://smp19.simplex.im/a#12EFYcsND4k7C7Gz1wUT7mKrt5-u84PqnHTBUZXw0eg
 >
 > **Matrix:** Currently unavailable
 

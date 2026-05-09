@@ -157,9 +157,9 @@ Se hai bisogno di aiuto, vuoi collaborare o contribuire a uno dei miei progetti,
 ## Contatti
 
 > [!IMPORTANT]
-> **App Session**
-> Usa questo ID Session per contattarmi:
-> `arn-c0de 0584af9c1d0ec684ed2b12cdffa2b5ede8320993e86c4694c86945c16aeafdf519`
+> **SimpleX Chat**
+> Puoi contattarmi qui:
+> https://smp19.simplex.im/a#12EFYcsND4k7C7Gz1wUT7mKrt5-u84PqnHTBUZXw0eg
 >
 > **Matrix:** Currently unavailable
 

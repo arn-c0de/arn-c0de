@@ -156,9 +156,9 @@ Si vous avez besoin d'aide, souhaitez collaborer ou contribuer a l'un de mes pro
 ## Contact
 
 > [!IMPORTANT]
-> **Application Session**
-> Utilisez cet identifiant Session pour me contacter :
-> `arn-c0de 0584af9c1d0ec684ed2b12cdffa2b5ede8320993e86c4694c86945c16aeafdf519`
+> **SimpleX Chat**
+> Vous pouvez me contacter ici :
+> https://smp19.simplex.im/a#12EFYcsND4k7C7Gz1wUT7mKrt5-u84PqnHTBUZXw0eg
 >
 > **Matrix:** Currently unavailable
 
