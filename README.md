@@ -172,6 +172,8 @@ If you need help with something, want to collaborate, or would like to contribut
 
 For security-related concerns, vulnerability reports, or sensitive bug disclosures.
 
+For critical topics such as vulnerabilities, responsible disclosure, or whistleblowing, you are welcome to use secure channels such as GPG email or private chat. See [Secure Contact](SECURE-CONTACT.md).
+
 </td>
 <td width="50%" valign="top">
 

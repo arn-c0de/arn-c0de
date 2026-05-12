@@ -173,6 +173,8 @@ Se hai bisogno di aiuto, vuoi collaborare o contribuire a uno dei miei progetti,
 
 Per questioni legate alla sicurezza, segnalazioni di vulnerabilità o divulgazioni di bug sensibili.
 
+Per temi critici come vulnerabilita, responsible disclosure o whistleblowing, puoi usare canali sicuri come e-mail GPG o messaggi privati. Vedi [Secure Contact](SECURE-CONTACT.md).
+
 </td>
 <td width="50%" valign="top">
 

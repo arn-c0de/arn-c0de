@@ -172,6 +172,8 @@ Wenn du bei etwas Hilfe brauchst, mitarbeiten moechtest oder eines meiner Projek
 
 Für sicherheitsbezogene Bedenken, Schwachstellenmeldungen oder vertrauliche Fehlermeldungen.
 
+Bei kritischen Themen wie Schwachstellen, Responsible Disclosure oder Whistleblowing kannst du gerne sichere Kanaele wie GPG-E-Mail oder private Chat-Nachrichten nutzen. Siehe [Secure Contact](SECURE-CONTACT.md).
+
 </td>
 <td width="50%" valign="top">
 

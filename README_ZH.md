@@ -173,6 +173,8 @@
 
 用于安全相关问题、漏洞报告或敏感错误披露。
 
+对于漏洞、负责任披露或 whistleblowing 等关键事项，欢迎使用 GPG 邮件或私密聊天等安全渠道。参见 [Secure Contact](SECURE-CONTACT.md)。
+
 </td>
 <td width="50%" valign="top">
 

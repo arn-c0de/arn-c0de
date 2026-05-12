@@ -172,6 +172,8 @@ Si vous avez besoin d'aide, souhaitez collaborer ou contribuer a l'un de mes pro
 
 Pour les problèmes liés à la sécurité, les rapports de vulnérabilités ou les divulgations de bogues sensibles.
 
+Pour les sujets critiques comme les vulnérabilités, la divulgation responsable ou le whistleblowing, vous pouvez utiliser des canaux sécurisés comme l'e-mail GPG ou les messages privés. Voir [Secure Contact](SECURE-CONTACT.md).
+
 </td>
 <td width="50%" valign="top">
 
