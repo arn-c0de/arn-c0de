@@ -132,6 +132,9 @@ Wenn du bei etwas Hilfe brauchst, mitarbeiten moechtest oder eines meiner Projek
 
 - 💪 [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - Drahtloses ESP32- + AD8232-Oberflaechen-EMG-System mit Wi‑Fi-Streaming in Echtzeit, OTA-Updates, automatischer Kalibrierung und einer schlanken Python-GUI zur Live-Signalueberwachung.
 
+### Sicherheit & Kryptographie
+- 🔐 [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - Local-First-Desktop-App rund um GnuPG zum Verwalten von GPG-Schlüsseln, Verschlüsseln und Signieren von Nachrichten sowie zum Exportieren verschlüsselter Schlüssel-Backups. Unterstützt Englisch und Deutsch. **Lizenz:** MIT.
+
 ### Flugsimulation
 - 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World Begleit- und Standalone-App
 

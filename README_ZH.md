@@ -133,6 +133,9 @@
 - 💪 [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - 基于 ESP32 + AD8232 的无线表面肌电系统，支持实时 Wi‑Fi 数据流、OTA 更新、自动校准，以及用于实时信号监测的轻量级 Python 图形界面。
 
 
+### 安全与密码学
+- 🔐 [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - 基于 GnuPG 的本地优先桌面应用，用于管理 GPG 密钥、加密和签名消息，以及导出加密密钥备份。支持英语和德语界面。**许可证：** MIT。
+
 ### 飞行模拟
 - 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World 伴侣和独立应用程序
 
