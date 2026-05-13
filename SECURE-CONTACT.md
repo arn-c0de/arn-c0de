@@ -2,7 +2,7 @@
 
 If you need to contact me about sensitive topics, you are welcome to use secure or confidential channels.
 
-This includes encrypted email once the GPG public key is published here, as well as private chat messages such as via SimpleX where appropriate.
+This includes encrypted email using the PGP public key published below, as well as private chat messages such as via SimpleX where appropriate.
 
 This channel is intended for:
 
@@ -15,13 +15,13 @@ This channel is intended for:
 
 `arn-c0de@protonmail.com`
 
-Encrypted email is preferred for messages containing highly sensitive technical details once the public key is available.
+Encrypted email is preferred for messages containing highly sensitive technical details using the public key provided below.
 
 ## Private Chat
 
 For confidential first contact or lower-friction coordination, private chat can also be appropriate, for example via SimpleX.
 
-## GPG Public Key
+## PGP Public Key
 
 ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -44,4 +44,4 @@ Qr/5U3TvUeOSMHhJAP93jgy4y62fg2RhRj2kWMpMZ0lHD0/whWdyWVhaMqWNDg==
 
 If your message contains sensitive technical details, affected systems, internal material, or information that should not be sent in plain text, please use an appropriate secure channel.
 
-Ecrypted email should be preferred for the most sensitive reports and disclosures.
+Encrypted email should be preferred for the most sensitive reports and disclosures.

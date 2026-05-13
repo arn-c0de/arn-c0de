@@ -134,7 +134,7 @@
 
 
 ### 安全与密码学
-- 🔐 [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - 基于 GnuPG 的本地优先桌面应用，用于管理 GPG 密钥、加密和签名消息，以及导出加密密钥备份。支持英语和德语界面。**许可证：** MIT。
+- 🔐 [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - 基于 GnuPG 的本地优先桌面应用，用于管理 PGP 密钥、加密和签名消息，以及导出加密密钥备份。支持英语和德语界面。**许可证：** MIT。
 
 ### 飞行模拟
 - 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World 伴侣和独立应用程序
@@ -176,7 +176,7 @@
 
 用于安全相关问题、漏洞报告或敏感错误披露。
 
-对于漏洞、负责任披露或 whistleblowing 等关键事项，欢迎使用 GPG 邮件或私密聊天等安全渠道。参见 [Secure Contact](SECURE-CONTACT.md)。
+对于漏洞、负责任披露或 whistleblowing 等关键事项，欢迎使用 PGP 邮件或私密聊天等安全渠道向我咨询。参见 [Secure Contact](SECURE-CONTACT.md)。
 
 </td>
 <td width="50%" valign="top">

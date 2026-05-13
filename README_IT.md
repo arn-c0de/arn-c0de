@@ -134,7 +134,7 @@ Se hai bisogno di aiuto, vuoi collaborare o contribuire a uno dei miei progetti,
 
 
 ### Sicurezza & Crittografia
-- 🔐 [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - App desktop local-first costruita attorno a GnuPG per gestire chiavi GPG, cifrare e firmare messaggi ed esportare backup cifrati delle chiavi. Supporta l'interfaccia in inglese e tedesco. **Licenza:** MIT.
+- 🔐 [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - App desktop local-first costruita attorno a GnuPG per gestire chiavi PGP, cifrare e firmare messaggi ed esportare backup cifrati delle chiavi. Supporta l'interfaccia in inglese e tedesco. **Licenza:** MIT.
 
 ### Flight Sim
 - 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Applicazione compagno e standalone per DCS-World
@@ -176,7 +176,7 @@ Se hai bisogno di aiuto, vuoi collaborare o contribuire a uno dei miei progetti,
 
 Per questioni legate alla sicurezza, segnalazioni di vulnerabilità o divulgazioni di bug sensibili.
 
-Per temi critici come vulnerabilita, responsible disclosure o whistleblowing, puoi usare canali sicuri come e-mail GPG o messaggi privati. Vedi [Secure Contact](SECURE-CONTACT.md).
+Per temi critici come vulnerabilita, responsible disclosure o whistleblowing, puoi usare canali sicuri come e-mail PGP o messaggi privati. Vedi [Secure Contact](SECURE-CONTACT.md).
 
 </td>
 <td width="50%" valign="top">
