@@ -21,6 +21,9 @@ I am interested in how software works under the hood. I do low-level analysis of
 ### General Collaboration
 If you are working on something interesting—whether it is an open-source project or a private idea—I am open to collaborating. I enjoy building prototypes and solving technical challenges together. 
 
+### Bugs & Improvements
+If you find any issues, vulnerabilities, or potential improvements in my projects, I would appreciate your feedback. Feel free to open an issue or submit a pull request (PR). Contributing to these projects is always welcome.
+
 ### Anonymity & Private Exchange
 Anonymous collaboration is possible. For those who prefer to remain anonymous, there will be no public mention or publication of the project. Technical exchange and code sharing will be handled strictly through private and secure channels (e.g., private GitLab instances or encrypted communication).
 
