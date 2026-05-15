@@ -11,15 +11,35 @@ This channel is intended for:
 - whistleblowing
 - other security-critical or confidential matters
 
-## Email
+## Contact Methods
 
-`arn-c0de@protonmail.com`
+> [!IMPORTANT]
+> **SimpleX Chat**
+> Reach me here:
+> https://smp19.simplex.im/a#12EFYcsND4k7C7Gz1wUT7mKrt5-u84PqnHTBUZXw0eg
+>
+> **Matrix:** Currently unavailable
 
-Encrypted email is preferred for messages containing highly sensitive technical details using the public key provided below.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Private Chat
+### Email
 
-For confidential first contact or lower-friction coordination, private chat can also be appropriate, for example via SimpleX.
+📫 **arn-c0de@protonmail.com**
+
+Encrypted email is preferred for messages containing highly sensitive technical details. Please use the PGP public key provided below.
+
+</td>
+<td width="50%" valign="top">
+
+### Private Chat
+
+For confidential first contact or lower-friction coordination, private chat is available via SimpleX.
+
+</td>
+</tr>
+</table>
 
 ## PGP Public Key
 
@@ -37,7 +57,6 @@ BLcpAhsMBQkDwmcAAAoJEKD5oucNZCrc3qsBALijjeScZ7CUXKFuy/2QX2Anl/W0
 Qr/5U3TvUeOSMHhJAP93jgy4y62fg2RhRj2kWMpMZ0lHD0/whWdyWVhaMqWNDg==
 =mwXI
 -----END PGP PUBLIC KEY BLOCK-----
-
 ```
 
 ## Note
