@@ -16,7 +16,9 @@ I spend a lot of time on backend systems and API design. I can help with buildin
 I like to look at the security of projects and find ways to make them more robust. This includes reviewing code, improving configurations, and making sure a system is well-protected.
 
 ### Reverse Engineering & Disassembly
-I am interested in how software works under the hood. I do low-level analysis of programs and protocols to understand their behavior or find weaknesses.
+I am interested in how software works under the hood. I do low-level analysis of programs and protocols to understand their behavior or find weaknesses. 
+
+**Note on Legal Compliance:** I only perform disassembly and reverse engineering on projects that you legally own or where you have explicit permission to conduct such analysis.
 
 ### General Collaboration
 If you are working on something interesting—whether it is an open-source project or a private idea—I am open to collaborating. I enjoy building prototypes and solving technical challenges together. 
