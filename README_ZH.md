@@ -77,17 +77,6 @@
 </tr>
 </table>
 
----
-
-## 专业领域与重点
-
-| 领域 | 重点领域 |
-| :--- | :--- |
-| **开发** | 移动与网页应用, 后端开发, API 设计, 自动化 |
-| **安全** | SDR, Wi-Fi 研究, 网络监控 (IDS/IPS), 渗透测试 |
-| **硬件与物联网** | 嵌入式 (ESP32/8266), LoRa, PCB 设计, 飞行模拟 |
-| **人工智能与机器学习** | AI 训练与合成数据集生成 |
-
 ## 当前学习重点
 
 - **编程:** Rust, C/C++ (Windows), 低级编程, Java/Kotlin, 设计模式
@@ -134,8 +123,6 @@
 
 - 💾 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - 最小化固件启动器，可从 SD 卡安装和切换不同的 ESP32 固件版本。适用于多个应用程序无法同时放入 Flash 的项目，让用户在启动时选择并烧录所需的固件。
 
-- 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server 是一个最小化、专业的多跳 LoRa 网状网络实现，支持可选的 AES-256-GCM 加密和 OLED 状态显示。为 ESP32 LoRa32 设备提供易用的串口命令、自动消息转发和低内存占用。
-
 - 💪 [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - 基于 ESP32 + AD8232 的无线表面肌电系统，支持实时 Wi‑Fi 数据流、OTA 更新、自动校准，以及用于实时信号监测的轻量级 Python 图形界面。
 
 
@@ -144,9 +131,6 @@
 
 ### 飞行模拟
 - 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World 伴侣和独立应用程序
-
-### 游戏
-- 🎮 [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape 是一款基于位置的 Android 僵尸生存游戏。在真实地图中探索、掠夺建筑、与僵尸战斗, 并通过 GPS 或摇杆在持久的开放世界中生存。使用 Kotlin 开发。
 
 ---
 

@@ -77,17 +77,6 @@ If you need help with something, want to collaborate, or would like to contribut
 </tr>
 </table>
 
----
-
-## Focus
-
-| Field | Focus Areas |
-| :--- | :--- |
-| **Development** | Mobile & Web Apps, Backend, API Design, Automation |
-| **Security** | SDR, Wi-Fi Research, Network Monitoring (IDS/IPS), PenTesting |
-| **Hardware & IoT** | Embedded (ESP32/8266), LoRa, PCB Design, Flight Sim |
-| **AI & ML** | AI Training & Synthetic Dataset Generation |
-
 ## Current Learning
 
 - **Programming:** Rust, C/C++ (Windows), Low-level, Java/Kotlin, Design Patterns
@@ -134,8 +123,6 @@ If you need help with something, want to collaborate, or would like to contribut
 
 - 💾 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Minimal firmware launcher that allows installing and switching between different ESP32 firmware builds from an SD card. Intended for projects where multiple applications are too large to fit in flash simultaneously, enabling the user to select and flash the desired firmware at boot.
 
-- 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server is a minimal, professional implementation of a multi-hop LoRa mesh network with optional AES-256-GCM encryption and OLED status display. It provides easy-to-use serial commands, automatic message rebroadcasting, and low-memory footprint for ESP32 LoRa32 devices.
-
 - 💪 [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - Wireless ESP32 + AD8232 surface EMG system with real-time Wi-Fi streaming, OTA updates, automatic calibration, and a lightweight Python GUI for live signal monitoring.
 
 ### Security & Cryptography
@@ -143,9 +130,6 @@ If you need help with something, want to collaborate, or would like to contribut
 
 ### Flight Sim
 - 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World companion and standalone app
-
-### Games
-- 🎮 [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape is a location-based zombie survival game for Android. Explore real-world maps, loot buildings, fight zombies, and survive in a persistent open world using GPS or joystick controls. Built in Kotlin.
 
 ---
 

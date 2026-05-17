@@ -77,17 +77,6 @@ Si vous avez besoin d'aide, souhaitez collaborer ou contribuer a l'un de mes pro
 </tr>
 </table>
 
----
-
-## Focus
-
-| Domaine | Domaines de concentration |
-| :--- | :--- |
-| **Développement** | Apps Mobiles & Web, Backend, Design d'API, Automatisation |
-| **Sécurité** | SDR, Recherche Wi-Fi, Surveillance Réseau (IDS/IPS), PenTesting |
-| **Matériel & IoT** | Embarqué (ESP32/8266), LoRa, Design PCB, Simulation de Vol |
-| **IA & ML** | Formation IA & Génération de Jeux de Données Synthétiques |
-
 ## Apprentissage Actuel
 
 - **Programmation:** Rust, C/C++ (Windows), Bas-niveau, Java/Kotlin, Modèles de Conception
@@ -134,8 +123,6 @@ Si vous avez besoin d'aide, souhaitez collaborer ou contribuer a l'un de mes pro
 
 - 💾 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Lanceur de firmware minimal permettant d'installer et de basculer entre différentes versions de firmware ESP32 depuis une carte SD. Conçu pour les projets où plusieurs applications sont trop volumineuses pour tenir simultanément dans la mémoire flash, permettant à l'utilisateur de sélectionner et flasher le firmware souhaité au démarrage.
 
-- 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server est une implémentation minimale et professionnelle d'un réseau maillé LoRa multi-sauts avec chiffrement optionnel AES-256-GCM et affichage OLED. Fournit des commandes série simples, le rebroadcast automatique des messages et une faible empreinte mémoire pour les dispositifs ESP32 LoRa32.
-
 - 💪 [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - Systeme EMG de surface sans fil ESP32 + AD8232 avec diffusion Wi‑Fi en temps reel, mises a jour OTA, calibration automatique et interface Python legere pour la surveillance du signal en direct.
 
 ### Sécurité & Cryptographie
@@ -143,9 +130,6 @@ Si vous avez besoin d'aide, souhaitez collaborer ou contribuer a l'un de mes pro
 
 ### Flight Sim
 - 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Application compagnon et autonome pour DCS-World
-
-### Games
-- 🎮 [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape est un jeu de survie zombie basé sur la localisation pour Android. Explorez des cartes réelles, pillez des bâtiments, combattez des zombies et survivez dans un monde ouvert persistant en utilisant le GPS ou un joystick. Développé en Kotlin.
 
 ---
 

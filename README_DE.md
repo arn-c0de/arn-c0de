@@ -77,17 +77,6 @@ Wenn du bei etwas Hilfe brauchst, mitarbeiten moechtest oder eines meiner Projek
 </tr>
 </table>
 
----
-
-## Fokus
-
-| Bereich | Fokusbereiche |
-| :--- | :--- |
-| **Entwicklung** | Mobile & Web Apps, Backend, API-Design, Automatisierung |
-| **Sicherheit** | SDR, Wi-Fi-Forschung, Netzwerküberwachung (IDS/IPS), PenTesting |
-| **Hardware & IoT** | Embedded (ESP32/8266), LoRa, PCB-Design, Flugsimulation |
-| **KI & ML** | KI-Training & Generierung synthetischer Datensätze |
-
 ## Aktueller Lernfokus
 
 - **Programmierung:** Rust, C/C++ (Windows), Low-Level, Java/Kotlin, Design-Pattern
@@ -134,8 +123,6 @@ Wenn du bei etwas Hilfe brauchst, mitarbeiten moechtest oder eines meiner Projek
 
 - 💾 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Minimaler Firmware-Launcher zum Installieren und Wechseln zwischen verschiedenen ESP32-Firmware-Builds von einer SD-Karte. Gedacht für Projekte, bei denen mehrere Anwendungen zu groß für den Flash sind und der Nutzer beim Booten die gewünschte Firmware auswählen und flashen kann.
 
-- 📡 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LoRa-Mesh-Server?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server/issues) [**ESP32-LoRa-Mesh-Server**](https://github.com/arn-c0de/ESP32-LoRa-Mesh-Server) - ESP32 LoRa Mesh Server ist eine minimale, professionelle Implementierung eines Mehrhopf‑LoRa‑Mesh‑Netzwerks mit optionaler AES-256-GCM‑Verschlüsselung und OLED‑Statusanzeige. Bietet einfache serielle Befehle, automatisches Weiterleiten von Nachrichten und geringen Speicherverbrauch für ESP32 LoRa32 Geräte.
-
 - 💪 [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - Drahtloses ESP32- + AD8232-Oberflaechen-EMG-System mit Wi‑Fi-Streaming in Echtzeit, OTA-Updates, automatischer Kalibrierung und einer schlanken Python-GUI zur Live-Signalueberwachung.
 
 ### Sicherheit & Kryptographie
@@ -143,9 +130,6 @@ Wenn du bei etwas Hilfe brauchst, mitarbeiten moechtest oder eines meiner Projek
 
 ### Flugsimulation
 - 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World Begleit- und Standalone-App
-
-### Spiele
-- 🎮 [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape) - 🧟‍♂️ ZombieEscape ist ein ortsbasiertes Zombie-Survival-Spiel für Android. Erkunde echte Karten, plündere Gebäude, bekämpfe Zombies und überlebe in einer persistenten offenen Welt mit GPS- oder Joystick-Steuerung. In Kotlin entwickelt.
 
 ---
 
