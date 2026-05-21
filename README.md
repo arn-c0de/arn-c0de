@@ -1,5 +1,5 @@
 <p align="center">
-  <b>[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)</b>
+  <a href="README.md">🇬🇧</a> | <a href="README_DE.md">🇩🇪</a> | <a href="README_ZH.md">🇨🇳</a> | <a href="README_FR.md">🇫🇷</a> | <a href="README_IT.md">🇮🇹</a>
   &nbsp;&nbsp;
   <a href="SERVICES.md">
     <img src="https://img.shields.io/badge/Collaboration-7F52FF?style=flat-square" alt="Collaboration" valign="middle" />
