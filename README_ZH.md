@@ -1,93 +1,66 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=Android+%26+Web+Apps;Embedded+Systems+%26+IoT;SDR+%26+Security+Research;AI+%26+Automation;Kotlin+%C2%B7+Python+%C2%B7+C;Security+Research+%26+Pentesting;RF+%C2%B7+LoRa+%C2%B7+Embedded+Protocols;Backend+Development+%26+APIs" alt="Typing SVG" /></a>
-</p>
-
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 
 <p align="center">
   <a href="SERVICES.md">
-    <img src="https://img.shields.io/badge/Services_%26_Collaboration-7F52FF?style=for-the-badge" alt="Services & Collaboration" />
+    <img src="https://img.shields.io/badge/Collaboration-7F52FF?style=flat-square" alt="Collaboration" />
   </a>
 </p>
 
 ---
 
-> **注意（2026 年 4 月）：** 目前正在大量参与私人项目，主页可能看起来不活跃，但仍然可以联系到我。
+> **Note (April 2026):** Currently working heavily on private projects — the profile may look inactive, but I'm still reachable.
 
-🇩🇪 主要从事 Android 和 Web 应用程序、嵌入式系统和后端开发工作。
+🇩🇪 working primarily on Android and web applications, embedded systems, and backend development.
 
-**语言:** 德语 (母语) · 英语 (流利)
-**重点:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **正在学习:** Rust, C++ (Windows)
+**Languages:** German (native) · English (fluent)
+**Focus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Learning:** Rust, C++ (Windows)
 
-如果你需要帮助、想一起协作，或希望参与我的某个项目，欢迎使用下方的联系方式联系我，或直接在对应仓库中发起 issue。
+If you need help with something, want to collaborate, or would like to contribute to one of my projects, feel free to reach out using the contact options below or open an issue in the respective repository.
 
 ---
 
-## 技术栈
+## Tech Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 编程语言与框架
+### Languages & Frameworks
+Kotlin · Python · C · Flask · FastAPI
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 机器学习
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ResNet18](https://img.shields.io/badge/ResNet18-DeepLearningAI-green?style=for-the-badge)
+### Machine Learning
+PyTorch · ResNet18
 
 </td>
 <td width="50%" valign="top">
 
-### 嵌入式与硬件
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![ATmega](https://img.shields.io/badge/ATmega-5D5D5D?style=for-the-badge&logo=atmel&logoColor=white)<br>
-![HackRF One](https://img.shields.io/badge/HackRF_One-000000?style=for-the-badge&logo=hackrf&logoColor=white)
-![RTL-SDR](https://img.shields.io/badge/RTL--SDR-FF0000?style=for-the-badge&logo=rtl_sdr&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-1EA1E1?style=for-the-badge&logo=lorawan&logoColor=white)
+### Embedded & Hardware
+ESP32 · Raspberry Pi · Arduino · ESP8266 · ATmega<br>
+HackRF One · RTL-SDR · LoRa
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-### 工具与平台
-
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+### Tools & Platforms
+Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDEA · Blender
 
 </td>
 </tr>
 </table>
 
-## 当前学习重点
+## Current Learning
 
-- **编程:** Rust, C/C++ (Windows), 低级编程, Java/Kotlin, 设计模式
-- **安全:** 逆向工程与 APK 修补, 系统加固, 漏洞研究, 安全代码审查
+- **Programming:** Rust, C/C++ (Windows), Low-level, Java/Kotlin, Design Patterns
+- **Security:** Reverse Engineering & APK Patching, Hardening, Research, Secure Code Review
 
 ---
 
-## GitHub 统计
+## GitHub Stats
 
 <p align="center">
-  <img src="assets/langs-donut.svg?cache-bust=1779348770?cache-bust=1779348770?cache-bust=1779262122?cache-bust=1779175732?cache-bust=1779090095?cache-bust=1779001803?cache-bust=1778914712?cache-bust=1778829699?cache-bust=1778742861?cache-bust=1778656618?cache-bust=1778569972?cache-bust=1778484568?cache-bust=1778396799?cache-bust=1778309650?cache-bust=1778222859?cache-bust=1778138069?cache-bust=1778051338?cache-bust=1777964366?cache-bust=1777879035?cache-bust=1777791729?cache-bust=1777704657?cache-bust=1777619213?cache-bust=1777532727?cache-bust=1777446178?cache-bust=1777360076?cache-bust=1777273699?cache-bust=1777186159?cache-bust=1777099254?cache-bust=1777013518?cache-bust=1776927055?cache-bust=1776840637?cache-bust=1776754240?cache-bust=1776668385?cache-bust=1776581114?cache-bust=1776494201?cache-bust=1776408610?cache-bust=1776322220?cache-bust=1776235763?cache-bust=1776149334?cache-bust=1776063497?cache-bust=1775976180?cache-bust=1775889142?cache-bust=1775803723?cache-bust=1775717045?cache-bust=1775630612?cache-bust=1775544132?cache-bust=1775458228?cache-bust=1775370974?cache-bust=1775284283?cache-bust=1775198229" alt="Languages distribution" height="220" />
+  <img src="assets/langs-donut.svg?cache-bust=1779348770?cache-bust=1779348770?cache-bust=1779262122?cache-bust=1779175732?cache-bust=1779090095?cache-bust=1779001803?cache-bust=1778914712?cache-bust=1778829699?cache-bust=1778742861?cache-bust=1778656618?cache-bust=1778569972?cache-bust=1778484568?cache-bust=1778396799?cache-bust=1778309650?cache-bust=1778222859?cache-bust=1778138069?cache-bust=1778051338?cache-bust=1777964366?cache-bust=1777879035?cache-bust=1777964366?cache-bust=1777879035?cache-bust=1777791729?cache-bust=1777704657?cache-bust=1777619213?cache-bust=1777532727?cache-bust=1777446178?cache-bust=1777360076?cache-bust=1777273699?cache-bust=1777186159?cache-bust=1777099254?cache-bust=1777013518?cache-bust=1776927055?cache-bust=1776840637?cache-bust=1776754240?cache-bust=1776668385?cache-bust=1776581114?cache-bust=1776494201?cache-bust=1776408610?cache-bust=1776322220?cache-bust=1776235763?cache-bust=1776149334?cache-bust=1776063497?cache-bust=1775976180?cache-bust=1775889142?cache-bust=1775803723?cache-bust=1775717045?cache-bust=1775630612?cache-bust=1775544132?cache-bust=1775458228?cache-bust=1775370974?cache-bust=1775284283?cache-bust=1775198229?cache-bust=1775111873" alt="Languages distribution" height="220" />
 </p>
 
 <p align="center">
@@ -95,7 +68,7 @@
 </p>
 
 <p align="center">
-  <sub>自动化语言跟踪系统 — <a href="docs/LANGUAGE-TRACKING.md">查看实施详情</a></sub>
+  <sub>Automated language tracking system — <a href="docs/LANGUAGE-TRACKING.md">View implementation details</a></sub>
 </p>
 
 <p align="center">
@@ -106,35 +79,34 @@
 
 ---
 
-## 精选项目
+## Featured Projects
 
-### 人工智能与金融
-- 📈 [![Issues](https://img.shields.io/github/issues/arn-c0de/ANPS-TradeMeUp?style=flat-square&color=blue)](https://github.com/arn-c0de/ANPS-TradeMeUp/issues) [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - 基于 LLM 的 AI 新闻预测系统, 用于短到中期市场预测, 具有实时分析和基于 Dash 的监控仪表板。**许可证:** 专有 source-available (严格)。
+### AI & Finance
+- 📈 [![Issues](https://img.shields.io/github/issues/arn-c0de/ANPS-TradeMeUp?style=flat-square&color=blue)](https://github.com/arn-c0de/ANPS-TradeMeUp/issues) [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-powered AI News Prediction System for short-to-medium term market forecasting, featuring real-time analysis and a Dash-based monitoring dashboard. **License:** Proprietary source-available (strict).
 
-- 🤖 [![Issues](https://img.shields.io/github/issues/arn-c0de/Crawllama?style=flat-square&color=blue)](https://github.com/arn-c0de/Crawllama/issues) [**CrawlLama**](https://github.com/arn-c0de/Crawllama) - CrawlLama 🦙 是一个本地 AI 代理，通过 Ollama 回答问题，并集成了基于网络和 RAG 的检索研究。
+- 🤖 [![Issues](https://img.shields.io/github/issues/arn-c0de/Crawllama?style=flat-square&color=blue)](https://github.com/arn-c0de/Crawllama/issues) [**CrawlLama**](https://github.com/arn-c0de/Crawllama) - Local AI agent that answers questions via Ollama and integrates web- and RAG-based research.
 
-- 📊 [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - 这是一个用于 AOI/AI 概念实验和原型设计的存储库，旨在将其实现为清晰、可复用的构建模块。**许可证：** 专有。**未经事先书面许可，不得使用、复制、修改或分发此软件。**
+- 📊 [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - This is a testing / prototyping repository for experimenting with AOI/AI concepts and implementing them as clean, reproducible building blocks. **License:** Proprietary. **No permission is granted to use, copy, modify, or distribute this software without prior written permission.**
 
-### IoT 与嵌入式
+### IoT & Embedded
 
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - 是一个基于 ESP32 的教育和实验室集合, 用于安全研究、培训和原型制作。该存储库托管当前项目, 并将继续托管涵盖攻击性和防御性技术、安全实验和红队/蓝队演练的未来实验室。
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - is a collection of ESP32-based educational and experimental labs for security research, training, and prototyping. The repository hosts current projects and will continue to host future labs covering offensive and defensive techniques, safe experiments, and red-team/blue-team exercises.
 
-- ⌨️ [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - 用于 Arduino Pro Micro (ATmega32U4) 的多密码 USB HID 键盘模拟器。不同的按键序列触发预定义密码, 通过 USB 自动输入。
+- ⌨️ [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - A multi-password USB HID keyboard emulator for the Arduino Pro Micro (ATmega32U4). Different button press sequences trigger predefined passwords, typed automatically over USB.
 
-- 💾 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - 最小化固件启动器，可从 SD 卡安装和切换不同的 ESP32 固件版本。适用于多个应用程序无法同时放入 Flash 的项目，让用户在启动时选择并烧录所需的固件。
+- 💾 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Minimal firmware launcher that allows installing and switching between different ESP32 firmware builds from an SD card. Intended for projects where multiple applications are too large to fit in flash simultaneously, enabling the user to select and flash the desired firmware at boot.
 
-- 💪 [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - 基于 ESP32 + AD8232 的无线表面肌电系统，支持实时 Wi‑Fi 数据流、OTA 更新、自动校准，以及用于实时信号监测的轻量级 Python 图形界面。
+- 💪 [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - Wireless ESP32 + AD8232 surface EMG system with real-time Wi-Fi streaming, OTA updates, automatic calibration, and a lightweight Python GUI for live signal monitoring.
 
+### Security & Cryptography
+- 🔐 [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - Local-first desktop app built around GnuPG for managing PGP keys, encrypting and signing messages, and exporting encrypted key backups. Supports English and German UI. **License:** MIT.
 
-### 安全与密码学
-- 🔐 [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - 基于 GnuPG 的本地优先桌面应用，用于管理 PGP 密钥、加密和签名消息，以及导出加密密钥备份。支持英语和德语界面。**许可证：** MIT。
-
-### 飞行模拟
-- 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World 伴侣和独立应用程序
+### Flight Sim
+- 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World companion and standalone app
 
 ---
 
-## 社交媒体
+## Socials
 
 <p align="center">
   <a href="https://x.com/arn_c0de">
@@ -147,11 +119,11 @@
 
 ---
 
-## 联系方式
+## Contact
 
 > [!IMPORTANT]
 > **SimpleX Chat**
-> 可通过以下链接联系我：
+> Reach me here:
 > https://smp19.simplex.im/a#12EFYcsND4k7C7Gz1wUT7mKrt5-u84PqnHTBUZXw0eg
 >
 > **Matrix:** Currently unavailable
@@ -160,22 +132,22 @@
 <tr>
 <td width="50%" valign="top">
 
-### 安全问题与漏洞
+### Security Issues & Vulnerabilities
 
 📫 **arn-c0de@protonmail.com**
 
-用于安全相关问题、漏洞报告或敏感错误披露。
+For security-related concerns, vulnerability reports, or sensitive bug disclosures.
 
-对于漏洞、负责任披露或 whistleblowing 等关键事项，欢迎使用 PGP 邮件或私密聊天等安全渠道向我咨询。参见 [Secure Contact](SECURE-CONTACT.md)。
+For critical topics such as vulnerabilities, responsible disclosure, or whistleblowing, you are welcome to use secure channels such as PGP email or private chat. See [Secure Contact](SECURE-CONTACT.md).
 
 </td>
 <td width="50%" valign="top">
 
-### 一般咨询
+### General Inquiries
 
 💬 **GitHub Issues**
 
-对于错误、功能请求和一般项目讨论, 请使用相应存储库的问题跟踪器。
+For bugs, feature requests, and general project discussions, please use the issue tracker on the respective repository.
 
 </td>
 </tr>
@@ -183,12 +155,13 @@
 
 ---
 
-## 许可证
+## License
 
-Copyright (c) 2026 arn-c0de. 保留所有权利。
+Copyright (c) 2026 arn-c0de. All rights reserved.
+
 
 ---
 
 <p align="center">
-  <em>所有安全相关项目仅用于教育和研究目的。</em>
+  <em>All security-related projects are strictly for educational and research purposes.</em>
 </p>

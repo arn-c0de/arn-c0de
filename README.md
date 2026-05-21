@@ -1,12 +1,8 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=Android+%26+Web+Apps;Embedded+Systems+%26+IoT;SDR+%26+Security+Research;AI+%26+Automation;Kotlin+%C2%B7+Python+%C2%B7+C;Security+Research+%26+Pentesting;RF+%C2%B7+LoRa+%C2%B7+Embedded+Protocols;Backend+Development+%26+APIs" alt="Typing SVG" /></a>
-</p>
-
 **[🇬🇧](README.md) | [🇩🇪](README_DE.md) | [🇨🇳](README_ZH.md) | [🇫🇷](README_FR.md) | [🇮🇹](README_IT.md)**
 
 <p align="center">
   <a href="SERVICES.md">
-    <img src="https://img.shields.io/badge/Services_%26_Collaboration-7F52FF?style=for-the-badge" alt="Services & Collaboration" />
+    <img src="https://img.shields.io/badge/Collaboration-7F52FF?style=flat-square" alt="Collaboration" />
   </a>
 </p>
 
@@ -30,31 +26,17 @@ If you need help with something, want to collaborate, or would like to contribut
 <td width="50%" valign="top">
 
 ### Languages & Frameworks
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+Kotlin · Python · C · Flask · FastAPI
 
 ### Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ResNet18](https://img.shields.io/badge/ResNet18-DeepLearningAI-green?style=for-the-badge)
+PyTorch · ResNet18
 
 </td>
 <td width="50%" valign="top">
 
 ### Embedded & Hardware
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![ATmega](https://img.shields.io/badge/ATmega-5D5D5D?style=for-the-badge&logo=atmel&logoColor=white)<br>
-![HackRF One](https://img.shields.io/badge/HackRF_One-000000?style=for-the-badge&logo=hackrf&logoColor=white)
-![RTL-SDR](https://img.shields.io/badge/RTL--SDR-FF0000?style=for-the-badge&logo=rtl_sdr&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-1EA1E1?style=for-the-badge&logo=lorawan&logoColor=white)
+ESP32 · Raspberry Pi · Arduino · ESP8266 · ATmega<br>
+HackRF One · RTL-SDR · LoRa
 
 </td>
 </tr>
@@ -62,16 +44,7 @@ If you need help with something, want to collaborate, or would like to contribut
 <td colspan="2">
 
 ### Tools & Platforms
-
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDEA · Blender
 
 </td>
 </tr>
