@@ -2,39 +2,39 @@
   <a href="README.md">English</a> | <a href="README_DE.md">Deutsch</a> | <a href="README_ZH.md">中文</a> | <a href="README_FR.md">Français</a> | <a href="README_IT.md">Italiano</a>
   &nbsp;&nbsp;
   <a href="SERVICES.md">
-    <img src="https://img.shields.io/badge/Collaboration-7F52FF?style=flat-square" alt="Collaboration" valign="middle" />
+    <img src="https://img.shields.io/badge/Collaborazione-7F52FF?style=flat-square" alt="Collaborazione" valign="middle" />
   </a>
 </p>
 
 ---
 
-> **Note (April 2026):** Currently working heavily on private projects — the profile may look inactive, but I'm still reachable.
+> **Nota (aprile 2026):** Attualmente sto lavorando molto su progetti privati. Il profilo può sembrare inattivo, ma sono ancora raggiungibile.
 
-working primarily on Android and web applications, embedded systems, and backend development.
+Lavoro principalmente su applicazioni Android e web, sistemi embedded e sviluppo backend.
 
-**Languages:** German (native) · English (fluent)
-**Focus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Learning:** Rust, C++ (Windows)
+**Lingue:** tedesco (madrelingua) · inglese (fluente)
+**Focus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Studio:** Rust, C++ (Windows)
 
-If you need help with something, want to collaborate, or would like to contribute to one of my projects, feel free to reach out using the contact options below or open an issue in the respective repository.
+Se hai bisogno di aiuto, vuoi collaborare o contribuire a uno dei miei progetti, usa pure i contatti qui sotto oppure apri una issue nel repository interessato.
 
 ---
 
-## Tech Stack
+## Stack tecnica
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Languages & Frameworks
+### Linguaggi & framework
 Kotlin · Python · C · Flask · FastAPI
 
-### Machine Learning
+### Machine learning
 PyTorch · ResNet18
 
 </td>
 <td width="50%" valign="top">
 
-### Embedded & Hardware
+### Embedded & hardware
 ESP32 · Raspberry Pi · Arduino · ESP8266 · ATmega<br>
 HackRF One · RTL-SDR · LoRa
 
@@ -43,75 +43,75 @@ HackRF One · RTL-SDR · LoRa
 <tr>
 <td colspan="2">
 
-### Tools & Platforms
+### Strumenti & piattaforme
 Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDEA · Blender
 
 </td>
 </tr>
 </table>
 
-## Current Learning
+## Studio attuale
 
-- **Programming:** Rust, C/C++ (Windows), Low-level, Java/Kotlin, Design Patterns
-- **Security:** Reverse Engineering & APK Patching, Hardening, Research, Secure Code Review
+- **Programmazione:** Rust, C/C++ (Windows), low-level, Java/Kotlin, design pattern
+- **Sicurezza:** reverse engineering e patching APK, hardening, ricerca, revisione sicura del codice
 
 ---
 
-## GitHub Stats
+## Statistiche GitHub
 
 <p align="center">
-  <img src="assets/langs-donut.svg?cache-bust=1780212686?cache-bust=1780212686?cache-bust=1780125207?cache-bust=1780040153?cache-bust=1779953845?cache-bust=1779867726?cache-bust=1779780482?cache-bust=1779695519?cache-bust=1779607107?cache-bust=1779520026?cache-bust=1779434917?cache-bust=1779348770?cache-bust=1779262122?cache-bust=1779175732?cache-bust=1779090095?cache-bust=1779001803?cache-bust=1778914712?cache-bust=1778829699?cache-bust=1778742861?cache-bust=1778656618?cache-bust=1778569972?cache-bust=1778484568?cache-bust=1778396799?cache-bust=1778309650?cache-bust=1778222859?cache-bust=1778138069?cache-bust=1778051338?cache-bust=1777964366?cache-bust=1777879035?cache-bust=1777791729?cache-bust=1777704657?cache-bust=1777619213?cache-bust=1777532727?cache-bust=1777446178?cache-bust=1777360076?cache-bust=1777273699?cache-bust=1777186159?cache-bust=1777099254?cache-bust=1777013518?cache-bust=1776927055?cache-bust=1776840637?cache-bust=1776754240?cache-bust=1776668385?cache-bust=1776581114?cache-bust=1776494201?cache-bust=1776408610?cache-bust=1776322220?cache-bust=1776235763?cache-bust=1776149334?cache-bust=1776063497?cache-bust=1775976180?cache-bust=1775889142?cache-bust=1775803723?cache-bust=1775717045?cache-bust=1775630612?cache-bust=1775544132?cache-bust=1775458228?cache-bust=1775370974?cache-bust=1775284283?cache-bust=1775198229?cache-bust=1775111873" alt="Languages distribution" height="220" />
+  <img src="assets/langs-donut.svg?cache-bust=1780212686?cache-bust=1780212686?cache-bust=1780125207?cache-bust=1780040153?cache-bust=1779953845?cache-bust=1779867726?cache-bust=1779780482?cache-bust=1779695519?cache-bust=1779607107?cache-bust=1779520026?cache-bust=1779434917?cache-bust=1779348770?cache-bust=1779262122?cache-bust=1779175732?cache-bust=1779090095?cache-bust=1779001803?cache-bust=1778914712?cache-bust=1778829699?cache-bust=1778742861?cache-bust=1778656618?cache-bust=1778569972?cache-bust=1778484568?cache-bust=1778396799?cache-bust=1778309650?cache-bust=1778222859?cache-bust=1778138069?cache-bust=1778051338?cache-bust=1777964366?cache-bust=1777879035?cache-bust=1777791729?cache-bust=1777704657?cache-bust=1777619213?cache-bust=1777532727?cache-bust=1777446178?cache-bust=1777360076?cache-bust=1777273699?cache-bust=1777186159?cache-bust=1777099254?cache-bust=1777013518?cache-bust=1776927055?cache-bust=1776840637?cache-bust=1776754240?cache-bust=1776668385?cache-bust=1776581114?cache-bust=1776494201?cache-bust=1776408610?cache-bust=1776322220?cache-bust=1776235763?cache-bust=1776149334?cache-bust=1776063497?cache-bust=1775976180?cache-bust=1775889142?cache-bust=1775803723?cache-bust=1775717045?cache-bust=1775630612?cache-bust=1775544132?cache-bust=1775458228?cache-bust=1775370974?cache-bust=1775284283?cache-bust=1775198229?cache-bust=1775111873" alt="Distribuzione dei linguaggi" height="220" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/arn-c0de/arn-c0de@output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" />
+  <img src="https://cdn.jsdelivr.net/gh/arn-c0de/arn-c0de@output/profile-3d-contrib/profile-night-rainbow.svg" alt="Calendario 3D" />
 </p>
 
 <p align="center">
-  <sub>Automated language tracking system — <a href="docs/LANGUAGE-TRACKING.md">View implementation details</a></sub>
+  <sub>Sistema automatico di tracciamento dei linguaggi — <a href="docs/LANGUAGE-TRACKING.md">vedi i dettagli di implementazione</a></sub>
 </p>
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">
-    <img alt="arn-c0de's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />
+    <img alt="Statistiche GitHub di arn-c0de" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />
   </a>
 </p>
 
 ---
 
-## Featured Projects
+## Progetti in evidenza
 
-### AI & Finance
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/ANPS-TradeMeUp?style=flat-square&color=blue)](https://github.com/arn-c0de/ANPS-TradeMeUp/issues) [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-powered AI News Prediction System for short-to-medium term market forecasting, featuring real-time analysis and a Dash-based monitoring dashboard. **License:** Proprietary source-available (strict).
+### IA & finanza
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ANPS-TradeMeUp?style=flat-square&color=blue)](https://github.com/arn-c0de/ANPS-TradeMeUp/issues) [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - Sistema di previsione delle notizie finanziarie basato su LLM per previsioni di mercato a breve e medio termine, con analisi in tempo reale e dashboard di monitoraggio basata su Dash. **Licenza:** proprietaria, sorgente disponibile (rigida).
 
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/Crawllama?style=flat-square&color=blue)](https://github.com/arn-c0de/Crawllama/issues) [**CrawlLama**](https://github.com/arn-c0de/Crawllama) - Local AI agent that answers questions via Ollama and integrates web- and RAG-based research.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/Crawllama?style=flat-square&color=blue)](https://github.com/arn-c0de/Crawllama/issues) [**CrawlLama**](https://github.com/arn-c0de/Crawllama) - Agente IA locale che risponde alle domande tramite Ollama e integra ricerca web e RAG.
 
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - This is a testing / prototyping repository for experimenting with AOI/AI concepts and implementing them as clean, reproducible building blocks. **License:** Proprietary. **No permission is granted to use, copy, modify, or distribute this software without prior written permission.**
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - Repository di test e prototipazione per sperimentare concetti AOI/AI e trasformarli in componenti puliti e riproducibili. **Licenza:** proprietaria. **Non è concessa alcuna autorizzazione a usare, copiare, modificare o distribuire questo software senza previo consenso scritto.**
 
-### IoT & Embedded
+### IoT & embedded
 
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - is a collection of ESP32-based educational and experimental labs for security research, training, and prototyping. The repository hosts current projects and will continue to host future labs covering offensive and defensive techniques, safe experiments, and red-team/blue-team exercises.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - Raccolta di laboratori educativi e sperimentali basati su ESP32 per ricerca sulla sicurezza, formazione e prototipazione. Il repository ospita progetti attuali e continuerà a includere futuri lab su tecniche offensive e difensive, esperimenti sicuri ed esercizi red-team/blue-team.
 
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - A multi-password USB HID keyboard emulator for the Arduino Pro Micro (ATmega32U4). Different button press sequences trigger predefined passwords, typed automatically over USB.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - Emulatore di tastiera USB HID multi-password per Arduino Pro Micro (ATmega32U4). Diverse sequenze di pressione dei pulsanti attivano password predefinite, digitate automaticamente via USB.
 
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Minimal firmware launcher that allows installing and switching between different ESP32 firmware builds from an SD card. Intended for projects where multiple applications are too large to fit in flash simultaneously, enabling the user to select and flash the desired firmware at boot.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Launcher firmware minimale che permette di installare e passare tra diversi build firmware ESP32 da una scheda SD. Pensato per progetti in cui più applicazioni sono troppo grandi per stare contemporaneamente nella flash.
 
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - Wireless ESP32 + AD8232 surface EMG system with real-time Wi-Fi streaming, OTA updates, automatic calibration, and a lightweight Python GUI for live signal monitoring.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - Sistema EMG di superficie wireless ESP32 + AD8232 con streaming Wi-Fi in tempo reale, aggiornamenti OTA, calibrazione automatica e GUI Python leggera per il monitoraggio live del segnale.
 
-### Security & Cryptography
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - Local-first desktop app built around GnuPG for managing PGP keys, encrypting and signing messages, and exporting encrypted key backups. Supports English and German UI. **License:** MIT.
+### Sicurezza & crittografia
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - App desktop local-first basata su GnuPG per gestire chiavi PGP, cifrare e firmare messaggi ed esportare backup cifrati delle chiavi. Supporta interfaccia inglese e tedesca. **Licenza:** MIT.
 
 ### Sicurezza di rete
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-L1NK?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-L1NK/issues) [**GDEF-L1NK**](https://github.com/arn-c0de/GDEF-L1NK) - Piattaforma modulare di network intelligence per cattura autorizzata dei pacchetti, aggregazione dei dispositivi con PostgreSQL, integrazione dei sensori FritzDump, statistiche live e visualizzazione 3D interattiva su globo. **Licenza:** MIT.
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/fritzdump?style=flat-square&color=blue)](https://github.com/arn-c0de/fritzdump/issues) [**FritzDump**](https://github.com/arn-c0de/fritzdump) - Helper per la cattura live da FRITZ!Box che trasmette dati pcap a Wireshark, ntopng, file o stdout, con supporto al login PBKDF2 e rimozione opzionale dei payload, mantenendo solo i metadati. **Licenza:** MIT.
 
-### Flight Sim
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World companion and standalone app
+### Simulazione di volo
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - App companion e standalone per DCS World
 
 ---
 
-## Socials
+## Social
 
 <p align="center">
   <a href="https://x.com/arn_c0de">
@@ -124,35 +124,35 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 ---
 
-## Contact
+## Contatto
 
 > [!IMPORTANT]
 > **SimpleX Chat**
-> Reach me here:
+> Puoi contattarmi qui:
 > https://smp19.simplex.im/a#12EFYcsND4k7C7Gz1wUT7mKrt5-u84PqnHTBUZXw0eg
 >
-> **Matrix:** Currently unavailable
+> **Matrix:** attualmente non disponibile
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Security Issues & Vulnerabilities
+### Problemi di sicurezza & vulnerabilità
 
 **arn-c0de@protonmail.com**
 
-For security-related concerns, vulnerability reports, or sensitive bug disclosures.
+Per questioni di sicurezza, segnalazioni di vulnerabilità o bug report sensibili.
 
-For critical topics such as vulnerabilities, responsible disclosure, or whistleblowing, you are welcome to use secure channels such as PGP email or private chat. See [Secure Contact](SECURE-CONTACT.md).
+Per temi critici come vulnerabilità, responsible disclosure o whistleblowing, puoi usare canali sicuri come email PGP o chat privata. Vedi [contatto sicuro](SECURE-CONTACT.md).
 
 </td>
 <td width="50%" valign="top">
 
-### General Inquiries
+### Richieste generali
 
 **GitHub Issues**
 
-For bugs, feature requests, and general project discussions, please use the issue tracker on the respective repository.
+Per bug, richieste di funzionalità e discussioni generali sui progetti, usa l'issue tracker del repository interessato.
 
 </td>
 </tr>
@@ -160,13 +160,13 @@ For bugs, feature requests, and general project discussions, please use the issu
 
 ---
 
-## License
+## Licenza
 
-Copyright (c) 2026 arn-c0de. All rights reserved.
+Copyright (c) 2026 arn-c0de. Tutti i diritti riservati.
 
 
 ---
 
 <p align="center">
-  <em>All security-related projects are strictly for educational and research purposes.</em>
+  <em>Tutti i progetti legati alla sicurezza sono strettamente destinati a scopi educativi e di ricerca.</em>
 </p>
