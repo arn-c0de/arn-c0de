@@ -26,7 +26,7 @@ This channel is intended for:
 
 ### Email
 
-📫 **arn-c0de@protonmail.com**
+**arn-c0de@protonmail.com**
 
 Encrypted email is preferred for messages containing highly sensitive technical details. Please use the PGP public key provided below.
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md">🇬🇧</a> | <a href="README_DE.md">🇩🇪</a> | <a href="README_ZH.md">🇨🇳</a> | <a href="README_FR.md">🇫🇷</a> | <a href="README_IT.md">🇮🇹</a>
+  <a href="README.md">English</a> | <a href="README_DE.md">Deutsch</a> | <a href="README_ZH.md">中文</a> | <a href="README_FR.md">Français</a> | <a href="README_IT.md">Italiano</a>
   &nbsp;&nbsp;
   <a href="SERVICES.md">
     <img src="https://img.shields.io/badge/Collaboration-7F52FF?style=flat-square" alt="Collaboration" valign="middle" />
@@ -10,7 +10,7 @@
 
 > **Note (April 2026):** Currently working heavily on private projects — the profile may look inactive, but I'm still reachable.
 
-🇩🇪 working primarily on Android and web applications, embedded systems, and backend development.
+working primarily on Android and web applications, embedded systems, and backend development.
 
 **Languages:** German (native) · English (fluent)
 **Focus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Learning:** Rust, C++ (Windows)
@@ -82,27 +82,32 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 ## Featured Projects
 
 ### AI & Finance
-- 📈 [![Issues](https://img.shields.io/github/issues/arn-c0de/ANPS-TradeMeUp?style=flat-square&color=blue)](https://github.com/arn-c0de/ANPS-TradeMeUp/issues) [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-powered AI News Prediction System for short-to-medium term market forecasting, featuring real-time analysis and a Dash-based monitoring dashboard. **License:** Proprietary source-available (strict).
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ANPS-TradeMeUp?style=flat-square&color=blue)](https://github.com/arn-c0de/ANPS-TradeMeUp/issues) [**ANPS-TradeMeUp**](https://github.com/arn-c0de/ANPS-TradeMeUp) - LLM-powered AI News Prediction System for short-to-medium term market forecasting, featuring real-time analysis and a Dash-based monitoring dashboard. **License:** Proprietary source-available (strict).
 
-- 🤖 [![Issues](https://img.shields.io/github/issues/arn-c0de/Crawllama?style=flat-square&color=blue)](https://github.com/arn-c0de/Crawllama/issues) [**CrawlLama**](https://github.com/arn-c0de/Crawllama) - Local AI agent that answers questions via Ollama and integrates web- and RAG-based research.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/Crawllama?style=flat-square&color=blue)](https://github.com/arn-c0de/Crawllama/issues) [**CrawlLama**](https://github.com/arn-c0de/Crawllama) - Local AI agent that answers questions via Ollama and integrates web- and RAG-based research.
 
-- 📊 [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - This is a testing / prototyping repository for experimenting with AOI/AI concepts and implementing them as clean, reproducible building blocks. **License:** Proprietary. **No permission is granted to use, copy, modify, or distribute this software without prior written permission.**
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - This is a testing / prototyping repository for experimenting with AOI/AI concepts and implementing them as clean, reproducible building blocks. **License:** Proprietary. **No permission is granted to use, copy, modify, or distribute this software without prior written permission.**
 
 ### IoT & Embedded
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-LABs?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-LABs/issues) [**ESP32-LABs**](https://github.com/arn-c0de/ESP32-LABs) - is a collection of ESP32-based educational and experimental labs for security research, training, and prototyping. The repository hosts current projects and will continue to host future labs covering offensive and defensive techniques, safe experiments, and red-team/blue-team exercises.
 
-- ⌨️ [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - A multi-password USB HID keyboard emulator for the Arduino Pro Micro (ATmega32U4). Different button press sequences trigger predefined passwords, typed automatically over USB.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - A multi-password USB HID keyboard emulator for the Arduino Pro Micro (ATmega32U4). Different button press sequences trigger predefined passwords, typed automatically over USB.
 
-- 💾 [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Minimal firmware launcher that allows installing and switching between different ESP32 firmware builds from an SD card. Intended for projects where multiple applications are too large to fit in flash simultaneously, enabling the user to select and flash the desired firmware at boot.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Minimal firmware launcher that allows installing and switching between different ESP32 firmware builds from an SD card. Intended for projects where multiple applications are too large to fit in flash simultaneously, enabling the user to select and flash the desired firmware at boot.
 
-- 💪 [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - Wireless ESP32 + AD8232 surface EMG system with real-time Wi-Fi streaming, OTA updates, automatic calibration, and a lightweight Python GUI for live signal monitoring.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/AD8232-EMG?style=flat-square&color=blue)](https://github.com/arn-c0de/AD8232-EMG/issues) [**AD8232-EMG**](https://github.com/arn-c0de/AD8232-EMG) - Wireless ESP32 + AD8232 surface EMG system with real-time Wi-Fi streaming, OTA updates, automatic calibration, and a lightweight Python GUI for live signal monitoring.
 
 ### Security & Cryptography
-- 🔐 [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - Local-first desktop app built around GnuPG for managing PGP keys, encrypting and signing messages, and exporting encrypted key backups. Supports English and German UI. **License:** MIT.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - Local-first desktop app built around GnuPG for managing PGP keys, encrypting and signing messages, and exporting encrypted key backups. Supports English and German UI. **License:** MIT.
+
+### Netzwerksicherheit
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/GDEF-L1NK?style=flat-square&color=blue)](https://github.com/arn-c0de/GDEF-L1NK/issues) [**GDEF-L1NK**](https://github.com/arn-c0de/GDEF-L1NK) - Modulare Network-Intelligence-Plattform für autorisierte Paketerfassung, PostgreSQL-gestützte Geräteaggregation, FritzDump-Sensorintegration, Live-Statistiken und interaktive 3D-Globus-Visualisierung. **Lizenz:** MIT.
+
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/fritzdump?style=flat-square&color=blue)](https://github.com/arn-c0de/fritzdump/issues) [**FritzDump**](https://github.com/arn-c0de/fritzdump) - Live-Paketerfassung für FRITZ!Boxen mit pcap-Streaming zu Wireshark, ntopng, Dateien oder stdout, PBKDF2-Login-Unterstützung und optionaler Reduktion auf Metadaten ohne Payloads. **Lizenz:** MIT.
 
 ### Flight Sim
-- 🛩️ [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World companion and standalone app
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World companion and standalone app
 
 ---
 
@@ -134,7 +139,7 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 ### Security Issues & Vulnerabilities
 
-📫 **arn-c0de@protonmail.com**
+**arn-c0de@protonmail.com**
 
 For security-related concerns, vulnerability reports, or sensitive bug disclosures.
 
@@ -145,7 +150,7 @@ For critical topics such as vulnerabilities, responsible disclosure, or whistleb
 
 ### General Inquiries
 
-💬 **GitHub Issues**
+**GitHub Issues**
 
 For bugs, feature requests, and general project discussions, please use the issue tracker on the respective repository.
 
