@@ -92,7 +92,7 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/fritzdump?style=flat-square&color=blue)](https://github.com/arn-c0de/fritzdump/issues) [**FritzDump**](https://github.com/arn-c0de/fritzdump) - 面向 FRITZ!Box 的实时抓包工具，可将 pcap 数据流输出到 Wireshark、ntopng、文件或 stdout，支持 PBKDF2 登录和可选的仅元数据脱敏。**许可证：** MIT。
 
 ### 游戏
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape-Preview?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape-Preview/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape-Preview) - Android 开放世界定位僵尸生存游戏，将现实中的街道和建筑变成生存地图。这是一个预览仓库，提供生产信息、可试玩的 Alpha、Beta 和测试版本以供评估、开发洞见，以及参与贡献的联系方式——主仓库设为私有。
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape-Preview?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape-Preview/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape-Preview) - Android 开放世界定位僵尸生存游戏，将现实中的街道和建筑变成生存地图。这是一个预览仓库，提供生产信息、可试玩的 Alpha、Beta 和测试版本以供评估、开发洞见，以及参与贡献的联系方式——主仓库设为私有。当前阶段：功能实现、缺陷修复与打磨优化。
 
 ### 飞行模拟
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS World 伴侣应用和独立应用
