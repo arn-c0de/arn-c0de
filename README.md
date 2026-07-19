@@ -92,7 +92,7 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/fritzdump?style=flat-square&color=blue)](https://github.com/arn-c0de/fritzdump/issues) [**FritzDump**](https://github.com/arn-c0de/fritzdump) - Live FRITZ!Box packet-capture helper that streams pcap data to Wireshark, ntopng, files, or stdout, with PBKDF2 login support and optional metadata-only redaction. **License:** MIT.
 
 ### Games
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape-Preview?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape-Preview/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape-Preview) - Open-world, location-based zombie survival game for Android that turns real streets and buildings into a survival map.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape-Preview?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape-Preview/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape-Preview) - Open-world, location-based zombie survival game for Android that turns real streets and buildings into a survival map. This is a preview repository featuring production updates, playable alpha, beta and test builds to evaluate, development insights, and contact options to get involved — the main repository is kept private.
 
 ### Flight Sim
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World companion and standalone app

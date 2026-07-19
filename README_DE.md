@@ -92,7 +92,7 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/fritzdump?style=flat-square&color=blue)](https://github.com/arn-c0de/fritzdump/issues) [**FritzDump**](https://github.com/arn-c0de/fritzdump) - Live-Paketerfassung für FRITZ!Boxen mit pcap-Streaming zu Wireshark, ntopng, Dateien oder stdout, PBKDF2-Login-Unterstützung und optionaler Reduktion auf Metadaten ohne Payloads. **Lizenz:** MIT.
 
 ### Spiele
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape-Preview?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape-Preview/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape-Preview) - Open-World-Zombie-Survival-Spiel für Android, das echte Straßen und Gebäude in eine Überlebenskarte verwandelt.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape-Preview?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape-Preview/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape-Preview) - Open-World-Zombie-Survival-Spiel für Android, das echte Straßen und Gebäude in eine Überlebenskarte verwandelt. Dies ist ein Preview-Repository mit Produktions-Infos, spielbaren Alpha-, Beta- und Testversionen zum Evaluieren, Entwicklungseinblicken sowie Kontaktmöglichkeiten zum Mitwirken — das Haupt-Repository ist privat gestellt.
 
 ### Flugsimulation
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Begleit- und Standalone-App für DCS World
