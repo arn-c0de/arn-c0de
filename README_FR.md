@@ -90,6 +90,8 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 ### Sécurité & cryptographie
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - Application desktop local-first autour de GnuPG pour gérer les clés PGP, chiffrer et signer des messages, et exporter des sauvegardes de clés chiffrées. Interface disponible en anglais et en allemand. **Licence :** MIT.
 
+- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/anon-WebMirror) [**anon-WebMirror**](https://github.com/arn-c0de/anon-WebMirror) - Mise en miroir de sites web axée sur la confidentialité via Tor, avec protection anti-fuite fail-closed. **Actuellement privé** — versions de test disponibles sur demande, les contributions sont les bienvenues.
+
 ### Sécurité réseau
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/fritzdump?style=flat-square&color=blue)](https://github.com/arn-c0de/fritzdump/issues) [**FritzDump**](https://github.com/arn-c0de/fritzdump) - Outil de capture live pour FRITZ!Box qui diffuse les données pcap vers Wireshark, ntopng, un fichier ou stdout, avec prise en charge de la connexion PBKDF2 et une suppression optionnelle des charges utiles limitée aux métadonnées. **Licence:** MIT.
 

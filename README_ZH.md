@@ -90,6 +90,8 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 ### 安全与密码学
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - 围绕 GnuPG 构建的本地优先桌面应用，用于管理 PGP 密钥、加密和签名消息，以及导出加密密钥备份。支持英文和德文界面。**许可证：** MIT。
 
+- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/anon-WebMirror) [**anon-WebMirror**](https://github.com/arn-c0de/anon-WebMirror) - 注重隐私的网站镜像工具，通过 Tor 运行，具备 fail-closed 泄漏防护。**目前为私有仓库** — 可应要求提供测试版本，欢迎参与协作。
+
 ### 网络安全
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/fritzdump?style=flat-square&color=blue)](https://github.com/arn-c0de/fritzdump/issues) [**FritzDump**](https://github.com/arn-c0de/fritzdump) - 面向 FRITZ!Box 的实时抓包工具，可将 pcap 数据流输出到 Wireshark、ntopng、文件或 stdout，支持 PBKDF2 登录和可选的仅元数据脱敏。**许可证：** MIT。
 
