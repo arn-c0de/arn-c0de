@@ -79,6 +79,8 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - Dépôt de test et de prototypage pour expérimenter des concepts AOI/IA et les transformer en composants propres et reproductibles. **Licence :** propriétaire. **Aucune autorisation n'est accordée pour utiliser, copier, modifier ou distribuer ce logiciel sans accord écrit préalable.**
 
+- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/JobFinder) [**JobFinder**](https://github.com/arn-c0de/JobFinder) - Espace de travail auto-hébergé pour collecter, dédupliquer et gérer des offres d'emploi, des missions freelance et des appels d'offres publics. **Actuellement privé** — versions de test disponibles sur demande, les contributions sont les bienvenues.
+
 ### IoT & embarqué
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - Émulateur de clavier USB HID multi-mots de passe pour Arduino Pro Micro (ATmega32U4). Différentes séquences de boutons déclenchent des mots de passe prédéfinis, saisis automatiquement via USB.

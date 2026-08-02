@@ -79,6 +79,8 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - 用于测试和原型设计的仓库，实验 AOI/AI 概念，并将其实现为干净、可复现的构建模块。**许可证：** 专有。**未经事先书面许可，不允许使用、复制、修改或分发本软件。**
 
+- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/JobFinder) [**JobFinder**](https://github.com/arn-c0de/JobFinder) - 自托管工作区，用于收集、去重和管理招聘职位、自由职业项目和公开招标。**目前为私有仓库** — 可应要求提供测试版本，欢迎参与协作。
+
 ### IoT 与嵌入式
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - 面向 Arduino Pro Micro（ATmega32U4）的多密码 USB HID 键盘模拟器。不同按键序列会触发预设密码，并通过 USB 自动输入。

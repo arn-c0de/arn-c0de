@@ -79,6 +79,8 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - Repository di test e prototipazione per sperimentare concetti AOI/AI e trasformarli in componenti puliti e riproducibili. **Licenza:** proprietaria. **Non è concessa alcuna autorizzazione a usare, copiare, modificare o distribuire questo software senza previo consenso scritto.**
 
+- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/JobFinder) [**JobFinder**](https://github.com/arn-c0de/JobFinder) - Workspace self-hosted per raccogliere, deduplicare e gestire offerte di lavoro, progetti freelance e bandi pubblici. **Attualmente privato** — versioni di test disponibili su richiesta, i contributi sono benvenuti.
+
 ### IoT & embedded
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - Emulatore di tastiera USB HID multi-password per Arduino Pro Micro (ATmega32U4). Diverse sequenze di pressione dei pulsanti attivano password predefinite, digitate automaticamente via USB.

@@ -79,6 +79,8 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - Test- und Prototyping-Repository zum Experimentieren mit AOI/AI-Konzepten und zum Umsetzen sauberer, reproduzierbarer Bausteine. **Lizenz:** Proprietär. **Ohne vorherige schriftliche Genehmigung ist keine Nutzung, Kopie, Änderung oder Verbreitung dieser Software erlaubt.**
 
+- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/JobFinder) [**JobFinder**](https://github.com/arn-c0de/JobFinder) - Self-hosted Workspace zum Sammeln, Deduplizieren und Verwalten von Jobs, Freelance-Projekten und öffentlichen Ausschreibungen. **Aktuell privat** — Testversionen auf Anfrage verfügbar, Mitarbeit ist ausdrücklich erwünscht.
+
 ### IoT & Embedded
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - USB-HID-Tastaturemulator mit mehreren Passwörtern für den Arduino Pro Micro (ATmega32U4). Unterschiedliche Tastensequenzen lösen vordefinierte Passwörter aus, die automatisch per USB eingegeben werden.
