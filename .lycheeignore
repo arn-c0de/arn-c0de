@@ -1,0 +1,5 @@
+# SimpleX invitation link — not a regular HTTP resource, cannot be validated
+https://smp19\.simplex\.im/.*
+
+# Third-party stats service, frequently rate-limits or cold-starts
+https://awesome-github-stats\.azurewebsites\.net/.*

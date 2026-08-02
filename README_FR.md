@@ -8,7 +8,7 @@
 
 ---
 
-> **Note (avril 2026) :** Je travaille actuellement beaucoup sur des projets privés. Le profil peut donc sembler inactif, mais je reste joignable.
+> **Note (août 2026) :** Je travaille actuellement beaucoup sur des projets privés. Le profil peut donc sembler inactif, mais je reste joignable.
 
 Je travaille principalement sur des applications Android et web, des systèmes embarqués et du développement backend.
 
@@ -59,10 +59,6 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 </p>
 
 <p align="center">
-  <sub>Système automatisé de suivi des langages — <a href="docs/LANGUAGE-TRACKING.md">voir les détails d'implémentation</a></sub>
-</p>
-
-<p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">
     <img alt="Statistiques GitHub de arn-c0de" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />
   </a>
@@ -79,7 +75,7 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - Dépôt de test et de prototypage pour expérimenter des concepts AOI/IA et les transformer en composants propres et reproductibles. **Licence :** propriétaire. **Aucune autorisation n'est accordée pour utiliser, copier, modifier ou distribuer ce logiciel sans accord écrit préalable.**
 
-- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/JobFinder) [**JobFinder**](https://github.com/arn-c0de/JobFinder) - Espace de travail auto-hébergé pour collecter, dédupliquer et gérer des offres d'emploi, des missions freelance et des appels d'offres publics. **Actuellement privé** — versions de test disponibles sur demande, les contributions sont les bienvenues.
+- ![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square) **JobFinder** - Espace de travail auto-hébergé pour collecter, dédupliquer et gérer des offres d'emploi, des missions freelance et des appels d'offres publics. **Actuellement privé** — versions de test et collaboration sur demande, voir [Contact sécurisé](SECURE-CONTACT.md).
 
 ### IoT & embarqué
 
@@ -90,7 +86,7 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 ### Sécurité & cryptographie
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - Application desktop local-first autour de GnuPG pour gérer les clés PGP, chiffrer et signer des messages, et exporter des sauvegardes de clés chiffrées. Interface disponible en anglais et en allemand. **Licence :** MIT.
 
-- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/anon-WebMirror) [**anon-WebMirror**](https://github.com/arn-c0de/anon-WebMirror) - Mise en miroir de sites web axée sur la confidentialité via Tor, avec protection anti-fuite fail-closed. **Actuellement privé** — versions de test disponibles sur demande, les contributions sont les bienvenues.
+- ![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square) **anon-WebMirror** - Mise en miroir de sites web axée sur la confidentialité via Tor, avec protection anti-fuite fail-closed. **Actuellement privé** — versions de test et collaboration sur demande, voir [Contact sécurisé](SECURE-CONTACT.md).
 
 ### Sécurité réseau
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/fritzdump?style=flat-square&color=blue)](https://github.com/arn-c0de/fritzdump/issues) [**FritzDump**](https://github.com/arn-c0de/fritzdump) - Outil de capture live pour FRITZ!Box qui diffuse les données pcap vers Wireshark, ntopng, un fichier ou stdout, avec prise en charge de la connexion PBKDF2 et une suppression optionnelle des charges utiles limitée aux métadonnées. **Licence:** MIT.

@@ -8,7 +8,7 @@
 
 ---
 
-> **Note (April 2026):** Currently working heavily on private projects — the profile may look inactive, but I'm still reachable.
+> **Note (August 2026):** Currently working heavily on private projects — the profile may look inactive, but I'm still reachable.
 
 working primarily on Android and web applications, embedded systems, and backend development.
 
@@ -59,10 +59,6 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 </p>
 
 <p align="center">
-  <sub>Automated language tracking system — <a href="docs/LANGUAGE-TRACKING.md">View implementation details</a></sub>
-</p>
-
-<p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">
     <img alt="arn-c0de's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />
   </a>
@@ -79,7 +75,7 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - This is a testing / prototyping repository for experimenting with AOI/AI concepts and implementing them as clean, reproducible building blocks. **License:** Proprietary. **No permission is granted to use, copy, modify, or distribute this software without prior written permission.**
 
-- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/JobFinder) [**JobFinder**](https://github.com/arn-c0de/JobFinder) - Self-hosted workspace for collecting, deduplicating, and managing jobs, freelance projects, and public tenders. **Currently private** — test versions available on request, contributors welcome.
+- ![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square) **JobFinder** - Self-hosted workspace for collecting, deduplicating, and managing jobs, freelance projects, and public tenders. **Currently private** — test builds and collaboration on request, see [Secure Contact](SECURE-CONTACT.md).
 
 ### IoT & Embedded
 
@@ -90,7 +86,7 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 ### Security & Cryptography
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - Local-first desktop app built around GnuPG for managing PGP keys, encrypting and signing messages, and exporting encrypted key backups. Supports English and German UI. **License:** MIT.
 
-- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/anon-WebMirror) [**anon-WebMirror**](https://github.com/arn-c0de/anon-WebMirror) - Privacy-focused website mirroring through Tor with fail-closed leak protection. **Currently private** — test versions available on request, contributors welcome.
+- ![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square) **anon-WebMirror** - Privacy-focused website mirroring through Tor with fail-closed leak protection. **Currently private** — test builds and collaboration on request, see [Secure Contact](SECURE-CONTACT.md).
 
 ### Network Security
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/fritzdump?style=flat-square&color=blue)](https://github.com/arn-c0de/fritzdump/issues) [**FritzDump**](https://github.com/arn-c0de/fritzdump) - Live FRITZ!Box packet-capture helper that streams pcap data to Wireshark, ntopng, files, or stdout, with PBKDF2 login support and optional metadata-only redaction. **License:** MIT.

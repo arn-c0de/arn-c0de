@@ -43,6 +43,17 @@ For confidential first contact or lower-friction coordination, private chat is a
 
 ## PGP Public Key
 
+Please verify the fingerprint through a second, independent channel before sending anything sensitive — do not trust this page alone.
+
+| | |
+|---|---|
+| **Fingerprint** | `93A7 8377 0EEA FFA4 3B24  22F1 A0F9 A2E7 0D64 2ADC` |
+| **Key ID** | `A0F9A2E70D642ADC` |
+| **Algorithm** | ed25519 (signing) · cv25519 (encryption) |
+| **Created** | 2026-05-13 |
+| **Expires** | 2028-05-12 |
+| **User ID** | `arn-c0de <arn-c0de@protonmail.com>` |
+
 ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 

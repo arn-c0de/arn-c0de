@@ -8,7 +8,7 @@
 
 ---
 
-> **Nota (aprile 2026):** Attualmente sto lavorando molto su progetti privati. Il profilo può sembrare inattivo, ma sono ancora raggiungibile.
+> **Nota (agosto 2026):** Attualmente sto lavorando molto su progetti privati. Il profilo può sembrare inattivo, ma sono ancora raggiungibile.
 
 Lavoro principalmente su applicazioni Android e web, sistemi embedded e sviluppo backend.
 
@@ -59,10 +59,6 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 </p>
 
 <p align="center">
-  <sub>Sistema automatico di tracciamento dei linguaggi — <a href="docs/LANGUAGE-TRACKING.md">vedi i dettagli di implementazione</a></sub>
-</p>
-
-<p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">
     <img alt="Statistiche GitHub di arn-c0de" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />
   </a>
@@ -79,7 +75,7 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - Repository di test e prototipazione per sperimentare concetti AOI/AI e trasformarli in componenti puliti e riproducibili. **Licenza:** proprietaria. **Non è concessa alcuna autorizzazione a usare, copiare, modificare o distribuire questo software senza previo consenso scritto.**
 
-- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/JobFinder) [**JobFinder**](https://github.com/arn-c0de/JobFinder) - Workspace self-hosted per raccogliere, deduplicare e gestire offerte di lavoro, progetti freelance e bandi pubblici. **Attualmente privato** — versioni di test disponibili su richiesta, i contributi sono benvenuti.
+- ![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square) **JobFinder** - Workspace self-hosted per raccogliere, deduplicare e gestire offerte di lavoro, progetti freelance e bandi pubblici. **Attualmente privato** — versioni di test e collaborazione su richiesta, vedi [Contatto sicuro](SECURE-CONTACT.md).
 
 ### IoT & embedded
 
@@ -90,7 +86,7 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 ### Sicurezza & crittografia
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - App desktop local-first basata su GnuPG per gestire chiavi PGP, cifrare e firmare messaggi ed esportare backup cifrati delle chiavi. Supporta interfaccia inglese e tedesca. **Licenza:** MIT.
 
-- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/anon-WebMirror) [**anon-WebMirror**](https://github.com/arn-c0de/anon-WebMirror) - Mirroring di siti web incentrato sulla privacy tramite Tor, con protezione anti-leak fail-closed. **Attualmente privato** — versioni di test disponibili su richiesta, i contributi sono benvenuti.
+- ![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square) **anon-WebMirror** - Mirroring di siti web incentrato sulla privacy tramite Tor, con protezione anti-leak fail-closed. **Attualmente privato** — versioni di test e collaborazione su richiesta, vedi [Contatto sicuro](SECURE-CONTACT.md).
 
 ### Sicurezza di rete
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/fritzdump?style=flat-square&color=blue)](https://github.com/arn-c0de/fritzdump/issues) [**FritzDump**](https://github.com/arn-c0de/fritzdump) - Helper per la cattura live da FRITZ!Box che trasmette dati pcap a Wireshark, ntopng, file o stdout, con supporto al login PBKDF2 e rimozione opzionale dei payload, mantenendo solo i metadati. **Licenza:** MIT.

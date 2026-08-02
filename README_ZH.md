@@ -8,7 +8,7 @@
 
 ---
 
-> **说明（2026 年 4 月）：** 我目前主要在做私有项目，所以这个主页可能看起来不太活跃，但仍然可以联系到我。
+> **说明（2026 年 8 月）：** 我目前主要在做私有项目，所以这个主页可能看起来不太活跃，但仍然可以联系到我。
 
 我主要开发 Android 和 Web 应用、嵌入式系统以及后端服务。
 
@@ -59,10 +59,6 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 </p>
 
 <p align="center">
-  <sub>自动语言统计系统 — <a href="docs/LANGUAGE-TRACKING.md">查看实现细节</a></sub>
-</p>
-
-<p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">
     <img alt="arn-c0de 的 GitHub 统计" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />
   </a>
@@ -79,7 +75,7 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/A-AIO-process-optimization-and-training?style=flat-square&color=blue)](https://github.com/arn-c0de/A-AIO-process-optimization-and-training/issues) [**A-AIO-process-optimization-and-training**](https://github.com/arn-c0de/A-AIO-process-optimization-and-training) - 用于测试和原型设计的仓库，实验 AOI/AI 概念，并将其实现为干净、可复现的构建模块。**许可证：** 专有。**未经事先书面许可，不允许使用、复制、修改或分发本软件。**
 
-- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/JobFinder) [**JobFinder**](https://github.com/arn-c0de/JobFinder) - 自托管工作区，用于收集、去重和管理招聘职位、自由职业项目和公开招标。**目前为私有仓库** — 可应要求提供测试版本，欢迎参与协作。
+- ![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square) **JobFinder** - 自托管工作区，用于收集、去重和管理招聘职位、自由职业项目和公开招标。**目前为私有仓库** — 测试版本与协作可应要求提供，详见[安全联系方式](SECURE-CONTACT.md)。
 
 ### IoT 与嵌入式
 
@@ -90,7 +86,7 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 ### 安全与密码学
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - 围绕 GnuPG 构建的本地优先桌面应用，用于管理 PGP 密钥、加密和签名消息，以及导出加密密钥备份。支持英文和德文界面。**许可证：** MIT。
 
-- [![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square)](https://github.com/arn-c0de/anon-WebMirror) [**anon-WebMirror**](https://github.com/arn-c0de/anon-WebMirror) - 注重隐私的网站镜像工具，通过 Tor 运行，具备 fail-closed 泄漏防护。**目前为私有仓库** — 可应要求提供测试版本，欢迎参与协作。
+- ![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square) **anon-WebMirror** - 注重隐私的网站镜像工具，通过 Tor 运行，具备 fail-closed 泄漏防护。**目前为私有仓库** — 测试版本与协作可应要求提供，详见[安全联系方式](SECURE-CONTACT.md)。
 
 ### 网络安全
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/fritzdump?style=flat-square&color=blue)](https://github.com/arn-c0de/fritzdump/issues) [**FritzDump**](https://github.com/arn-c0de/fritzdump) - 面向 FRITZ!Box 的实时抓包工具，可将 pcap 数据流输出到 Wireshark、ntopng、文件或 stdout，支持 PBKDF2 登录和可选的仅元数据脱敏。**许可证：** MIT。
