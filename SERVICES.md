@@ -1,41 +1,28 @@
 # Services & Collaboration
 
-I enjoy working on technical projects and I am always looking for ways to learn and improve my skills. If you have an interesting project or need help with something, feel free to reach out.
+I like technical projects and always want to learn more. If you have something interesting or need help, reach out.
 
 ---
 
-## What I enjoy working on
+## What I work on
 
-### Full Lifecycle: Idea to Implementation
-I can assist with the entire process of bringing a project to life. This includes everything from the initial idea and architectural design to the final implementation and long-term maintenance.
+- **Idea to implementation** — architecture, build, maintenance.
+- **Backend & APIs** — core logic, data structures, server setup.
+- **Hardening** — code review, configs, making systems robust.
+- **Reverse engineering** — low-level analysis of programs and protocols.
+- **Collaboration** — open source or private, prototypes and technical problems.
+- **Bugs & improvements** — issues and PRs on my projects are welcome.
+- **Anonymity** — private, secure channels; no public mention if you prefer.
 
-### Backend & Design
-I spend a lot of time on backend systems and API design. I can help with building the core logic of an application, designing data structures, or setting up servers.
+**Legal:** Reverse engineering only on projects you own or have explicit permission for.
 
-### Project Hardening
-I like to look at the security of projects and find ways to make them more robust. This includes reviewing code, improving configurations, and making sure a system is well-protected.
-
-### Reverse Engineering & Disassembly
-I am interested in how software works under the hood. I do low-level analysis of programs and protocols to understand their behavior or find weaknesses. 
-
-**Note on Legal Compliance:** I only perform disassembly and reverse engineering on projects that you legally own or where you have explicit permission to conduct such analysis.
-
-### General Collaboration
-If you are working on something interesting—whether it is an open-source project or a private idea—I am open to collaborating. I enjoy building prototypes and solving technical challenges together. 
-
-### Bugs & Improvements
-If you find any issues, vulnerabilities, or potential improvements in my projects, I would appreciate your feedback. Feel free to open an issue or submit a pull request (PR). Contributing to these projects is always welcome.
-
-### Anonymity & Private Exchange
-Anonymous collaboration is possible via private and secure channels. No public mention or publication of the project will occur if anonymity is preferred.
-
-**Note on my projects:** Many of the repositories you see on my profile are primarily "conceptual understanding" projects. They serve as learning blocks to test and understand specific technologies or concepts.
+**On my repos:** Most are conceptual learning projects to test specific technologies.
 
 ---
 
-## Contact & Privacy
+## Contact
 
-For general questions, feel free to open an issue on GitHub. For private or sensitive topics, I prefer using encrypted channels.
+General questions: open a GitHub issue. Private topics: encrypted channels.
 
 - **Email:** `arn-c0de@protonmail.com` (PGP preferred)
-- **Private Chat:** See [SECURE-CONTACT.md](SECURE-CONTACT.md) for my PGP key and other secure contact methods.
+- **Private chat:** [SECURE-CONTACT.md](SECURE-CONTACT.md) — PGP key and other secure methods.
