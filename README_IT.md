@@ -1,9 +1,6 @@
 <p align="center">
   <a href="README.md">English</a> | <a href="README_DE.md">Deutsch</a> | <a href="README_ZH.md">中文</a> | <a href="README_FR.md">Français</a> | <a href="README_IT.md">Italiano</a>
   &nbsp;&nbsp;
-  <a href="https://arn-c0de.github.io/arn-c0de-dev/">
-    <img src="https://img.shields.io/badge/Sito%20web-24292E?style=flat-square" alt="Sito web" valign="middle" />
-  </a>
   <a href="SERVICES.md">
     <img src="https://img.shields.io/badge/Collaborazione-7F52FF?style=flat-square" alt="Collaborazione" valign="middle" />
   </a>
@@ -54,6 +51,20 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 </td>
 </tr>
 </table>
+
+---
+
+## Sito web
+
+<p align="center">
+  <a href="https://arn-c0de.github.io/website/">
+    <img src="https://img.shields.io/badge/arn--c0de.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Sito web" />
+  </a>
+</p>
+
+<p align="center">
+  Progetti, build e contatti — tutto in un unico posto.
+</p>
 
 ---
 
