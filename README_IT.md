@@ -10,7 +10,9 @@
 
 > **Nota (agosto 2026):** Attualmente sto lavorando molto su progetti privati. Il profilo può sembrare inattivo, ma sono ancora raggiungibile.
 
-Lavoro principalmente su applicazioni Android e web, sistemi embedded e sviluppo backend.
+Apprendista elettronico per apparecchi e sistemi.
+
+Focus personale: sistemi embedded, deployment backend, integrazione server, applicazioni Android e applicazioni web.
 
 **Lingue:** tedesco (madrelingua) · inglese (fluente)
 **Focus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Studio:** Rust, C++ (Windows)

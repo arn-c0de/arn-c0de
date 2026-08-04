@@ -10,7 +10,9 @@
 
 > **Hinweis (August 2026):** Ich arbeite derzeit intensiv an privaten Projekten. Das Profil wirkt dadurch möglicherweise inaktiv, ich bin aber weiterhin erreichbar.
 
-Ich arbeite hauptsächlich an Android- und Webanwendungen, Embedded Systems und Backend-Entwicklung.
+Auszubildender Elektroniker für Geräte und Systeme.
+
+Persönlicher Schwerpunkt: Embedded Systems, Backend-Deployment, Server-Integration, Android-Anwendungen und Webanwendungen.
 
 **Sprachen:** Deutsch (Muttersprache) · Englisch (fließend)
 **Fokus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Lerne aktuell:** Rust, C++ (Windows)

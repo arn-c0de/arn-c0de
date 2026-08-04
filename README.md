@@ -10,7 +10,9 @@
 
 > **Note (August 2026):** Currently working heavily on private projects — the profile may look inactive, but I'm still reachable.
 
-working primarily on Android and web applications, embedded systems, and backend development.
+Electronics Technician Apprentice for Devices and Systems.
+
+Personal focus: Embedded systems, backend deployment, server integration, Android applications, and web applications.
 
 **Languages:** German (native) · English (fluent)
 **Focus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Learning:** Rust, C++ (Windows)
