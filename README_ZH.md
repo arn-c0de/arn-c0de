@@ -8,6 +8,20 @@
 
 ---
 
+## 网站
+
+<p align="center">
+  <a href="https://arn-c0de.github.io/website/">
+    <img src="https://img.shields.io/badge/arn--c0de.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="网站" />
+  </a>
+</p>
+
+<p align="center">
+  项目、构建版本与联系方式，尽在一处。
+</p>
+
+---
+
 > **说明（2026 年 8 月）：** 我目前主要在做私有项目，所以这个主页可能看起来不太活跃，但仍然可以联系到我。
 
 电子设备与系统技术员学徒。
@@ -51,20 +65,6 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 </td>
 </tr>
 </table>
-
----
-
-## 网站
-
-<p align="center">
-  <a href="https://arn-c0de.github.io/website/">
-    <img src="https://img.shields.io/badge/arn--c0de.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="网站" />
-  </a>
-</p>
-
-<p align="center">
-  项目、构建版本与联系方式，尽在一处。
-</p>
 
 ---
 

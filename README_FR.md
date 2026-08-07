@@ -8,6 +8,20 @@
 
 ---
 
+## Site web
+
+<p align="center">
+  <a href="https://arn-c0de.github.io/website/">
+    <img src="https://img.shields.io/badge/arn--c0de.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Site web" />
+  </a>
+</p>
+
+<p align="center">
+  Projets, builds et contacts — tout au même endroit.
+</p>
+
+---
+
 > **Note (août 2026) :** Je travaille actuellement beaucoup sur des projets privés. Le profil peut donc sembler inactif, mais je reste joignable.
 
 Apprenti électronicien en appareils et systèmes.
@@ -51,20 +65,6 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 </td>
 </tr>
 </table>
-
----
-
-## Site web
-
-<p align="center">
-  <a href="https://arn-c0de.github.io/website/">
-    <img src="https://img.shields.io/badge/arn--c0de.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Site web" />
-  </a>
-</p>
-
-<p align="center">
-  Projets, builds et contacts — tout au même endroit.
-</p>
 
 ---
 
