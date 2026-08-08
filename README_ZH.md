@@ -115,6 +115,14 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 ---
 
+## 值得分享的项目
+
+他人的项目：我个人喜欢、想要推荐，或亲自参与开发的项目。
+
+- [![Stars](https://img.shields.io/github/stars/VibecodingGermany/Project_Nova?style=flat-square&color=blue)](https://github.com/VibecodingGermany/Project_Nova) [**Project Nova**](https://github.com/VibecodingGermany/Project_Nova) *(暂定名将改为「Hashkrieg」)* - 承袭《命令与征服》传统的即时战略游戏，基于 Unity 6 与 C# 开发，核心是一个确定性的、独立于 Unity 的模拟内核（lockstep）。开发过程完全公开——欢迎贡献者和试玩测试者参与。
+
+---
+
 ## 社交
 
 <p align="center">

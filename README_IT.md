@@ -115,6 +115,14 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 ---
 
+## Progetti da condividere
+
+Progetti di altre persone che mi piacciono personalmente, che voglio segnalare o a cui contribuisco direttamente.
+
+- [![Stars](https://img.shields.io/github/stars/VibecodingGermany/Project_Nova?style=flat-square&color=blue)](https://github.com/VibecodingGermany/Project_Nova) [**Project Nova**](https://github.com/VibecodingGermany/Project_Nova) *(titolo provvisorio in transizione: «Hashkrieg»)* - Gioco di strategia in tempo reale nella tradizione di Command & Conquer, realizzato con Unity 6 e C# su un core di simulazione deterministico e indipendente da Unity (lockstep). Sviluppo completamente aperto — contributori e playtester sono benvenuti.
+
+---
+
 ## Social
 
 <p align="center">
