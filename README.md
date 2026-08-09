@@ -35,6 +35,16 @@ If you need help with something, want to collaborate, or would like to contribut
 
 ---
 
+## Currently Working On
+
+**RTS AI for [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova)** — NPC behavior and goal management: how an AI opponent decides what to pursue, and when to drop it again.
+
+- **Goal management** — prioritized, competing objectives instead of hard-coded scripts. Goals are re-evaluated during the match and dropped once they stop paying off.
+- **NPC behavior** — build order and economy, army composition, expanding vs. defending vs. attacking, siege and movement behavior.
+- **Measurement** — behavior changes are checked with numbers, not by feel: a separate headless simulation lab ([Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab)) runs branches against each other and reports the outcome. A green lab run is a diagnosis, not a proof — anything not observed in a live match is marked as unobserved.
+
+---
+
 ## Tech Stack
 
 <table>
@@ -109,6 +119,8 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 ### Games
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape-Preview?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape-Preview/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape-Preview) - Open-world, location-based zombie survival game for Android that turns real streets and buildings into a survival map. This is a preview repository featuring production updates, playable alpha, beta and test builds to evaluate, development insights, and contact options to get involved — the main repository is kept private. Current phase: feature implementation, bugfixing and polishing.
+
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/Nova.AiLab?style=flat-square&color=blue)](https://github.com/arn-c0de/Nova.AiLab/issues) [**Nova.AiLab**](https://github.com/arn-c0de/Nova.AiLab) - My own headless AI simulation lab for [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova). It runs the game's RTS AI without a client, measures any checked-out branch, and turns each run into readable reports on build-up, siege and movement behavior — plus a hand-kept behavior journal of what got better, what got worse, and what is already disproven. Tooling, deliberately kept outside the game repository so every branch can be measured without building the measuring tool into it. **License:** Proprietary — Project Nova maintainers and contributors may use it to measure branches, but not redistribute it.
 
 ### Flight Sim
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS-World companion and standalone app

@@ -35,6 +35,16 @@ Wenn du Hilfe brauchst, zusammenarbeiten möchtest oder zu einem meiner Projekte
 
 ---
 
+## Woran ich gerade arbeite
+
+**RTS-KI für [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova)** — NPC-Verhalten und Zielverwaltung (Goal Management): woran ein KI-Gegner sich festmacht, und wann er es wieder fallen lässt.
+
+- **Zielverwaltung** — priorisierte, konkurrierende Ziele statt fest verdrahteter Skripte. Ziele werden während der Partie neu bewertet und verworfen, sobald sie sich nicht mehr auszahlen.
+- **NPC-Verhalten** — Baureihenfolge und Wirtschaft, Armeezusammensetzung, Expandieren vs. Verteidigen vs. Angreifen, Belagerungs- und Bewegungsverhalten.
+- **Messung** — Verhaltensänderungen werden mit Zahlen geprüft, nicht nach Gefühl: Ein eigenes headless Simulationslabor ([Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab)) lässt Branches gegeneinander laufen und berichtet das Ergebnis. Ein grüner Laborlauf ist Diagnose, kein Nachweis — was nicht im laufenden Spiel gesehen wurde, steht als ungesehen drin.
+
+---
+
 ## Tech-Stack
 
 <table>
@@ -109,6 +119,8 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 ### Spiele
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape-Preview?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape-Preview/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape-Preview) - Open-World-Zombie-Survival-Spiel für Android, das echte Straßen und Gebäude in eine Überlebenskarte verwandelt. Dies ist ein Preview-Repository mit Produktions-Infos, spielbaren Alpha-, Beta- und Testversionen zum Evaluieren, Entwicklungseinblicken sowie Kontaktmöglichkeiten zum Mitwirken — das Haupt-Repository ist privat gestellt. Aktuelle Phase: Feature-Implementierung, Bugfixing und Polishing.
+
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/Nova.AiLab?style=flat-square&color=blue)](https://github.com/arn-c0de/Nova.AiLab/issues) [**Nova.AiLab**](https://github.com/arn-c0de/Nova.AiLab) - Mein eigenes headless KI-Simulationslabor für [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova). Es lässt die RTS-KI des Spiels ohne Client laufen, vermisst den jeweils ausgecheckten Branch und macht aus jedem Lauf lesbare Berichte zu Aufbau-, Belagerungs- und Bewegungsverhalten — dazu ein von Hand geführtes Verhaltensjournal: was besser wurde, was schlechter, und was schon widerlegt ist. Werkzeug, bewusst außerhalb des Spiel-Repos, damit sich jeder Branch vermessen lässt, ohne ihm das Messwerkzeug einzubauen. **Lizenz:** Proprietär — Maintainer und Mitwirkende von Project Nova dürfen es zum Vermessen von Branches nutzen, aber nicht weitergeben.
 
 ### Flugsimulation
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Begleit- und Standalone-App für DCS World

@@ -35,6 +35,16 @@
 
 ---
 
+## 我目前在做什么
+
+**[Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova) 的 RTS AI** —— NPC 行为与目标管理（goal management）：AI 对手决定去追求什么，以及什么时候放弃它。
+
+- **目标管理** —— 用有优先级、互相竞争的目标取代写死的脚本。目标在对局过程中被重新评估，一旦不再划算就被放弃。
+- **NPC 行为** —— 建造顺序与经济、部队构成、扩张 vs. 防守 vs. 进攻、攻城与移动行为。
+- **测量** —— 行为改动靠数字来验证，而不是靠感觉：一个独立的无头模拟实验室（[Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab)）让不同分支互相对战并报告结果。实验室跑通只是诊断，不是证明——凡是没有在真实对局中看到的，都会标记为未观察到。
+
+---
+
 ## 技术栈
 
 <table>
@@ -109,6 +119,8 @@ Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDE
 
 ### 游戏
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape-Preview?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape-Preview/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape-Preview) - Android 开放世界定位僵尸生存游戏，将现实中的街道和建筑变成生存地图。这是一个预览仓库，提供生产信息、可试玩的 Alpha、Beta 和测试版本以供评估、开发洞见，以及参与贡献的联系方式——主仓库设为私有。当前阶段：功能实现、缺陷修复与打磨优化。
+
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/Nova.AiLab?style=flat-square&color=blue)](https://github.com/arn-c0de/Nova.AiLab/issues) [**Nova.AiLab**](https://github.com/arn-c0de/Nova.AiLab) - 我自己为 [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova) 搭建的无头 AI 模拟实验室。它在没有客户端的情况下运行游戏的 RTS AI，测量当前检出的任意分支，并把每次运行整理成关于发育、攻城与移动行为的可读报告——另有一份手工维护的行为日志：什么变好了、什么变差了、什么已被推翻。它是工具，刻意放在游戏仓库之外，这样每个分支都能被测量，而不必把测量工具塞进分支里。**许可证：** 专有 —— Project Nova 的维护者与贡献者可用它测量分支，但不得再分发。
 
 ### 飞行模拟
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - DCS World 伴侣应用和独立应用
