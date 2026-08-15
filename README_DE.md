@@ -43,6 +43,11 @@ Wenn du Hilfe brauchst, zusammenarbeiten möchtest oder zu einem meiner Projekte
 - **NPC-Verhalten** — Baureihenfolge und Wirtschaft, Armeezusammensetzung, Expandieren vs. Verteidigen vs. Angreifen, Belagerungs- und Bewegungsverhalten.
 - **Messung** — Verhaltensänderungen werden mit Zahlen geprüft, nicht nach Gefühl: Ein eigenes headless Simulationslabor ([Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab)) lässt Branches gegeneinander laufen und berichtet das Ergebnis. Ein grüner Laborlauf ist Diagnose, kein Nachweis — was nicht im laufenden Spiel gesehen wurde, steht als ungesehen drin.
 
+**FLUID — Forschung zu fluidem / generativem UI** — eine Wissensbasis für ein agentengetriebenes UI-OS: eine Shell, in der ein KI-Agent die Oberfläche zur Laufzeit zusammensetzt, statt feste Screens auszuliefern — vollständig lokal (llama.cpp / vLLM / Ollama), mit Cloud-Modell (Claude, Gemini, GPT) oder hybrid.
+
+- **Umfang** — 167 querverlinkte, quellenmarkierte Dokumente zu Protokollen (A2UI, MCP, AG-UI), Architektur, verlässlicher UI-Erzeugung, Zustand, Sicherheit, Latenz und Kosten — dazu ein Plan für einen browserbasierten fluiden Desktop, bei dem eine Eingabe die App zusammensetzt, die man gerade braucht.
+- **Stand** — Recherche und Entscheidungen vor der ersten Zeile Code. Jede Aussage ist als belegt, teilweise belegt oder spekulativ markiert; das meiste ist teilweise belegt. Ein Entwurf, kein laufendes System.
+
 ---
 
 ## Tech-Stack

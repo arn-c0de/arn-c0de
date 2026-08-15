@@ -43,6 +43,11 @@ Si tu as besoin d'aide, souhaites collaborer ou contribuer à l'un de mes projet
 - **Comportement des NPC** — ordre de construction et économie, composition de l'armée, expansion vs. défense vs. attaque, comportement de siège et de déplacement.
 - **Mesure** — les changements de comportement sont vérifiés avec des chiffres, pas au ressenti : un laboratoire de simulation headless dédié ([Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab)) fait s'affronter les branches et rend compte du résultat. Un run vert du laboratoire est un diagnostic, pas une preuve — ce qui n'a pas été observé en partie réelle est noté comme non observé.
 
+**FLUID — recherche sur l'UI fluide / générative** — une base de connaissances pour un OS d'interface piloté par agent : un shell où une IA compose l'interface à l'exécution au lieu de livrer des écrans figés — entièrement en local (llama.cpp / vLLM / Ollama), adossé à un modèle cloud (Claude, Gemini, GPT), ou hybride.
+
+- **Périmètre** — 167 documents reliés entre eux et tracés jusqu'à leurs sources : protocoles (A2UI, MCP, AG-UI), architecture, génération d'UI fiable, état, sécurité, latence et coût — plus un plan de bureau fluide dans le navigateur, où une seule saisie compose l'app dont on a besoin.
+- **État** — la recherche et les décisions avant la première ligne de code. Chaque affirmation est marquée vérifiée, partielle ou spéculative ; la majorité est partielle. Une conception, pas un système en production.
+
 ---
 
 ## Stack technique
