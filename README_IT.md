@@ -24,8 +24,6 @@
 
 > **Nota (agosto 2026):** Attualmente sto lavorando molto su progetti privati. Il profilo può sembrare inattivo, ma sono ancora raggiungibile.
 
-Apprendista elettronico per apparecchi e sistemi.
-
 Focus personale: sistemi embedded, deployment backend, integrazione server, applicazioni Android e applicazioni web.
 
 **Lingue:** tedesco (madrelingua) · inglese (fluente)

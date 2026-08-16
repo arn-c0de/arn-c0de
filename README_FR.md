@@ -24,8 +24,6 @@
 
 > **Note (août 2026) :** Je travaille actuellement beaucoup sur des projets privés. Le profil peut donc sembler inactif, mais je reste joignable.
 
-Apprenti électronicien en appareils et systèmes.
-
 Intérêts personnels : systèmes embarqués, déploiement backend, intégration serveur, applications Android et applications web.
 
 **Langues :** allemand (langue maternelle) · anglais (courant)

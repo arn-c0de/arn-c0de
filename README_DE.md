@@ -24,8 +24,6 @@
 
 > **Hinweis (August 2026):** Ich arbeite derzeit intensiv an privaten Projekten. Das Profil wirkt dadurch möglicherweise inaktiv, ich bin aber weiterhin erreichbar.
 
-Auszubildender Elektroniker für Geräte und Systeme.
-
 Persönlicher Schwerpunkt: Embedded Systems, Backend-Deployment, Server-Integration, Android-Anwendungen und Webanwendungen.
 
 **Sprachen:** Deutsch (Muttersprache) · Englisch (fließend)

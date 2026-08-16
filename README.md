@@ -24,8 +24,6 @@
 
 > **Note (August 2026):** Currently working heavily on private projects — the profile may look inactive, but I'm still reachable.
 
-Electronics Technician Apprentice for Devices and Systems.
-
 Personal focus: Embedded systems, backend deployment, server integration, Android applications, and web applications.
 
 **Languages:** German (native) · English (fluent)
