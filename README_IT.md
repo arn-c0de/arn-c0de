@@ -41,6 +41,8 @@ Se hai bisogno di aiuto, vuoi collaborare o contribuire a uno dei miei progetti,
 
 **FLUID** — ricerca su un OS UI fluido/generativo guidato da agenti, con A2UI, MCP, AG-UI, architettura, stato, sicurezza, latenza e costi. Una base di conoscenza collegata alle fonti e un concept di desktop nel browser — ricerca, non un sistema operativo.
 
+**ARIS** — agente self-hosted con voce sintetica completamente fluida, supporto multi-modello e harness estensibile per strumenti e modifiche ai file. Progettato per hardware edge locale, usa server di modelli più potenti quando disponibili e degrada senza interrompersi quando non lo sono.
+
 ---
 
 ## Stack tecnica

@@ -41,6 +41,8 @@ Wenn du Hilfe brauchst, zusammenarbeiten möchtest oder zu einem meiner Projekte
 
 **FLUID** — Forschung zu einem agentengetriebenen, fluiden/generativen UI-OS mit Fokus auf A2UI, MCP, AG-UI, Architektur, Zustand, Sicherheit, Latenz und Kosten. Eine quellenverknüpfte Wissensbasis mit Browser-Desktop-Konzept — Forschung, kein fertiges System.
 
+**ARIS** — ein selbst gehosteter Agent mit vollständig fluider synthetischer Stimme, Multi-Model-Unterstützung und erweiterbarem Harness für Tools und Dateiänderungen. Für lokale Edge-Hardware ausgelegt, mit stärkeren Modellservern bei Verfügbarkeit und robustem Fallback bei Ausfällen.
+
 ---
 
 ## Tech-Stack
