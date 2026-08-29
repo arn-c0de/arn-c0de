@@ -37,7 +37,7 @@ Se hai bisogno di aiuto, vuoi collaborare o contribuire a uno dei miei progetti,
 
 **Traceability System** — applicazione web per la tracciabilità end-to-end in ambienti industriali. Collega prodotti, componenti, processi, dati di qualità ed eventi in una cronologia verificabile, rendendo trasparenti origine, modifiche e stato attuale. Include tracciamento di seriali e lotti, raccolta affidabile dei dati, accessi basati sui ruoli, storico consultabile e dashboard per produzione e qualità.
 
-**IA RTS per [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova)** — obiettivi adattivi e comportamento degli NPC (economia, esercito, espansione, difesa, attacco, assedio e movimento). Sto sviluppando [Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab) come ambiente di simulazione per confrontare versioni dell'IA provenienti da branch diversi. I risultati del laboratorio sono diagnosi; gli effetti non osservati in partita restano indicati come non osservati.
+**[Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab) per [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova)** — un ambiente di simulazione che sto sviluppando per confrontare versioni dell'IA provenienti da branch diversi. Valuta comportamenti RTS adattivi: obiettivi degli NPC, economia, esercito, espansione, difesa, attacco, assedio e movimento. I risultati del laboratorio sono diagnosi; gli effetti non osservati in partita restano indicati come non osservati.
 
 **FLUID** — implementazione e test attivi di un OS UI fluido/generativo guidato da agenti, con A2UI, MCP, AG-UI, architettura, stato, sicurezza, latenza e costi. Sistemi locali, cloud e ibridi vengono testati tramite applicazione e harness, con una base di conoscenza collegata alle fonti.
 
