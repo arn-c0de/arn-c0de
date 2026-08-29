@@ -37,6 +37,10 @@ If you need help with something, want to collaborate, or would like to contribut
 
 **Traceability System** — a web application for end-to-end traceability in industrial environments. It links products, components, processes, quality data and events into an auditable history, making origin, changes and current status transparent. Focus areas include serial and batch tracking, reliable data capture, role-based access, searchable records and production/quality dashboards.
 
+**RTS AI for [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova)** — adaptive NPC goals, economy, army composition, expansion, defense, attacks, siege and movement, measured in the headless [Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab). Lab results are diagnostics; unobserved live behavior stays marked unobserved.
+
+**FLUID** — research for an agent-driven, fluid/generative UI OS, covering A2UI, MCP, AG-UI, architecture, state, security, latency and cost. A source-linked knowledge base and browser-desktop design; research, not a shipped system.
+
 ---
 
 ## Tech Stack

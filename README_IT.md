@@ -37,6 +37,10 @@ Se hai bisogno di aiuto, vuoi collaborare o contribuire a uno dei miei progetti,
 
 **Traceability System** — applicazione web per la tracciabilità end-to-end in ambienti industriali. Collega prodotti, componenti, processi, dati di qualità ed eventi in una cronologia verificabile, rendendo trasparenti origine, modifiche e stato attuale. Include tracciamento di seriali e lotti, raccolta affidabile dei dati, accessi basati sui ruoli, storico consultabile e dashboard per produzione e qualità.
 
+**IA RTS per [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova)** — obiettivi adattivi e comportamento degli NPC (economia, esercito, espansione, difesa, attacco, assedio e movimento), misurati in [Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab). I risultati del laboratorio sono diagnosi; gli effetti non osservati in partita restano indicati come non osservati.
+
+**FLUID** — ricerca su un OS UI fluido/generativo guidato da agenti, con A2UI, MCP, AG-UI, architettura, stato, sicurezza, latenza e costi. Una base di conoscenza collegata alle fonti e un concept di desktop nel browser — ricerca, non un sistema operativo.
+
 ---
 
 ## Stack tecnica
