@@ -37,7 +37,7 @@
 
 **Traceability System（可追溯系统）** —— 面向工业环境的端到端 Web 追溯平台。它将产品、组件、流程、质量数据和事件连接为可审计的历史记录，让来源、变更和当前状态清晰可见。重点包括序列号与批次追踪、可靠的数据采集、基于角色的访问控制、可搜索历史记录，以及生产和质量仪表板。
 
-**[Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova) RTS AI** —— 自适应目标与 NPC 行为（经济、军队、扩张、防守、进攻、攻城和移动），通过无头模拟实验室 [Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab) 进行测量。实验室结果只是诊断；真实对局中未观察到的效果会保持标记。
+**[Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova) RTS AI** —— 自适应目标与 NPC 行为（经济、军队、扩张、防守、进攻、攻城和移动）。我正在开发 [Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab) 作为模拟环境，用于比较来自不同分支的 AI 版本。实验室结果只是诊断；真实对局中未观察到的效果会保持标记。
 
 **FLUID** —— 正在积极实现和测试的智能体驱动流态/生成式 UI 操作系统，涵盖 A2UI、MCP、AG-UI、架构、状态、安全、延迟与成本。通过应用和 Harness 测试本地、云端及混合系统，并由有来源链接的知识库提供支持。
 
