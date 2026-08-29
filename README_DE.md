@@ -39,7 +39,7 @@ Wenn du Hilfe brauchst, zusammenarbeiten möchtest oder zu einem meiner Projekte
 
 **RTS-KI für [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova)** — adaptive Ziele und NPC-Verhalten für Wirtschaft, Armee, Expansion, Verteidigung, Angriff, Belagerung und Bewegung, gemessen im headless [Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab). Laborergebnisse sind Diagnosen; im Live-Spiel ungesehene Effekte bleiben als ungesehen markiert.
 
-**FLUID** — Forschung zu einem agentengetriebenen, fluiden/generativen UI-OS mit Fokus auf A2UI, MCP, AG-UI, Architektur, Zustand, Sicherheit, Latenz und Kosten. Eine quellenverknüpfte Wissensbasis mit Browser-Desktop-Konzept — Forschung, kein fertiges System.
+**FLUID** — aktive Implementierung und Erprobung eines agentengetriebenen, fluiden/generativen UI-OS mit Fokus auf A2UI, MCP, AG-UI, Architektur, Zustand, Sicherheit, Latenz und Kosten. Verschiedene lokale, Cloud- und hybride Systeme werden über Anwendung und Harness getestet, gestützt auf eine quellenverknüpfte Wissensbasis.
 
 **ARIS** — ein selbst gehosteter Agent mit vollständig fluider synthetischer Stimme, Multi-Model-Unterstützung und erweiterbarem Harness für Tools und Dateiänderungen. Für lokale Edge-Hardware ausgelegt, mit stärkeren Modellservern bei Verfügbarkeit und robustem Fallback bei Ausfällen.
 
