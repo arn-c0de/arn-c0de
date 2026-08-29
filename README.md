@@ -35,16 +35,7 @@ If you need help with something, want to collaborate, or would like to contribut
 
 ## Currently Working On
 
-**RTS AI for [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova)** — NPC behavior and goal management: how an AI opponent decides what to pursue, and when to drop it again.
-
-- **Goal management** — prioritized, competing objectives instead of hard-coded scripts. Goals are re-evaluated during the match and dropped once they stop paying off.
-- **NPC behavior** — build order and economy, army composition, expanding vs. defending vs. attacking, siege and movement behavior.
-- **Measurement** — behavior changes are checked with numbers, not by feel: a separate headless simulation lab ([Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab)) runs branches against each other and reports the outcome. A green lab run is a diagnosis, not a proof — anything not observed in a live match is marked as unobserved.
-
-**FLUID — research on fluid / generative UI** — a knowledge base for an agent-driven UI OS: a shell where an AI agent composes the interface at runtime instead of shipping fixed screens — fully local (llama.cpp / vLLM / Ollama), cloud-backed (Claude, Gemini, GPT), or hybrid.
-
-- **Scope** — 167 cross-linked, source-tagged documents on protocols (A2UI, MCP, AG-UI), architecture, reliable UI generation, state, security, latency and cost — plus a plan for a browser-based fluid desktop where one input composes the app you need.
-- **Status** — research and decisions before the first line of code. Every claim is tagged verified, partial or speculative; most is partial. A design, not a shipped system.
+**Traceability System** — a web application for end-to-end traceability in industrial environments. It links products, components, processes, quality data and events into an auditable history, making origin, changes and current status transparent. Focus areas include serial and batch tracking, reliable data capture, role-based access, searchable records and production/quality dashboards.
 
 ---
 

@@ -35,16 +35,7 @@ Se hai bisogno di aiuto, vuoi collaborare o contribuire a uno dei miei progetti,
 
 ## A cosa sto lavorando
 
-**IA RTS per [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova)** — comportamento degli NPC e gestione degli obiettivi (goal management): che cosa decide di perseguire un avversario controllato dall'IA, e quando lo abbandona.
-
-- **Gestione degli obiettivi** — obiettivi prioritizzati e in concorrenza tra loro, invece di script cablati. Vengono rivalutati durante la partita e scartati appena smettono di rendere.
-- **Comportamento degli NPC** — ordine di costruzione ed economia, composizione dell'esercito, espandersi vs. difendere vs. attaccare, comportamento d'assedio e di movimento.
-- **Misurazione** — le modifiche al comportamento si verificano con i numeri, non a sensazione: un laboratorio di simulazione headless dedicato ([Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab)) fa scontrare i branch tra loro e ne riporta l'esito. Un run verde del laboratorio è una diagnosi, non una prova — ciò che non è stato osservato in una partita reale resta segnato come non osservato.
-
-**FLUID — ricerca su UI fluida / generativa** — una base di conoscenza per un OS di interfaccia guidato da agenti: una shell in cui un'IA compone l'interfaccia a runtime invece di consegnare schermate fisse — completamente in locale (llama.cpp / vLLM / Ollama), con un modello cloud (Claude, Gemini, GPT) oppure ibrida.
-
-- **Ambito** — 167 documenti collegati tra loro e tracciati alle fonti: protocolli (A2UI, MCP, AG-UI), architettura, generazione affidabile dell'UI, stato, sicurezza, latenza e costi — più un piano per un desktop fluido nel browser, dove un solo input compone l'app che serve.
-- **Stato** — la ricerca e le decisioni prima della prima riga di codice. Ogni affermazione è contrassegnata come verificata, parziale o speculativa; la maggior parte è parziale. Un progetto, non un sistema in esercizio.
+**Traceability System** — applicazione web per la tracciabilità end-to-end in ambienti industriali. Collega prodotti, componenti, processi, dati di qualità ed eventi in una cronologia verificabile, rendendo trasparenti origine, modifiche e stato attuale. Include tracciamento di seriali e lotti, raccolta affidabile dei dati, accessi basati sui ruoli, storico consultabile e dashboard per produzione e qualità.
 
 ---
 

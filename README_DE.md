@@ -35,16 +35,7 @@ Wenn du Hilfe brauchst, zusammenarbeiten möchtest oder zu einem meiner Projekte
 
 ## Woran ich gerade arbeite
 
-**RTS-KI für [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova)** — NPC-Verhalten und Zielverwaltung (Goal Management): woran ein KI-Gegner sich festmacht, und wann er es wieder fallen lässt.
-
-- **Zielverwaltung** — priorisierte, konkurrierende Ziele statt fest verdrahteter Skripte. Ziele werden während der Partie neu bewertet und verworfen, sobald sie sich nicht mehr auszahlen.
-- **NPC-Verhalten** — Baureihenfolge und Wirtschaft, Armeezusammensetzung, Expandieren vs. Verteidigen vs. Angreifen, Belagerungs- und Bewegungsverhalten.
-- **Messung** — Verhaltensänderungen werden mit Zahlen geprüft, nicht nach Gefühl: Ein eigenes headless Simulationslabor ([Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab)) lässt Branches gegeneinander laufen und berichtet das Ergebnis. Ein grüner Laborlauf ist Diagnose, kein Nachweis — was nicht im laufenden Spiel gesehen wurde, steht als ungesehen drin.
-
-**FLUID — Forschung zu fluidem / generativem UI** — eine Wissensbasis für ein agentengetriebenes UI-OS: eine Shell, in der ein KI-Agent die Oberfläche zur Laufzeit zusammensetzt, statt feste Screens auszuliefern — vollständig lokal (llama.cpp / vLLM / Ollama), mit Cloud-Modell (Claude, Gemini, GPT) oder hybrid.
-
-- **Umfang** — 167 querverlinkte, quellenmarkierte Dokumente zu Protokollen (A2UI, MCP, AG-UI), Architektur, verlässlicher UI-Erzeugung, Zustand, Sicherheit, Latenz und Kosten — dazu ein Plan für einen browserbasierten fluiden Desktop, bei dem eine Eingabe die App zusammensetzt, die man gerade braucht.
-- **Stand** — Recherche und Entscheidungen vor der ersten Zeile Code. Jede Aussage ist als belegt, teilweise belegt oder spekulativ markiert; das meiste ist teilweise belegt. Ein Entwurf, kein laufendes System.
+**Traceability System** — eine Webanwendung für die durchgängige Rückverfolgbarkeit in industriellen Umgebungen. Sie verknüpft Produkte, Komponenten, Prozesse, Qualitätsdaten und Ereignisse zu einer revisionssicheren Historie und macht Herkunft, Änderungen und aktuellen Status transparent. Schwerpunkte sind Serien- und Chargenverfolgung, zuverlässige Datenerfassung, rollenbasierte Zugriffe, durchsuchbare Historien sowie Produktions- und Qualitätsdashboards.
 
 ---
 
