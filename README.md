@@ -43,6 +43,8 @@ If you need help with something, want to collaborate, or would like to contribut
 
 **ARIS** — a self-hosted agent with full fluid synthetic voice, multi-model support and an extensible harness for tools and file edits. Designed to run locally on edge hardware, use stronger model servers when available and degrade gracefully when they are not.
 
+**DeepVision-Web** — a private, closed standalone mobile PCB pilot for on-device visual traceability. It combines WebAssembly tracking, camera-based PnP overlays, reference calibration and a read-only trace adapter; camera frames remain on the device.
+
 ---
 
 ## Tech Stack

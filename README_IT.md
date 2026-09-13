@@ -43,6 +43,8 @@ Se hai bisogno di aiuto, vuoi collaborare o contribuire a uno dei miei progetti,
 
 **ARIS** — agente self-hosted con voce sintetica completamente fluida, supporto multi-modello e harness estensibile per strumenti e modifiche ai file. Progettato per hardware edge locale, usa server di modelli più potenti quando disponibili e degrada senza interrompersi quando non lo sono.
 
+**DeepVision-Web** — pilota mobile standalone, privato e a codice chiuso, per la tracciabilità visiva di PCB direttamente sul dispositivo. Combina tracking WebAssembly, overlay PnP tramite fotocamera, calibrazione di riferimenti e un adattatore Trace in sola lettura; i frame della fotocamera restano sul dispositivo.
+
 ---
 
 ## Stack tecnica
