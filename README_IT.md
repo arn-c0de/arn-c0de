@@ -54,10 +54,14 @@ Se hai bisogno di aiuto, vuoi collaborare o contribuire a uno dei miei progetti,
 <td width="50%" valign="top">
 
 ### Linguaggi & framework
-Kotlin · Python · C · Flask · FastAPI
+Kotlin · Python · C · JavaScript · Flask · FastAPI
 
-### Machine learning
-PyTorch · ResNet18
+### Apprendimento automatico & visione artificiale
+PyTorch · ResNet18 · OpenCV<br>
+AKAZE · MAGSAC · Lucas–Kanade
+
+### Web & ambienti di esecuzione
+WebAssembly · Emscripten · Web Workers · SIMD · Multithreading
 
 </td>
 <td width="50%" valign="top">
@@ -66,13 +70,17 @@ PyTorch · ResNet18
 ESP32 · Raspberry Pi · Arduino · ESP8266 · ATmega<br>
 HackRF One · RTL-SDR · LoRa
 
+### Metodi
+Calibrazione del riferimento · Registrazione delle immagini · Tracciamento degli oggetti
+
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
 ### Strumenti & piattaforme
-Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDEA · Blender
+Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDEA · Blender<br>
+Node.js · npm · CMake · Bash
 
 </td>
 </tr>

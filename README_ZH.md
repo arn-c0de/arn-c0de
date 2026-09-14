@@ -54,10 +54,14 @@
 <td width="50%" valign="top">
 
 ### 语言与框架
-Kotlin · Python · C · Flask · FastAPI
+Kotlin · Python · C · JavaScript · Flask · FastAPI
 
-### 机器学习
-PyTorch · ResNet18
+### 机器学习与计算机视觉
+PyTorch · ResNet18 · OpenCV<br>
+AKAZE · MAGSAC · Lucas–Kanade
+
+### Web 与运行时
+WebAssembly · Emscripten · Web Workers · SIMD · 多线程
 
 </td>
 <td width="50%" valign="top">
@@ -66,13 +70,17 @@ PyTorch · ResNet18
 ESP32 · Raspberry Pi · Arduino · ESP8266 · ATmega<br>
 HackRF One · RTL-SDR · LoRa
 
+### 方法
+参考校准 · 图像配准 · 目标跟踪
+
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
 ### 工具与平台
-Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDEA · Blender
+Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDEA · Blender<br>
+Node.js · npm · CMake · Bash
 
 </td>
 </tr>
