@@ -6,8 +6,6 @@
   </a>
 </p>
 
----
-
 ## Website
 
 <p align="center">
@@ -20,73 +18,25 @@
   Projekte, Builds und Kontaktmöglichkeiten – alles an einem Ort.
 </p>
 
----
+> **August 2026:** Ich arbeite vor allem an privaten Projekten und bin weiterhin erreichbar.
 
-> **Hinweis (August 2026):** Ich arbeite derzeit intensiv an privaten Projekten. Das Profil wirkt dadurch möglicherweise inaktiv, ich bin aber weiterhin erreichbar.
-
-Persönlicher Schwerpunkt: Embedded Systems, Backend-Deployment, Server-Integration, Android-Anwendungen und Webanwendungen.
-
-**Sprachen:** Deutsch (Muttersprache) · Englisch (fließend)
-**Fokus:** Kotlin, Python, C (ESP32, SDR, Wi-Fi) · **Lerne aktuell:** Rust, C++ (Windows)
-
-Wenn du Hilfe brauchst, zusammenarbeiten möchtest oder zu einem meiner Projekte beitragen willst, nutze gern die Kontaktmöglichkeiten unten oder öffne ein Issue im jeweiligen Repository.
-
----
+Embedded Systems, Backend/Server, Android und Web. **Sprachen:** Deutsch, Englisch. **Fokus:** Kotlin, Python, C · **Lerne:** Rust, C++.
 
 ## Woran ich gerade arbeite
 
-**Traceability System** — eine Webanwendung für die durchgängige Rückverfolgbarkeit in industriellen Umgebungen. Sie verknüpft Produkte, Komponenten, Prozesse, Qualitätsdaten und Ereignisse zu einer revisionssicheren Historie und macht Herkunft, Änderungen und aktuellen Status transparent. Schwerpunkte sind Serien- und Chargenverfolgung, zuverlässige Datenerfassung, rollenbasierte Zugriffe, durchsuchbare Historien sowie Produktions- und Qualitätsdashboards.
-
-**[Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab) für [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova)** — eine von mir entwickelte Simulationsumgebung zum Vergleich verschiedener KI-Versionen aus unterschiedlichen Branches. Sie bewertet adaptives RTS-Verhalten wie NPC-Ziele, Wirtschaft, Armee, Expansion, Verteidigung, Angriff, Belagerung und Bewegung. Laborergebnisse sind Diagnosen; im Live-Spiel ungesehene Effekte bleiben als ungesehen markiert.
-
-**FLUID** — aktive Implementierung und Erprobung eines agentengetriebenen, fluiden/generativen UI-OS mit Fokus auf A2UI, MCP, AG-UI, Architektur, Zustand, Sicherheit, Latenz und Kosten. Verschiedene lokale, Cloud- und hybride Systeme werden über Anwendung und Harness getestet, gestützt auf eine quellenverknüpfte Wissensbasis.
-
-**ARIS** — ein selbst gehosteter Agent mit vollständig fluider synthetischer Stimme, Multi-Model-Unterstützung und erweiterbarem Harness für Tools und Dateiänderungen. Für lokale Edge-Hardware ausgelegt, mit stärkeren Modellservern bei Verfügbarkeit und robustem Fallback bei Ausfällen.
-
-**DeepVision-Web** — ein privater, geschlossener eigenständiger mobiler PCB-Pilot für visuelle Traceability direkt auf dem Gerät. Er verbindet WebAssembly-Tracking, kamerabasierte PnP-Overlays, Referenzkalibrierung und einen lesenden Trace-Adapter; Kameraframes bleiben auf dem Gerät.
-
----
+- **Traceability System** — Industrielle Webanwendung, die Produkte, Chargen, Prozesse und Qualitätsdaten revisionssicher verknüpft.
+- **[Nova.AiLab](https://github.com/arn-c0de/Nova.AiLab) für [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova)** — Branch-basierte RTS-KI-Simulation und Diagnostik für das Spiel; ungesehene Live-Effekte bleiben unbelegt.
+- **FLUID** — Agentengesteuertes generatives UI-OS im Test mit lokalen, Cloud- und Hybridsystemen.
+- **ARIS** — Selbst gehosteter Sprachagent mit mehreren Modellen und erweiterbaren Tools für Edge-Hardware.
+- **DeepVision-Web** — Privater PCB-Pilot zur visuellen Rückverfolgung auf dem Gerät; Kamerabilder bleiben lokal.
 
 ## Tech-Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Sprachen & Frameworks:** Kotlin · Python · C · JavaScript · Flask · FastAPI
 
-### Sprachen & Frameworks
-Kotlin · Python · C · JavaScript · Flask · FastAPI
+**KI, Vision & Web:** PyTorch · OpenCV · WebAssembly · Emscripten · Web Workers
 
-### Maschinelles Lernen & Computer Vision
-PyTorch · ResNet18 · OpenCV<br>
-AKAZE · MAGSAC · Lucas–Kanade
-
-### Web & Laufzeit
-WebAssembly · Emscripten · Web Workers · SIMD · Multithreading
-
-</td>
-<td width="50%" valign="top">
-
-### Embedded & Hardware
-ESP32 · Raspberry Pi · Arduino · ESP8266 · ATmega<br>
-HackRF One · RTL-SDR · LoRa
-
-### Methoden
-Referenzkalibrierung · Bildregistrierung · Objekttracking
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### Tools & Plattformen
-Windows · Linux · Docker · Git · GitHub · GitLab · VS Code · IntelliJ IDEA · Blender<br>
-Node.js · npm · CMake · Bash
-
-</td>
-</tr>
-</table>
-
----
+**Hardware & Tools:** ESP32 · Raspberry Pi · Arduino · SDR · LoRa · Docker · Git · Linux · Windows
 
 ## GitHub-Statistiken
 
@@ -99,8 +49,6 @@ Node.js · npm · CMake · Bash
     <img alt="GitHub-Statistiken von arn-c0de" src="https://awesome-github-stats.azurewebsites.net/user-stats/arn-c0de?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />
   </a>
 </p>
-
----
 
 ## Ausgewählte Projekte
 
@@ -115,12 +63,12 @@ Node.js · npm · CMake · Bash
 
 ### IoT & Embedded
 
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - USB-HID-Tastaturemulator mit mehreren Passwörtern für den Arduino Pro Micro (ATmega32U4). Unterschiedliche Tastensequenzen lösen vordefinierte Passwörter aus, die automatisch per USB eingegeben werden.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP-ProMicro-HidKey?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP-ProMicro-HidKey/issues) [**ESP-ProMicro-HidKey**](https://github.com/arn-c0de/ESP-ProMicro-HidKey) - USB-HID-Tastaturemulator mit mehreren Passwörtern für den Arduino Pro Micro (ATmega32U4).
 
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Minimaler Firmware-Launcher zum Installieren und Wechseln zwischen verschiedenen ESP32-Firmware-Builds von einer SD-Karte. Gedacht für Projekte, bei denen mehrere Anwendungen nicht gleichzeitig in den Flash passen und beim Booten ausgewählt und geflasht werden sollen.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Minimaler Firmware-Launcher zum Installieren und Wechseln zwischen verschiedenen ESP32-Firmware-Builds von einer SD-Karte.
 
 ### Sicherheit & Kryptografie
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - Local-first-Desktop-App rund um GnuPG zum Verwalten von PGP-Schlüsseln, Verschlüsseln und Signieren von Nachrichten sowie Exportieren verschlüsselter Schlüssel-Backups. Unterstützt englische und deutsche UI. **Lizenz:** MIT.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - Local-first-Desktop-App rund um GnuPG zum Verwalten von PGP-Schlüsseln, Verschlüsseln und Signieren von Nachrichten sowie Exportieren verschlüsselter Schlüssel-Backups. **Lizenz:** MIT.
 
 - ![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square) **anon-WebMirror** - Datenschutzorientiertes Website-Mirroring über Tor mit fail-closed Leak-Schutz. **Aktuell privat** — Testversionen und Mitarbeit auf Anfrage, siehe [Sicherer Kontakt](SECURE-CONTACT.md).
 
@@ -128,22 +76,18 @@ Node.js · npm · CMake · Bash
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/fritzdump?style=flat-square&color=blue)](https://github.com/arn-c0de/fritzdump/issues) [**FritzDump**](https://github.com/arn-c0de/fritzdump) - Live-Paketerfassung für FRITZ!Boxen mit pcap-Streaming zu Wireshark, ntopng, Dateien oder stdout, PBKDF2-Login-Unterstützung und optionaler Reduktion auf Metadaten ohne Payloads. **Lizenz:** MIT.
 
 ### Spiele
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape-Preview?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape-Preview/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape-Preview) - Open-World-Zombie-Survival-Spiel für Android, das echte Straßen und Gebäude in eine Überlebenskarte verwandelt. Dies ist ein Preview-Repository mit Produktions-Infos, spielbaren Alpha-, Beta- und Testversionen zum Evaluieren, Entwicklungseinblicken sowie Kontaktmöglichkeiten zum Mitwirken — das Haupt-Repository ist privat gestellt. Aktuelle Phase: Feature-Implementierung, Bugfixing und Polishing.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/ZombieEscape-Preview?style=flat-square&color=blue)](https://github.com/arn-c0de/ZombieEscape-Preview/issues) [**ZombieEscape**](https://github.com/arn-c0de/ZombieEscape-Preview) - Open-World-Zombie-Survival-Spiel für Android, das echte Straßen und Gebäude in eine Überlebenskarte verwandelt. Haupt-Repository privat; spielbare Builds in dieser Vorschau.
 
-- [![Issues](https://img.shields.io/github/issues/arn-c0de/Nova.AiLab?style=flat-square&color=blue)](https://github.com/arn-c0de/Nova.AiLab/issues) [**Nova.AiLab**](https://github.com/arn-c0de/Nova.AiLab) - Mein eigenes headless KI-Simulationslabor für [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova). Es lässt die RTS-KI des Spiels ohne Client laufen, vermisst den jeweils ausgecheckten Branch und macht aus jedem Lauf lesbare Berichte zu Aufbau-, Belagerungs- und Bewegungsverhalten — dazu ein von Hand geführtes Verhaltensjournal: was besser wurde, was schlechter, und was schon widerlegt ist. Werkzeug, bewusst außerhalb des Spiel-Repos, damit sich jeder Branch vermessen lässt, ohne ihm das Messwerkzeug einzubauen. **Lizenz:** Proprietär — Maintainer und Mitwirkende von Project Nova dürfen es zum Vermessen von Branches nutzen, aber nicht weitergeben.
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/Nova.AiLab?style=flat-square&color=blue)](https://github.com/arn-c0de/Nova.AiLab/issues) [**Nova.AiLab**](https://github.com/arn-c0de/Nova.AiLab) - Mein eigenes headless KI-Simulationslabor für [Project Nova / Hashkrieg](https://github.com/VibecodingGermany/Project_Nova). **Lizenz:** Proprietär — Maintainer und Mitwirkende von Project Nova dürfen es zum Vermessen von Branches nutzen, aber nicht weitergeben.
 
 ### Flugsimulation
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Begleit- und Standalone-App für DCS World
-
----
 
 ## Projekte, die ich teile
 
 Projekte anderer, die mir persönlich gefallen, die ich weiterempfehlen möchte oder an denen ich selbst mitarbeite.
 
-- [![Stars](https://img.shields.io/github/stars/VibecodingGermany/Project_Nova?style=flat-square&color=blue)](https://github.com/VibecodingGermany/Project_Nova) [**Project Nova**](https://github.com/VibecodingGermany/Project_Nova) *(Arbeitstitel in Umstellung: „Hashkrieg“)* - Echtzeitstrategiespiel in der Command-&-Conquer-Tradition, umgesetzt mit Unity 6 und C# auf einem deterministischen, Unity-unabhängigen Simulationskern (Lockstep). Die Entwicklung läuft vollständig offen — Mitwirkende und Playtester sind willkommen.
-
----
+- [![Stars](https://img.shields.io/github/stars/VibecodingGermany/Project_Nova?style=flat-square&color=blue)](https://github.com/VibecodingGermany/Project_Nova) [**Project Nova**](https://github.com/VibecodingGermany/Project_Nova) *(Arbeitstitel in Umstellung: „Hashkrieg“)* - Echtzeitstrategiespiel in der Command-&-Conquer-Tradition, umgesetzt mit Unity 6 und C# auf einem deterministischen, Unity-unabhängigen Simulationskern (Lockstep).
 
 ## Soziale Kanäle
 
@@ -156,8 +100,6 @@ Projekte anderer, die mir persönlich gefallen, die ich weiterempfehlen möchte 
   </a>
 </p>
 
----
-
 ## Kontakt
 
 > [!IMPORTANT]
@@ -167,39 +109,13 @@ Projekte anderer, die mir persönlich gefallen, die ich weiterempfehlen möchte 
 >
 > **Matrix:** Derzeit nicht verfügbar
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Sicherheitsmeldungen: **arn-c0de@protonmail.com** · [Sicherer Kontakt](SECURE-CONTACT.md) für PGP/Privatchat.
 
-### Sicherheitsprobleme & Schwachstellen
-
-**arn-c0de@protonmail.com**
-
-Für sicherheitsbezogene Anliegen, Schwachstellenberichte oder sensible Bug-Meldungen.
-
-Für kritische Themen wie Schwachstellen, Responsible Disclosure oder Whistleblowing kannst du sichere Kanäle wie PGP-E-Mail oder privaten Chat nutzen. Siehe [Sicherer Kontakt](SECURE-CONTACT.md).
-
-</td>
-<td width="50%" valign="top">
-
-### Allgemeine Anfragen
-
-**GitHub Issues**
-
-Für Bugs, Feature Requests und allgemeine Projektdiskussionen bitte den Issue Tracker des jeweiligen Repositorys nutzen.
-
-</td>
-</tr>
-</table>
-
----
+Bugs, Ideen und Zusammenarbeit: Issue im jeweiligen Repository öffnen.
 
 ## Lizenz
 
 Copyright (c) 2026 arn-c0de. Alle Rechte vorbehalten.
-
-
----
 
 <p align="center">
   <em>Alle sicherheitsbezogenen Projekte dienen ausschließlich Bildungs- und Forschungszwecken.</em>
