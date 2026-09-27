@@ -29,7 +29,7 @@ Embedded systems, backend/server integration, Android and web apps. **Languages:
 - **FLUID** — Agent-driven generative UI OS under test across local, cloud and hybrid systems.
 - **ARIS** — Self-hosted voice agent with multiple models and extensible tools, designed for edge hardware.
 - **DeepVision-Web** — Private on-device PCB visual traceability pilot; camera frames stay on the device.
-- ![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square) **QuestLink Linux** — Evidence-led Linux PCVR research for Quest 3 using the stock Quest Link receiver over USB. Early tester access is available on request; it is an entry point into a future multiplayer VR simulation world.
+- **QuestLink Linux** — Phase 1 of an independent VR simulation world in Rust, without Meta application software. Multiplayer sessions will connect PC and VR users in the same world; complete simulation is a future goal. Early tester access is available on request.
 
 ## Tech Stack
 

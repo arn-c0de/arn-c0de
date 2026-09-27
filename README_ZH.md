@@ -29,7 +29,7 @@
 - **FLUID** — 智能体驱动的生成式 UI 系统，测试本地、云端及混合部署。
 - **ARIS** — 可自托管的多模型语音智能体，工具可扩展，面向边缘设备。
 - **DeepVision-Web** — 私有的设备端 PCB 视觉追溯试点；相机画面保留在设备上。
-- ![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square) **QuestLink Linux** — 面向 Quest 3 的循证 Linux PCVR 研究，通过 USB 使用原生 Quest Link 接收端。首批测试资格可按需申请；该项目是迈向未来多人 VR 模拟世界的起点。
+- **QuestLink Linux** — 第一阶段：用 Rust 构建一个独立的 VR 模拟世界，不使用 Meta 应用软件。多人会话将让 PC 与 VR 用户置身同一世界；完整模拟是未来目标。首批测试资格可按需申请。
 
 ## 技术栈
 
