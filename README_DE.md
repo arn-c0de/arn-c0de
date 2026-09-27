@@ -29,6 +29,7 @@ Embedded Systems, Backend/Server, Android und Web. **Sprachen:** Deutsch, Englis
 - **FLUID** — Agentengesteuertes generatives UI-OS im Test mit lokalen, Cloud- und Hybridsystemen.
 - **ARIS** — Selbst gehosteter Sprachagent mit mehreren Modellen und erweiterbaren Tools für Edge-Hardware.
 - **DeepVision-Web** — Privater PCB-Pilot zur visuellen Rückverfolgung auf dem Gerät; Kamerabilder bleiben lokal.
+- ![Private](https://img.shields.io/badge/access-private-lightgrey?style=flat-square) **QuestLink Linux** — Evidenzgeleitete Linux-PCVR-Forschung für Quest 3 über den USB-gestützten Stock-Quest-Link-Empfänger. Erste Testzugänge sind auf Anfrage verfügbar; das Projekt ist der Einstieg in eine künftige Multiplayer-VR-Simulationswelt.
 
 ## Tech-Stack
 
