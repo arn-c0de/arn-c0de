@@ -29,7 +29,7 @@ Sistemi embedded, backend/server, Android e web. **Lingue:** tedesco, inglese. *
 - **FLUID** — OS con interfaccia generativa guidata da agenti, testato su sistemi locali, cloud e ibridi.
 - **ARIS** — Agente vocale self-hosted, multimodello ed estensibile, progettato per hardware edge.
 - **DeepVision-Web** — Pilota privato di tracciabilità visiva PCB sul dispositivo; i frame della fotocamera restano locali.
-- **QuestLink Linux** — Fase 1 per creare un mondo di simulazione VR indipendente in Rust, senza software applicativo Meta. Le sessioni multigiocatore riuniranno utenti PC e VR nello stesso mondo; una simulazione completa è un obiettivo futuro. Il primo accesso per tester è disponibile su richiesta.
+- **[QuestLink Linux](https://github.com/arn-c0de/QLink-preview)** — Fase 1 per creare un mondo di simulazione VR indipendente in Rust, senza software applicativo Meta. Le sessioni multigiocatore riuniranno utenti PC e VR nello stesso mondo; una simulazione completa è un obiettivo futuro. Il primo accesso per tester è disponibile su richiesta.
 
 ## Stack tecnica
 
