@@ -8,7 +8,7 @@
 
 <h1 align="center">arn-c0de (arn-code)</h1>
 <p align="center">
-  <em>Sistemi embedded, strumenti di sicurezza di rete, agenti IA locali & ingegneria dei sistemi.</em>
+  <em>Sistemi embedded, strumenti di sicurezza di rete, agenti IA locali & sviluppo software.</em>
 </p>
 
 ## Sito web
