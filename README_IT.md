@@ -1,8 +1,8 @@
 <h1 align="center">arn-c0de (arn-code)</h1>
 
 <p align="center">
-  <a href="https://arn-c0de.github.io/website/">
-    <img src="https://img.shields.io/badge/arn--c0de.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Sito web" />
+  <a href="https://arn-c0de.de/">
+    <img src="https://img.shields.io/badge/arn--c0de.de-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Sito web" />
   </a>
 </p>
 
