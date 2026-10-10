@@ -1,4 +1,8 @@
 <p align="center">
+  🔎 **arn‑c0de** – Python‑Bibliotheken für Netzwerk‑Automation, Security‑Tools & Embedded‑Entwicklung. ⭐ 33 Stars, 1 Fork.
+</p>
+
+<p align="center">
   <a href="README.md">English</a> | <a href="README_DE.md">Deutsch</a> | <a href="README_ZH.md">中文</a> | <a href="README_FR.md">Français</a> | <a href="README_IT.md">Italiano</a>
   &nbsp;&nbsp;
   <a href="SERVICES.md">
