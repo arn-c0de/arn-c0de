@@ -84,12 +84,6 @@ Embedded Systems, Backend/Server, Android und Web. **Sprachen:** Deutsch, Englis
 ### Flugsimulation
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/InteractiveChecklists?style=flat-square&color=blue)](https://github.com/arn-c0de/InteractiveChecklists/issues) [**InteractiveChecklists**](https://github.com/arn-c0de/InteractiveChecklists) - Begleit- und Standalone-App für DCS World
 
-## Projekte, die ich teile
-
-Projekte anderer, die mir persönlich gefallen, die ich weiterempfehlen möchte oder an denen ich selbst mitarbeite.
-
-- [![Stars](https://img.shields.io/github/stars/VibecodingGermany/Project_Nova?style=flat-square&color=blue)](https://github.com/VibecodingGermany/Project_Nova) [**Project Nova**](https://github.com/VibecodingGermany/Project_Nova) *(Arbeitstitel in Umstellung: „Hashkrieg“)* - Echtzeitstrategiespiel in der Command-&-Conquer-Tradition, umgesetzt mit Unity 6 und C# auf einem deterministischen, Unity-unabhängigen Simulationskern (Lockstep).
-
 ## Soziale Kanäle
 
 <p align="center">
