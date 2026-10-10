@@ -1,17 +1,4 @@
-<p align="center">
-  <a href="README.md">English</a> | <a href="README_DE.md">Deutsch</a> | <a href="README_ZH.md">中文</a> | <a href="README_FR.md">Français</a> | <a href="README_IT.md">Italiano</a>
-  &nbsp;&nbsp;
-  <a href="SERVICES.md">
-    <img src="https://img.shields.io/badge/Collaboration-7F52FF?style=flat-square" alt="协作" valign="middle" />
-  </a>
-</p>
-
 <h1 align="center">arn-c0de (arn-code)</h1>
-<p align="center">
-  <em>嵌入式系统、网络安全工具、本地 AI 智能体与软件开发。</em>
-</p>
-
-## 网站
 
 <p align="center">
   <a href="https://arn-c0de.github.io/website/">
@@ -20,7 +7,11 @@
 </p>
 
 <p align="center">
-  项目、构建版本与联系方式，尽在一处。
+  <a href="README.md">English</a> | <a href="README_DE.md">Deutsch</a> | <a href="README_ZH.md">中文</a> | <a href="README_FR.md">Français</a> | <a href="README_IT.md">Italiano</a>
+  &nbsp;&nbsp;
+  <a href="SERVICES.md">
+    <img src="https://img.shields.io/badge/Collaboration-7F52FF?style=flat-square" alt="协作" valign="middle" />
+  </a>
 </p>
 
 > **2026 年 8 月：** 目前主要开发私有项目，仍可联系。

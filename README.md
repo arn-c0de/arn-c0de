@@ -1,17 +1,4 @@
-<p align="center">
-  <a href="README.md">English</a> | <a href="README_DE.md">Deutsch</a> | <a href="README_ZH.md">中文</a> | <a href="README_FR.md">Français</a> | <a href="README_IT.md">Italiano</a>
-  &nbsp;&nbsp;
-  <a href="SERVICES.md">
-    <img src="https://img.shields.io/badge/Collaboration-7F52FF?style=flat-square" alt="Collaboration" valign="middle" />
-  </a>
-</p>
-
 <h1 align="center">arn-c0de (arn-code)</h1>
-<p align="center">
-  <em>Embedded systems, network security tooling, local AI agents & software development.</em>
-</p>
-
-## Website
 
 <p align="center">
   <a href="https://arn-c0de.github.io/website/">
@@ -20,7 +7,11 @@
 </p>
 
 <p align="center">
-  Projects, builds, and contact options — all in one place.
+  <a href="README.md">English</a> | <a href="README_DE.md">Deutsch</a> | <a href="README_ZH.md">中文</a> | <a href="README_FR.md">Français</a> | <a href="README_IT.md">Italiano</a>
+  &nbsp;&nbsp;
+  <a href="SERVICES.md">
+    <img src="https://img.shields.io/badge/Collaboration-7F52FF?style=flat-square" alt="Collaboration" valign="middle" />
+  </a>
 </p>
 
 > **August 2026:** Working mainly on private projects; still reachable.
