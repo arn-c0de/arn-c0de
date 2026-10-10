@@ -6,6 +6,11 @@
   </a>
 </p>
 
+<h1 align="center">arn-c0de (arn-code)</h1>
+<p align="center">
+  <em>嵌入式系统、网络安全工具、本地 AI 智能体与系统工程。</em>
+</p>
+
 ## 网站
 
 <p align="center">

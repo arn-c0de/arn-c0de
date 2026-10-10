@@ -6,6 +6,11 @@
   </a>
 </p>
 
+<h1 align="center">arn-c0de (arn-code)</h1>
+<p align="center">
+  <em>Embedded systems, network security tooling, local AI agents & systems engineering.</em>
+</p>
+
 ## Website
 
 <p align="center">

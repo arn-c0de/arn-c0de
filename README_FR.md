@@ -6,6 +6,11 @@
   </a>
 </p>
 
+<h1 align="center">arn-c0de (arn-code)</h1>
+<p align="center">
+  <em>Systèmes embarqués, outils de sécurité réseau, agents IA locaux & ingénierie logicielle.</em>
+</p>
+
 ## Site web
 
 <p align="center">
