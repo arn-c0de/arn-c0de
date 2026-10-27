@@ -16,7 +16,7 @@
 
 > **August 2026:** Working mainly on private projects; still reachable.
 
-Embedded systems, backend/server integration, Android and web apps. **Languages:** German, English. **Focus:** Kotlin, Python, C · **Learning:** Rust, C++.
+Embedded systems, backend/server integration, Android and web apps. **Languages:** German, English.
 
 ## Currently Working On
 
@@ -28,8 +28,6 @@ Embedded systems, backend/server integration, Android and web apps. **Languages:
 - **[QuestLink Linux](https://github.com/arn-c0de/QLink-preview)** — Phase 1 of an independent VR simulation world in Rust, without Meta application software. Multiplayer sessions will connect PC and VR users in the same world; complete simulation is a future goal. Early tester access is available on request.
 
 ## Tech Stack
-
-**Languages & frameworks:** Kotlin · Python · C · JavaScript · Flask · FastAPI
 
 **AI, vision & web:** PyTorch · OpenCV · WebAssembly · Emscripten · Web Workers
 

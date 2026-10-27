@@ -16,7 +16,7 @@
 
 > **2026 年 8 月：** 目前主要开发私有项目，仍可联系。
 
-方向：嵌入式、后端/服务器、Android 和 Web。**语言：** 德语、英语。**技术：** Kotlin、Python、C · **学习中：** Rust、C++。
+方向：嵌入式、后端/服务器、Android 和 Web。**语言：** 德语、英语。
 
 ## 我目前在做什么
 
@@ -28,8 +28,6 @@
 - **[QuestLink Linux](https://github.com/arn-c0de/QLink-preview)** — 第一阶段：用 Rust 构建一个独立的 VR 模拟世界，不使用 Meta 应用软件。多人会话将让 PC 与 VR 用户置身同一世界；完整模拟是未来目标。首批测试资格可按需申请。
 
 ## 技术栈
-
-**语言与框架：** Kotlin · Python · C · JavaScript · Flask · FastAPI
 
 **AI、视觉与 Web：** PyTorch · OpenCV · WebAssembly · Emscripten · Web Workers
 

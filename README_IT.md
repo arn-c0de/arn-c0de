@@ -16,7 +16,7 @@
 
 > **Agosto 2026:** Lavoro soprattutto a progetti privati e resto raggiungibile.
 
-Sistemi embedded, backend/server, Android e web. **Lingue:** tedesco, inglese. **Focus:** Kotlin, Python, C · **Studio:** Rust, C++.
+Sistemi embedded, backend/server, Android e web. **Lingue:** tedesco, inglese.
 
 ## A cosa sto lavorando
 
@@ -28,8 +28,6 @@ Sistemi embedded, backend/server, Android e web. **Lingue:** tedesco, inglese. *
 - **[QuestLink Linux](https://github.com/arn-c0de/QLink-preview)** — Fase 1 per creare un mondo di simulazione VR indipendente in Rust, senza software applicativo Meta. Le sessioni multigiocatore riuniranno utenti PC e VR nello stesso mondo; una simulazione completa è un obiettivo futuro. Il primo accesso per tester è disponibile su richiesta.
 
 ## Stack tecnica
-
-**Linguaggi & framework:** Kotlin · Python · C · JavaScript · Flask · FastAPI
 
 **IA, visione & web:** PyTorch · OpenCV · WebAssembly · Emscripten · Web Workers
 
