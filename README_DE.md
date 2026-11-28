@@ -86,7 +86,7 @@ Embedded Systems, Backend/Server, Android und Web. **Sprachen:** Deutsch, Englis
   <a href="https://x.com/arn_c0de">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.youtube.com/@git-arn-c0de">
+  <a href="https://www.youtube.com/@arn-c0de">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
