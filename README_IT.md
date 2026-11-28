@@ -62,6 +62,8 @@ Sistemi embedded, backend/server, Android e web. **Lingue:** tedesco, inglese.
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Launcher firmware minimale che permette di installare e passare tra diversi build firmware ESP32 da una scheda SD.
 
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/PO7-640-Linux-Control-Center?style=flat-square&color=blue)](https://github.com/arn-c0de/PO7-640-Linux-Control-Center/issues) [**PO7-640 Linux Control Center**](https://github.com/arn-c0de/PO7-640-Linux-Control-Center) - Controllo di ventole, temperature e illuminazione RGB/LED su Linux per Acer Predator Orion 7000 (PO7-640): modulo kernel hwmon per il Super I/O IT8637E, CLI e interfaccia Qt 6. Prima release, testata su un solo computer; segnalazioni hardware benvenute. **Licenza:** GPL-2.0-or-later.
+
 ### Sicurezza & crittografia
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - App desktop local-first basata su GnuPG per gestire chiavi PGP, cifrare e firmare messaggi ed esportare backup cifrati delle chiavi. **Licenza:** MIT.
 

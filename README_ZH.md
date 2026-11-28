@@ -62,6 +62,8 @@
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - 极简 ESP32 固件启动器，可从 SD 卡安装并切换不同固件构建。
 
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/PO7-640-Linux-Control-Center?style=flat-square&color=blue)](https://github.com/arn-c0de/PO7-640-Linux-Control-Center/issues) [**PO7-640 Linux Control Center**](https://github.com/arn-c0de/PO7-640-Linux-Control-Center) - 面向 Acer Predator Orion 7000（PO7-640）的 Linux 风扇、温度与 RGB/LED 控制：适用于 IT8637E Super I/O 的 hwmon 内核模块、命令行工具和 Qt 6 图形界面。首个版本，仅在一台机器上测试；欢迎提交硬件报告。**许可证：** GPL-2.0-or-later。
+
 ### 安全与密码学
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - 围绕 GnuPG 构建的本地优先桌面应用，用于管理 PGP 密钥、加密和签名消息，以及导出加密密钥备份。 **许可证：** MIT。
 

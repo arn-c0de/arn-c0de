@@ -62,6 +62,8 @@ Systèmes embarqués, backend/serveurs, Android et web. **Langues :** allemand, 
 
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/ESP32-Multi-OS-Launcher?style=flat-square&color=blue)](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher/issues) [**ESP32-Multi-OS-Launcher**](https://github.com/arn-c0de/ESP32-Multi-OS-Launcher) - Lanceur de firmware minimal permettant d'installer et de basculer entre plusieurs builds ESP32 depuis une carte SD.
 
+- [![Issues](https://img.shields.io/github/issues/arn-c0de/PO7-640-Linux-Control-Center?style=flat-square&color=blue)](https://github.com/arn-c0de/PO7-640-Linux-Control-Center/issues) [**PO7-640 Linux Control Center**](https://github.com/arn-c0de/PO7-640-Linux-Control-Center) - Contrôle des ventilateurs, des températures et de l'éclairage RGB/LED sous Linux pour l'Acer Predator Orion 7000 (PO7-640) : module noyau hwmon pour le Super I/O IT8637E, CLI et interface Qt 6. Première version, testée sur une seule machine ; rapports matériels bienvenus. **Licence :** GPL-2.0-or-later.
+
 ### Sécurité & cryptographie
 - [![Issues](https://img.shields.io/github/issues/arn-c0de/GPG-Meister?style=flat-square&color=blue)](https://github.com/arn-c0de/GPG-Meister/issues) [**GPG-Meister**](https://github.com/arn-c0de/GPG-Meister) - Application desktop local-first autour de GnuPG pour gérer les clés PGP, chiffrer et signer des messages, et exporter des sauvegardes de clés chiffrées. **Licence :** MIT.
 
